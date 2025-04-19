@@ -22,7 +22,7 @@ for i in regexList:
 
 log = re.sub(r'',r'',log)
 
-logName = re.sub(r'(.*)_tavern_Chat.jsonl',r'\1',chatLog)
+logName = re.sub(r'(.*)_tavern_Chat(.*?).jsonl',r'\1\2',chatLog)
 
 print(logName)
 
