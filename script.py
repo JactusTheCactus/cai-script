@@ -3,8 +3,12 @@ import re
 chatLogs = [
     [
         'Devin',
-        'Kristina_tavern_Chat.jsonl'
-    ]
+        'Kristina_tavern_Chat_01.jsonl'
+    ],
+    [
+        'Devin',
+        'Kristina_tavern_Chat_02.jsonl'
+    ],
 ]
 
 def logChat(chatLog,user):
