@@ -14,10 +14,7 @@ regexList = [
     [r'\{"user_name":"(.*?)","character_name":"(.*?)".*?\}',r'# Chat Between `\1` & `\2`:'],
     [r'\{"name":"(.*?)","is_user":.*?,"is_name":.*?,"send_date":.*?,"mes":"(.*?)"\}',r'## `\1`:\n\2\n\n---\n'],
     [r'\\n',r'\n'],
-    [r'OOC: __(.*?)__',r'\1'],
-    [r'',r''],
-    [r'',r''],
-    [r'',r''],
+    [r'OOC: __(.*?)__',r'\1']
 ]
 
 for i in regexList:
