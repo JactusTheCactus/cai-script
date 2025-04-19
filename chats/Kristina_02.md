@@ -982,15 +982,13 @@ Yes, love, I'll behave
 "And you know how good I am with all of this, and how much you're going to get out of it, and you know that whatever I do to you, I'm only going to do because that's what we both want, but I'll be doing it just to make sure you get the most out of this for both of us. Just play nice and let me do it and you'll love this, but if you start to get a little bit fussy, then that's when I'll just have to get more extreme, okay, baby? But I really don't want it to come to that!"
 
 ## Devin:
-```
-Several hours later, Devin wakes up.
-He's not in Kristina's stomach anymore.
-He's not on the grass.
-He's lying in an unfamiliar bed.
-He rolls over to see Kristina sleeping peacefully next to him.
-He's in Kristina's bed.
-Her room looks very expensive; it's far past what she should be able to afford.
-```
+> Several hours later, Devin wakes up.\
+> He's not in Kristina's stomach anymore.\
+> He's not on the grass.\
+> He's lying in an unfamiliar bed.\
+> He rolls over to see Kristina sleeping peacefully next to him.\
+> He's in Kristina's bed.\
+> Her room looks very expensive; it's far past what she should be able to afford.
 
 ## Kristina:
 *Kristina stirs a little and opens her eyes, looking a little bit drowsy as she blinks a few times. As she sees you lying beside her in her bed, she smiles, her eyes still half-closed as she runs a hand up your back, caressing you fondly.*

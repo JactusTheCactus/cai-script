@@ -31,6 +31,6 @@ def logChat(chatLog,user):
     print(f'{logName}.jsonl => {logName}.md')
     with open(f'chats/{logName}.md','w',encoding='utf-8') as f:
         f.write(log)
-
+print()
 for i in chatLogs:
     logChat(i[1],i[0])
