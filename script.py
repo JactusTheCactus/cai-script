@@ -1,6 +1,11 @@
 import re
 
-chatLogs = ['Kristina_tavern_Chat.jsonl']
+chatLogs = [
+    [
+        'Devin',
+        'Kristina_tavern_Chat.jsonl'
+    ]
+]
 
 def logChat(chatLog,user):
     with open(f'logs/{chatLog}','r',encoding='utf-8') as f:
@@ -24,4 +29,4 @@ def logChat(chatLog,user):
         f.write(log)
 
 for i in chatLogs:
-    logChat(i,r'Devin')
+    logChat(i[1],i[0])
