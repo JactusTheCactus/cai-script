@@ -1,16 +1,9 @@
 import re
 
 chatLogs = [
-    [
-        'Devin',
-        'Kristina_tavern_Chat_01.jsonl'
-    ],
-    [
-        'Devin',
-        'Kristina_tavern_Chat_02.jsonl'
-    ],
+    ['Devin','Kristina_tavern_Chat_01.jsonl'],
+    ['Devin','Kristina_tavern_Chat_02.jsonl'],
 ]
-
 def logChat(chatLog,user):
     with open(f'logs/{chatLog}','r',encoding='utf-8') as f:
         log = f.read()
