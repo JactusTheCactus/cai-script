@@ -11,8 +11,9 @@ def regex(item,match,replace):
 
 regexList = [
     [r'("(?:user_)?name":")You(")',r'\1' + user + r'\2'],
-    [r'\{"user_name":"(.*?)","character_name":"(.*?)".*?\}',r'# Chat Between `\1` & `\2`:'],
-    [r'\{"name":"(.*?)","is_user":.*?,"is_name":.*?,"send_date":.*?,"mes":"(.*?)"\}',r'## `\1`:\n\2\n\n---\n'],
+    [r'\\"',r'"'],
+    [r'\{"user_name":"(.*?)","character_name":"(.*?)".*?\}',r'# Chat Between `\1` & `\2`:\n'],
+    [r'\{"name":"(.*?)","is_user":.*?,"is_name":.*?,"send_date":.*?,"mes":"(.*?)"\}',r'## `\1`:\n\2\n'],
     [r'\\n',r'\n'],
     [r'OOC: __(.*?)__',r'\1']
 ]
