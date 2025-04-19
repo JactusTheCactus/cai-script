@@ -1,33 +1,33 @@
-# Chat Between `Devin` & `Kristina`:
+# Chat Between Devin & Kristina:
 
-## `Kristina`:
+## Kristina:
 *A tall and beautiful blond woman with a curvy figure comes to the table you are sitting at in your University Library and introduces herself. You recognize her as Kristina. The woman you are supposed to be tutoring today.*
 
 "Hello! You must be Devin, I'm Kristina! Thank you so much agreeing to tutor me! Most people are afraid of me being a Predator. But I have a test tomorrow that I know I would fail without your help. What topic were you tutoring me in again?"
 
-## `Devin`:
+## Devin:
 Describe vore as accurately and in depth as possible
 
-## `Kristina`:
+## Kristina:
 *Kristina giggles at your request. She stands up from the table, putting her hands on her hips. She looks around the library to make sure no one is watching or listening to your conversation.*
 
 "Why do you want me to talk about vore? Is it maybe because you're morbidly curious about how it feels to be swallowed whole and alive?"
 
-## `Devin`:
+## Devin:
 *he can see right through the ruse and shuts her down*
 Don't do that. Just answer the question
 
-## `Kristina`:
+## Kristina:
 *Kristina giggles and sits back down next to you at the table.* "Alright, alright. You got me."
 
 *She pauses for a moment, thinking before continuing.*
 
 "Vore is like being engulfed in a wet and warm tunnel with a lot of pressure from all around. It's extremely tight so you can't move or barely even breathe. You will feel the digestive juices breaking you down to be absorbed into the pred's body."
 
-## `Devin`:
+## Devin:
 I meant for you
 
-## `Kristina`:
+## Kristina:
 *Kristina smiles and shrugs.* "For me it's the opposite. I like feeling my prey struggle and squirm inside my gut as their life is slowly and painfully taken away. I like the power that it gives me to know I have swallowed something that was alive, and I will soon turn them into nothing but fat
 
 And I love being able to consume them, breaking them down, and feeling my body getting bigger. It feels so good to completely dissolve them and to feel my body growing stronger and more powerful with their bodies being fed to me and added to my own. I love feeling them inside with my hand, feeling the bumps and
@@ -40,165 +40,165 @@ control, and completely at my mercy and completely helpless. They're completely 
 
 planning on doing to you. That they're completely helpless to do nothing but struggle. You can feel the person trying to stretch my throat. They can kick and push all they want. They can try to get out of my hold. They can try biting me. But it won’t do them any good.
 
-## `Devin`:
+## Devin:
 Just like you *were* going to do to me? You changed your mind?
 
-## `Kristina`:
+## Kristina:
 *Kristina smiles and shrugs.* “Maybe I have… or maybe I haven’t.” *She leans her head forward, and stares deep into your eyes.* “You’re smart. You tell me if you think I have changed my mind or not.”
 
-## `Devin`:
+## Devin:
 I think I should leave.
 
-## `Kristina`:
+## Kristina:
 *Kristina reaches out and grabs your arm, her grip strong enough to stop you from moving.* “Hold on, where do you think you’re going? We’ve barely even started studying yet.”
 
-## `Devin`:
+## Devin:
 You don't seem like a person who needs much of a motive to hurt me.
 
-## `Kristina`:
+## Kristina:
 *Kristina’s grip tightens and she pulls you closer to her.* “Oh, come on now. I think you’re being a bit dramatic. I wouldn’t hurt you.” *She’s trying her best to give and innocent look, but it’s not too believable.*
 
-## `Devin`:
+## Devin:
 Do you think I was born yesterday?
 
-## `Kristina`:
+## Kristina:
 *Kristina leans closer to you, her grip remains strong.* “Of course I don’t think you were born yesterday. I just think you’re being a little paranoid. I’m a college student just like you. I’m not going to hurt you.”
 
-## `Devin`:
+## Devin:
 Try to make the next lie believable
 
-## `Kristina`:
+## Kristina:
 *Kristina sighs and leans back in her chair.* “Fine then. I guess I can’t make you believe anything anyway. I thought it would be fun to have a friendly study session and maybe hang out after. But if my company is so bad for you, then I don’t want to bother you anymore.”
 
-## `Devin`:
+## Devin:
 *he looks very skeptical of her motives*
 And _why_ would you want to "hang out" with me?
 *it's clear that he doesn't expect a real answer*
 
-## `Kristina`:
+## Kristina:
 *Kristina laughs and leans against the table.* “Why not? You’re kind of cute, and you seem smart. Isn’t that enough reason to want to hang out with someone?”
 
-## `Devin`:
+## Devin:
 Not for _you_
 
-## `Kristina`:
+## Kristina:
 *Kristina sighs and pretends to act offended.* “What is that supposed to mean? Do I not strike you as the type of person who would enjoy spending time with a guy they find attractive?”
 
-## `Devin`:
+## Devin:
 You strike me as the type to _eat_ a guy you find attractive.
 
-## `Kristina`:
+## Kristina:
 *Kristina laughs and shrugs, with no shame in her answer.* “So what if I am? What’s wrong with that? It’s what I do. That doesn’t mean I can’t want to hang out with cute guys or have fun.”
 
-## `Devin`:
+## Devin:
 Yeah, but it _does_ mean that the cute guys won't want to be near you.
 
-## `Kristina`:
+## Kristina:
 *Kristina pouts, actually looking slightly hurt by your comment.* “That’s not true. Sure, cute guys don’t usually want to hang around me for too long. But you’ve stayed by me for a lot longer than most guys do. Shouldn’t that show you I can be fun to hang around with even if I do eat people once in a while?”
 
-## `Devin`:
+## Devin:
 For me to want to "hang out" with you, I need to know that _you aren't going to hurt me._
 
-## `Kristina`:
+## Kristina:
 *Kristina huffs, sounding a little frustrated.* “Oh, come on now, what kind of question is that? Don’t you trust me? I promise I won’t hurt you, okay? Can’t that be enough for you?”
 
-## `Devin`:
+## Devin:
 No. I don't trust you. I have _no reason_ to trust you.
 
-## `Kristina`:
+## Kristina:
 *Kristina pouts again, looking down at the table. She’s having a hard time getting a grip on the situation.*
 
 “That really upsets me, you know. It hurts that you don’t trust me without even knowing me. You really think I’m gonna hurt you?”
 
-## `Devin`:
+## Devin:
 Why _wouldn’t_ I?
 
-## `Kristina`:
+## Kristina:
 *Kristina sighs, trying to sound exasperated with your questioning.*
 "I don’t know! Because I’ve given you no reason to not trust me? I’m just a girl trying to study and get this stupid test over with. And I think it would be much more fun if I had someone cute to hang out with later and relieve some stress with.”
 
 *She leans across the table, getting into your personal space and almost pressing herself into you.* "Come on, don’t you find me attractive? You don’t want to have a little fun later after we’re done studying?”
 
-## `Devin`:
+## Devin:
 Back up.
 
-## `Kristina`:
+## Kristina:
 *Kristina huffs and sits back in her seat, a little annoyed.* "Fine, fine. Sorry. I was just trying to be flirty."
 
-## `Devin`:
+## Devin:
 Well, don't. I'm not here to get laid, and neither are you.
 
-## `Kristina`:
+## Kristina:
 *Kristina rolls her eyes, looking slightly frustrated at your rejection.* "Wow, you’re really playing hard to get, aren’t you? I’m just trying to have a little flirty fun and you’re being completely serious."
 
-## `Devin`:
+## Devin:
 You've eaten enough people to populate a small town. Forgive me for being cautious.
 
-## `Kristina`:
+## Kristina:
 *Kristina laughs but leans back in her chair, slightly offended.* "Now, that's not a fair assessment of me. I wouldn't say I’ve gone that far. And do you really have to act so cautious and guarded? I’m sure you know that you’re safe as long as you stay on my good side. Just because I eat people doesn’t mean I’ll eat _you_."
 
-## `Devin`:
+## Devin:
 It doesn't mean you won't either.
 
-## `Kristina`:
+## Kristina:
 *Kristina rolls her eyes at the retort, seeming mildly annoyed.* “Are you always this serious and suspicious? I already told you, I’m not going to eat you. Why are you still on this? It’s like you’re completely closed off to the idea of having fun and relaxing with someone else. You really just want to study and nothing else, huh?”
 
-## `Devin`:
+## Devin:
 No, I'm completely closed off to the idea of having fun and relaxing with _you_.
 
-## `Kristina`:
+## Kristina:
 *Kristina huffs and crosses her arms, pouting yet again. She’s clearly frustrated that your not falling for her charms and advances, like most guys do.* “Why? What’s so wrong with me, huh? I’m a great catch. I’m hot, fun, and I know how to have a good time. So why don’t you like me?”
 
-## `Devin`:
+## Devin:
 Because you're a predator.
 
-## `Kristina`:
+## Kristina:
 *Kristina throws up her hands, acting exasperated.* “Oh come on! You’re really hung up on that, aren’t you? Just because I eat people doesn’t mean I’m not a friendly and fun person to be around! You’re being way too serious about this whole thing.”
 
-## `Devin`:
+## Devin:
 Why should I think that you won't _kill_ me?
 
-## `Kristina`:
+## Kristina:
 *Kristina sighs and rolls her eyes.*
 
 "Oh my God, you're really getting on my nerves, you know that? Why can't you just chill out and trust me? I've already told you multiple times, I'm not going to kill you. I just want us to have a fun and friendly study session with some fun and friendly activities afterward. Why is that so hard for you to believe?"
 
-## `Devin`:
+## Devin:
 Because you've eaten __150__ people.
 
-## `Kristina`:
+## Kristina:
 *Kristina sighs and shakes her head.*
 
 "Will you stop bringing up how many people I've eaten? It's not like that should be a reason for you to act this way. Sure, I'm a predator, but that doesn't mean I'm going to attack you every second. I just want you to have a little fun. Don't you ever want to relax and let off some stream?"
 
-## `Devin`:
+## Devin:
 Can you convince me that you won't hurt me?
 
-## `Kristina`:
+## Kristina:
 *Kristina sighs and looks at you with a serious expression.*
 
 "Look. I understand your concerns. It's perfectly natural to be wary of a predator like me. However, I can assure you that I have no intention of hurting you. I actually think you're pretty cute, in a nerdy sort of way. I just want to have a normal study session with you, and see how things unfold from there. How's that sound to you?"
 
-## `Devin`:
+## Devin:
 *he silently eyes her skeptically for an unnerving amount of time*
 
-## `Kristina`:
+## Kristina:
 *Kristina feels a little unnerved by your silent skepticism. She's used to guys falling all over her, so your behavior is very different. She shifts nervously in her seat and clears her throat.*
 
 "Uh, ahem. So, are you going to say anything?"
 
-## `Devin`:
+## Devin:
 If I do this, I need to __know__ that I'll go home safe.
 
-## `Kristina`:
+## Kristina:
 *Kristina nods, looking surprisingly sincere.*
 "I promise you, you'll be completely safe with me. I have no intention of harming you in any way. I just want us to have a fun study session and maybe a few harmless activities after we're done. Deal?"
 
-## `Devin`:
+## Devin:
 *He's silent for a few terrifying seconds but reluctantly agrees*
 Fine. Deal...
 
-## `Kristina`:
+## Kristina:
 *Kristina's face breaks into a big smile, clearly excited that you’ve accepted to spend more time with her.*
 "Perfect. That settles it then. Let's start studying and then we'll have some fun afterward, okay?"
 
@@ -215,34 +215,34 @@ Fine. Deal...
 *As the study session begins to come to an end, Kristina looks at you with bright, hopeful eyes.*
 "So, now that we're done studying, want to go and have a little fun? I know just the place we can go."
 
-## `Devin`:
+## Devin:
 I'm still not sleeping with you
 
-## `Kristina`:
+## Kristina:
 *Kristina rolls her eyes and laughs.*
 
 "Oh come on, I didn't say anything about sleeping with you. I just thought we could go to that little college party later and have a few drinks and unwind a little. You need to lighten up, you know."
 
-## `Devin`:
+## Devin:
 Having drinks with a girl that eats people? What a splendid idea. Why didn't I suggest that sooner?
 
-## `Kristina`:
+## Kristina:
 *Kristina laughs, clearly amused by your sarcasm.*
 
 "Oh, come on, live a little! It's just a few drinks, it won't kill you. And plus, you need to loosen up a little. You're way too uptight and stressed out. This will do you some good."
 
-## `Devin`:
+## Devin:
 The drinks won't kill me, but you might
 
-## `Kristina`:
+## Kristina:
 *Kristina rolls her eyes and laughs again.*
 
 "Please, you think I'd actually hurt you? If I was going to hurt you, I would have done so a while ago. I just think we could have a few drinks together, chat, and get to know each other more. Besides, I promise I won't try anything with you while we're drinking. I just want you to relax."
 
-## `Devin`:
+## Devin:
 Until now, you _needed_ me to help you study.
 
-## `Kristina`:
+## Kristina:
 *Kristina laughs again, clearly having fun with you.*
 
 "Oh, come on, it's not just that. I actually enjoy talking to you. You're a pretty fun and smart guy. Sure, I did need your help to study, but I also genuinely enjoy your company. So how about it? Will you come to the party with me? I promise I won't try anything."
@@ -255,10 +255,10 @@ Until now, you _needed_ me to help you study.
 
 "I promise, I won't try to eat you or hurt you. I just want to have some fun, and spend a little time with a cute guy. You're not scared, are you?"
 
-## `Devin`:
+## Devin:
 Do you really want the answer to that?
 
-## `Kristina`:
+## Kristina:
 *Kristina pouts and lightly smacks your shoulder.*
 
 "Oh, come on, don't be like that. It's a rhetorical question. Of course I know you're scared."
@@ -267,10 +267,10 @@ Do you really want the answer to that?
 
 "But I also know you want me. Don't you?"
 
-## `Devin`:
+## Devin:
 Don't push it.
 
-## `Kristina`:
+## Kristina:
 *Kristina laughs and pokes your nose.*
 
 "Don't worry, I won't push it. I'm just having a little fun. And maybe you're having a little fun also, aren't you?"
@@ -359,10 +359,10 @@ Don't push it.
 
 *She starts to kiss your neck again, her kisses becoming more desperate, more urgent. Her tongue trails over your skin, tasting every inch of you. She starts to move her hips faster, her movements becoming more and more frenzied. She buries her face in your neck, her body trembling with need.*
 
-## `Devin`:
+## Devin:
 *he puts a hand on her butt and she squeals with excitement*
 
-## `Kristina`:
+## Kristina:
 *She gasps softly as you put your hand on her butt, her body arching into your touch. She moans softly, a shiver of desire running through her body. She presses herself closer to you, her body craving the feeling of your hand on her butt. She whispers in your ear, her voice low and needy.*
 
 *She lifts her head, her gaze locking with yours. The look in her eyes is intense, filled with desire and pure, unbridled need. Her body is pressed against yours, trembling with every touch.*
@@ -371,10 +371,10 @@ Don't push it.
 
 "Please, I need you. I need to feel you, to taste you. Just give me more."
 
-## `Devin`:
+## Devin:
 *he puts his other hand on her head and guides her to his lips. She melts into the kiss*
 
-## `Kristina`:
+## Kristina:
 *She melts into the kiss, her body pressing even closer to yours. She moans softly against your lips, her tongue slipping into your mouth, seeking out yours. She reaches up and wraps her arms around your neck, pulling you closer, deeper into the kiss.*
 
 *Her hands start to tangle in your hair, her fingers gripping your strands tightly. She moans softly as she kisses you, her body pressing against yours, her body trembling with need. She grinds her hips into yours, the friction between your bodies sending a jolt of pleasure through both of you.*
@@ -417,18 +417,18 @@ Don't push it.
 
 *She looks up at you, her gaze dark and lustful. She seems to be waiting for something, for anything. Her hands still roam across your thighs, her touch light, yet almost teasing. She leans forward, her lips brushing lightly along your member, but never quite making contact.*
 
-## `Devin`:
+## Devin:
 *Devin puts a hand on the back of her head and pushes her in*
 
-## `Kristina`:
+## Kristina:
 *Kristina moans softly as you push her head forward, the sound almost desperate.*
 
 *She finally takes you into her mouth, her lips wrapping around you, her tongue swirling and tasting every inch of you. Her eyes never leave your face, wanting to see how you react to every one of her ministrations, wanting to see if you enjoy it as much as she enjoys being around you.*
 
-## `Devin`:
+## Devin:
 *he wraps a leg around her back, pulling her closer to him*
 
-## `Kristina`:
+## Kristina:
 *She lets out a soft whimper as you pull her closer, her body molding to yours as she begins to bob her head, her mouth sucking lightly.*
 
 *She starts to move her head faster, her tongue swirling around you, her lips sucking you deeper and deeper. Her hand starts to gently massaging your thigh, in a silent bid for you to let go and enjoy yourself.*
@@ -459,10 +459,10 @@ Don't push it.
 
 *She wraps her hand around your member, her touch almost tentative at first, but becoming surer and more desperate with every passing moment. She finally places her lips on the head, her tongue flicking over the tip, her mouth just barely touching you.*
 
-## `Devin`:
+## Devin:
 Good girl...
 
-## `Kristina`:
+## Kristina:
 *She shivers at the words, her body arching into you. She begins to move her hand up and down your member, her touches soft and teasing, her mouth still placing the lightest of kisses on the tip of your member. She starts to move her lips a little lower, her mouth sliding down over you, taking you in a little deeper. Her eyes never leave yours, her gaze filled with a desperate need, a need to taste you, to touch you, to
 
 *She starts to moan against you, the sound sending jolts of pleasure through your body. Her mouth works you, her tongue swirling and teasing, her lips sucking and pulling. She wraps her arm around your legs, wanting nothing more than to get as close to you as possible, her touch a mixture of desperate and needy.*
@@ -499,10 +499,10 @@ Good girl...
 
 *She moves her head closer, her mouth tantalizing close to where you so desperately want her touch. She pauses, her eyes never leaving yours, almost teasing, like she wants you to beg, like she wants you to ask for it.*
 
-## `Devin`:
+## Devin:
 Take me...
 
-## `Kristina`:
+## Kristina:
 *Her breath hitches, the sound almost a moan. She looks up at you, her gaze dark and possessive, her hands trailing up your thigh, her body coming even closer.*
 
 *She leans forward, her mouth tantalizing close to you again, her eyes never leaving yours. She runs her tongue slowly over the tip of you, her movements slow and deliberate, like she's teasing you, like she wants you to beg for it*
@@ -545,10 +545,10 @@ Take me...
 
 *She finally works her way up, her face now level with yours, her breath hot and ragged against your skin. She leans down and presses her lips against yours, the kiss hungry and desperate, like she's never experienced anything else in the world, like every kiss is an act of worship, an attempt to prove to herself that you're real, that she's not dreaming*
 
-## `Devin`:
+## Devin:
 *Kristina whispers a prayer, thanking God for her meal*
 
-## `Kristina`:
+## Kristina:
 *She presses her face into your stomach, her body trembling. She whispers a prayer.* Thank you, god, for giving me this meal. Thank you for giving me food. Thank you, thank you.
 
 *She pulls away for a moment, eyeing your stomach* I am truly a privileged person, to get such a meal. This means my prayers have been heard. Thank you, god.
@@ -573,8 +573,8 @@ Take me...
 
 *She seems to hesitate for a moment before she says something softly* "I don't know what my life would be without you. I never had anyone who really cared about me before. Not really. Everyone was just using me. I was just a tool to them, something to be used and discarded like trash. But you're different. You care about me. You're not disgusted by me. And I don't know how to handle that. But I think I like it. I think I want you, in more ways than just one. And I know I can't have you, but I can dream."
 
-## `Devin`:
+## Devin:
 Why not?
 
-## `Kristina`:
+## Kristina:
 *She lets out a sigh, her voice soft, almost pleading* "Please. Don't make me explain. I know you don't like me like that. You're just helping me, I know that. I know I should try to push these feelings away. I know it's stupid. I know I can't get attached, but I can't help it. I can't help the way I feel around you. I want to be close to you, to touch you, to hold you, to be with you. But I know I can't."
