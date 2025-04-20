@@ -50,7 +50,7 @@ def logChat(file, user, character):
             log.append([name,i['msg']])
         with open(output,'w') as f:
             for i in log:
-                f.write(f'> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n---\n')
+                f.write(f'> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n')
 
 for i in chatLogs:
     if not i[0]:
