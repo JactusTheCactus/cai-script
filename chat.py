@@ -37,8 +37,7 @@ def logChat(format,chatLog,user=None,prologue=None,charIdList=None):
             [r'\\"',r'"'],
             [r'\{"user_name":"(.*?)","character_name":"(.*?)".*?\}',r'# Chat Between \1 & \2:\n'],
             [r'\{"name":"(.*?)","is_user":.*?,"is_name":.*?,"send_date":.*?,"mes":"(.*?)"\}',r'## \1:\n\2\n'],
-            [r'\\n',r'\n'],
-            [r'OOC: __(.*?)__',r'\1']
+            [r'\\n',r'\n']
         ]
         for i in regexList:
             output = regex(log,i[0],i[1])
