@@ -1,5 +1,6 @@
 import os
 import subprocess
+import re
 structure = {
     'chats': {
         'files': {},
@@ -8,7 +9,8 @@ structure = {
     'lore': {
         'files': {},
         'md': {},
-    }
+    },
+    'NotebookLM': {}
 }
 scripts = [
     'chat',
@@ -22,10 +24,11 @@ def create_dirs(base, tree):
 create_dirs('.', structure)
 scripts_dir = 'scripts'
 for file in os.listdir(scripts_dir):
-    if file.endswith('.py'):
+    if file.endswith('.py') and not file.startswith('fileRename'):
         full_path = os.path.join(scripts_dir, file)
         if file == scripts[0] + '.py':
             print('Generating Chat Logs...')
         elif file == scripts[1] + '.py':
             print('Generating Lore Books...')
         subprocess.run(['python', full_path])
+print('use scripts/fileRename.py to create hex file names')

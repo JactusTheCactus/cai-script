@@ -1,10 +1,10 @@
 import re
 import json
 chatLogs = [
-    ['Kristina_tavern_Chat_01.jsonl','Devin','Kristina'],
-    ['Kristina_tavern_Chat_02.jsonl','Devin','Kristina'],
-    ['Typh_tavern_Chat.jsonl','Sadie','Typh'],
-    ['chat-0759.json','Devin','Sadie']
+    ['646576696e+6b72697374696e61-01.jsonl','Devin','Kristina'],
+    ['646576696e+6b72697374696e61-02.jsonl','Devin','Kristina'],
+    ['7361646965+74797068-01.jsonl','Sadie','Typh'],
+    ['646576696e+7361646965-01.json','Devin','Sadie']
 ]
 def logChat(file, user, character):
     def fileMatch(file, extension):
