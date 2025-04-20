@@ -27,23 +27,44 @@ lettersDict = {
     'y': '79',
     'z': '7a',
     '&': '+',
-    '0': '0',
-    '1': '1',
-    '2': '2',
-    '3': '3',
-    '4': '4',
-    '5': '5',
-    '6': '6',
-    '7': '7',
-    '8': '8',
-    '9': '9',
 }
-print()
-input = str(input("User's Name and Characters' Name (list by order of importance. join with '&'. end with '#XX', in order of age):\nor\nlore book topic:\n")).lower()
+lettersArr = [
+    '0',
+    '1',
+    '2',
+    '3',
+    '4',
+    '5',
+    '6',
+    '7',
+    '8',
+    '9',
+    '.md',
+    '.json',
+    '.jsonl'
+]
+input = str(input("""
+User's Name and Characters' Name. List by order of importance. join with '&'. end with '#XX', in order of age.
+Or
+Lore book topic.
+
+Example A:
+>> User & Character1 & Character2 #01
+>> 75736572+6368617261637465721+6368617261637465722-01.json
+Example B:
+>> lorebook.json
+>> 6c6f7265626f6f6b.json
+
+""")).lower()
 outputList = []
 for i in input:
+    if i == '.':
+        outputList.append(re.sub(r'(?:.*)\.(.*)',r'.\1',input))
+        break
     if i in lettersDict:
         outputList.append(lettersDict[i])
+    elif i in lettersArr:
+        outputList.append(i)
     else:
         outputList.append('-')
 output = ''.join(outputList)
