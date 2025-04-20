@@ -1,6 +1,6 @@
 import re
 import json
-chatLogs = [
+chatLogs = [ # [fileName, User, MainCharacter]
     ['646576696e+6b72697374696e61-01.jsonl','Devin','Kristina'],
     ['646576696e+6b72697374696e61-02.jsonl','Devin','Kristina'],
     ['7361646965+74797068-01.jsonl','Sadie','Typh'],
@@ -31,7 +31,7 @@ def logChat(file, user, character):
         # Get the result
         with open(output,'w') as f:
             for i in extracted_data:
-                f.write(f'# {i[0]}:\n{i[1]}\n\n---\n')
+                f.write(f'> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n')
     elif fileMatch(file,'json'):
         charIdDict = {
             '6b3b0be9-4bbf-449a-a281-0d9298b8bf49': 'Devin',
@@ -50,7 +50,7 @@ def logChat(file, user, character):
             log.append([name,i['msg']])
         with open(output,'w') as f:
             for i in log:
-                f.write(f'# {i[0]}:\n{i[1]}\n\n---\n')
+                f.write(f'> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n---\n')
 
 for i in chatLogs:
     if not i[0]:
