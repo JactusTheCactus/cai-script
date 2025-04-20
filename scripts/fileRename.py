@@ -27,9 +27,19 @@ lettersDict = {
     'y': '79',
     'z': '7a',
     '&': '+',
+    '0': '0',
+    '1': '1',
+    '2': '2',
+    '3': '3',
+    '4': '4',
+    '5': '5',
+    '6': '6',
+    '7': '7',
+    '8': '8',
+    '9': '9',
 }
 print()
-input = str(input("User's Name and Characters' Name (list by order of importance):\nor\nlore book topic:\n")).lower()
+input = str(input("User's Name and Characters' Name (list by order of importance. join with '&'. end with '#XX', in order of age):\nor\nlore book topic:\n")).lower()
 outputList = []
 for i in input:
     if i in lettersDict:
