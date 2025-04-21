@@ -1,18 +1,30 @@
 import re
 import json
-chatLogs = [ # [fileName, User, MainCharacter]
-    ['646576696e+6b72697374696e61-01.jsonl','Devin','Kristina'],
-    ['646576696e+6b72697374696e61-02.jsonl','Devin','Kristina'],
-    ['7361646965+74797068.jsonl','Sadie','Typh'],
-    ['646576696e+7361646965.json','Devin','Sadie'],
-    ['726f7279+6c65696c61.json','Rory','Leila']
+import os
+from globalFunctions import hexRename
+chatLogs = [
+    'devin&kristina-01.jsonl',
+    'devin&kristina-02.jsonl',
+    'sadie&typh.jsonl',
+    'devin&sadie.json',
+    'rory&leila.json'
 ]
-def logChat(file, user, character):
+def getNames(file):
+    capList = []
+    basename = os.path.splitext(file)[0]
+    lowerList = basename.split("&")
+    for name in lowerList:
+        capList.append(name.capitalize())
+    return capList
+def logChat(file):
+    names = getNames(file)
+    user = names[0]
+    character = names[1]
     def fileMatch(file, extension):
         pattern = r'.*\.(' + extension + r')$'
         return bool(re.match(pattern, file))
     input = f'chats/files/{file}'
-    output = f'chats/md/{re.sub(r'^(.*)\..*$',r'\1.md',file)}'
+    output = f'chats/md/{hexRename(re.sub(r'^(.*)\..*$',r'\1.md',file))}'
     if fileMatch(file,'jsonl'):
         # Read the JSONL file
         with open(input, "r", encoding="utf-8") as f:
@@ -56,10 +68,4 @@ def logChat(file, user, character):
                 f.write(f'> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n')
 
 for i in chatLogs:
-    if not i[0]:
-        print('file identifier missing')
-    elif not i[1]:
-        print('user missing')
-    elif not i[2]:
-        print('character missing')
-    logChat(i[0],i[1],i[2])
+    logChat(i)

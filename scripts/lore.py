@@ -1,6 +1,7 @@
 import json
 import os
 import re
+from globalFunctions import hexRename
 
 loreList = os.listdir('lore\\files')
 
@@ -11,5 +12,5 @@ for file in loreList:
     for i in lore['entries']:
         if i['enabled'] == True:
             output += f'> # {i['name']}\n> {i['entry']}\n\n'
-    with open(f'lore/md/{re.sub(r'^(.*)\.json$',r'\1.md',file)}','w',encoding='utf-8') as f:
+    with open(f'lore/md/{hexRename(re.sub(r'^(.*)\.json$',r'\1.md',file))}','w',encoding='utf-8') as f:
         f.write(output)
