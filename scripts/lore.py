@@ -9,6 +9,8 @@ for file in loreList:
     inputFile = os.path.join('lore','files',file)
     outputFile = os.path.join('lore','md',enigmaRename(re.sub(r'^(.*)\.json$',r'\1.md',file)))
     output = ''
+    outputName = re.sub(r'lore\\md\\(.*)',r'\1',outputFile)
+    inputName = re.sub(r'lore\\files\\(.*)',r'\1',inputFile)
     with open(inputFile,'r',encoding='utf-8') as f:
         lore = json.load(f)
     for i in lore['entries']:
@@ -17,4 +19,5 @@ for file in loreList:
     with open(outputFile,'w',encoding='utf-8') as f:
         f.write(output)
     with open('log.md','a',encoding='utf-8') as f:
-        f.write(f'- created `{re.sub(r'lore\\md\\(.*)',r'\1',outputFile)}` from `{re.sub(r'lore\\files\\(.*)',r'\1',inputFile)}`\n')
+        f.write(f'- created `{outputName}` from `{inputName}`\n')
+    print(f'Generating {outputName}...')

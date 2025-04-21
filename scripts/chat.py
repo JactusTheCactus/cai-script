@@ -23,6 +23,8 @@ def logChat(file):
         return bool(re.match(pattern, file))
     input = os.path.join('chats','files',file)
     output = os.path.join('chats','md',enigmaRename(re.sub(r'^(.*)\..*$',r'\1.md',file)))
+    outputFile = re.sub(r'chats\\md\\(.*)',r'\1',output)
+    inputFile = re.sub(r'chats\\files\\(.*)',r'\1',input)
     if fileMatch(file,'jsonl'):
         with open(input, "r", encoding="utf-8") as f:
             data = [json.loads(line) for line in f if line.strip()]
@@ -53,6 +55,7 @@ def logChat(file):
             for i in log:
                 f.write(f'> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n')
     with open('log.md','a',encoding='utf-8') as f:
-        f.write(f'- created `{re.sub(r'chats\\md\\(.*)',r'\1',output)}` from `{re.sub(r'chats\\files\\(.*)',r'\1',input)}`\n')
+        f.write(f'- created `{outputFile}` from `{inputFile}`\n')
+    print(f'Generating {outputFile}...')
 for i in chatLogs:
     logChat(i)
