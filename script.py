@@ -1,5 +1,6 @@
 import os
 import subprocess
+import shutil
 structure = {
     'chats': {
         'files': {},
@@ -15,11 +16,28 @@ scripts = [
     'chat',
     'lore'
 ]
+emptyDirectories = [
+    'chats\\md',
+    'lore\\md',
+    'NotebookLM'
+]
 def create_dirs(base, tree):
     for name, subtree in tree.items():
         path = os.path.join(base, name)
         os.makedirs(path, exist_ok=True)
         create_dirs(path, subtree)
+def clearDirectory(path):
+    for filename in os.listdir(path):
+        file_path = os.path.join(path, filename)
+        try:
+            if os.path.isfile(file_path) or os.path.islink(file_path):
+                os.unlink(file_path)  # remove file or link
+            elif os.path.isdir(file_path):
+                shutil.rmtree(file_path)  # remove directory
+        except Exception as e:
+            print(f'Failed to delete {file_path}. Reason: {e}')
+for dir in emptyDirectories:
+    clearDirectory(dir)
 create_dirs('.', structure)
 with open('log.md','w',encoding='utf-8') as f:
     f.write('')
