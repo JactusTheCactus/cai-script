@@ -22,11 +22,8 @@ def logChat(file):
     input = f'chats/files/{file}'
     output = f'chats/md/{hexRename(re.sub(r'^(.*)\..*$',r'\1.md',file))}'
     if fileMatch(file,'jsonl'):
-        # Read the JSONL file
         with open(input, "r", encoding="utf-8") as f:
             data = [json.loads(line) for line in f if line.strip()]
-
-        # Filter and extract 'name' and 'mes' fields
         extracted_data = [
             [entry.get('name'), entry.get('mes')] 
             for entry in data if next(iter(entry)) != 'user_name'
@@ -36,8 +33,6 @@ def logChat(file):
                 i[0] = user
             elif i[0] == 'Character':
                 i[0] = character
-
-        # Get the result
         with open(output,'w') as f:
             for i in extracted_data:
                 f.write(f'> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n')
@@ -48,7 +43,6 @@ def logChat(file):
             'temp-4ca0ebff-931f-4c0d-a67e-b7a7c344d298_2bad48e7': 'Leila',
             'temp-4ca0ebff-931f-4c0d-a67e-b7a7c344d298_9158f623': 'Rory'
         }
-        # Read the JSON file
         with open(input, "r", encoding="utf-8") as f:
             data = json.load(f)
         log = []
