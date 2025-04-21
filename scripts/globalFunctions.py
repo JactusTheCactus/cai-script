@@ -6,12 +6,12 @@ def hexRename(userInput):
         'k': '6b','l': '6c','m': '6d','n': '6e','o': '6f',
         'p': '70','q': '71','r': '72','s': '73','t': '74',
         'u': '75','v': '76','w': '77','x': '78','y': '79',
-        'z': '7a','&': '+'
+        'z': '7a'
     }
     lettersArr = [
         '0','1','2','3','4',
         '5','6','7','8','9',
-        '.md','.json','.jsonl'
+        '&','.md','.json','.jsonl'
     ]
     userInput = userInput.lower()
     outputList = []
