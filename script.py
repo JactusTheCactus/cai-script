@@ -18,33 +18,34 @@ scripts = [
     'chat',
     'lore'
 ]
-emptyDirectories = [
-    os.path.join('chats','md'),
-    os.path.join('lore','md'),
-    os.path.join('NotebookLM')
-]
 def create_dirs(base, tree):
     for name, subtree in tree.items():
         path = os.path.join(base, name)
         os.makedirs(path, exist_ok=True)
         create_dirs(path, subtree)
 def clearDirectory(path):
-    for filename in os.listdir(path):
-        file_path = os.path.join(path, filename)
-        try:
-            if os.path.isfile(file_path) or os.path.islink(file_path):
-                os.unlink(file_path)
-            elif os.path.isdir(file_path):
-                shutil.rmtree(file_path)
-        except Exception as e:
-            print(f'Failed to delete {file_path}. Reason: {e}')
+    if os.path.exists(path):
+        for filename in os.listdir(path):
+            file_path = os.path.join(path, filename)
+            try:
+                if os.path.isfile(file_path) or os.path.islink(file_path):
+                    os.unlink(file_path)
+                elif os.path.isdir(file_path):
+                    shutil.rmtree(file_path)
+            except Exception as e:
+                print(f'Failed to delete {file_path}. Reason: {e}')
+emptyDirectories = [
+    os.path.join('chats','md'),
+    os.path.join('lore','md'),
+    os.path.join('NotebookLM')
+]
 for dir in emptyDirectories:
     clearDirectory(dir)
 create_dirs('.', structure)
 with open('log.md','w',encoding='utf-8') as f:
     f.write(f'# Seed:\n- `{seedString}`\n')
 scripts_dir = 'scripts'
-print(f'using {seedString} as seed...')
+print(f'\nseed:\n{seedString}\n')
 for file in os.listdir(scripts_dir):
     if file.endswith('.py'):
         full_path = os.path.join(scripts_dir, file)

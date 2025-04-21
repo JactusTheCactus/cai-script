@@ -2,6 +2,8 @@ import re
 import json
 import os
 from globalFunctions import enigmaRename
+with open('charId.json','r',encoding='utf-8') as f:
+    charIdDict = json.load(f)
 chatLogs = os.listdir(os.path.join('chats','files'))
 def getNames(file):
     capList = []
@@ -37,12 +39,6 @@ def logChat(file):
             for i in extracted_data:
                 f.write(f'> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n')
     elif fileMatch(file,'json'):
-        charIdDict = {
-            '6b3b0be9-4bbf-449a-a281-0d9298b8bf49': 'Devin',
-            'temp-4ca0ebff-931f-4c0d-a67e-b7a7c344d298_841893a3': 'Sadie',
-            'temp-4ca0ebff-931f-4c0d-a67e-b7a7c344d298_2bad48e7': 'Leila',
-            'temp-4ca0ebff-931f-4c0d-a67e-b7a7c344d298_9158f623': 'Rory'
-        }
         with open(input, "r", encoding="utf-8") as f:
             data = json.load(f)
         log = []
