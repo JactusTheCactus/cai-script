@@ -1,8 +1,8 @@
 import re
 import json
 import os
-from globalFunctions import hexRename
-chatLogs = os.listdir('chats\\files')
+from globalFunctions import enigmaRename
+chatLogs = os.listdir(os.path.join('chats','files'))
 def getNames(file):
     capList = []
     basename = os.path.splitext(file)[0]
@@ -11,7 +11,7 @@ def getNames(file):
         capList.append(name.capitalize())
     return capList
 with open('log.md','a',encoding='utf-8') as f:
-    f.write(f'## Chats:\n')
+    f.write(f'# Chats:\n')
 def logChat(file):
     names = getNames(file)
     user = names[0]
@@ -19,8 +19,8 @@ def logChat(file):
     def fileMatch(file, extension):
         pattern = r'.*\.(' + extension + r')$'
         return bool(re.match(pattern, file))
-    input = f'chats/files/{file}'
-    output = f'chats/md/{hexRename(re.sub(r'^(.*)\..*$',r'\1.md',file))}'
+    input = os.path.join('chats','files',file)
+    output = os.path.join('chats','md',enigmaRename(re.sub(r'^(.*)\..*$',r'\1.md',file)))
     if fileMatch(file,'jsonl'):
         with open(input, "r", encoding="utf-8") as f:
             data = [json.loads(line) for line in f if line.strip()]
@@ -57,6 +57,6 @@ def logChat(file):
             for i in log:
                 f.write(f'> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n')
     with open('log.md','a',encoding='utf-8') as f:
-        f.write(f'- Created: `{output}`\n    - From: `{input}`\n')
+        f.write(f'- created `{re.sub(r'chats\\md\\(.*)',r'\1',output)}` from `{re.sub(r'chats\\files\\(.*)',r'\1',input)}`\n')
 for i in chatLogs:
     logChat(i)

@@ -1,6 +1,8 @@
 import os
 import subprocess
 import shutil
+from scripts.globalFunctions import seed
+seedString = '.'.join(str(strSeed) for strSeed in seed)
 structure = {
     'chats': {
         'files': {},
@@ -17,9 +19,9 @@ scripts = [
     'lore'
 ]
 emptyDirectories = [
-    'chats\\md',
-    'lore\\md',
-    'NotebookLM'
+    os.path.join('chats','md'),
+    os.path.join('lore','md'),
+    os.path.join('NotebookLM')
 ]
 def create_dirs(base, tree):
     for name, subtree in tree.items():
@@ -40,10 +42,11 @@ for dir in emptyDirectories:
     clearDirectory(dir)
 create_dirs('.', structure)
 with open('log.md','w',encoding='utf-8') as f:
-    f.write('')
+    f.write(f'# Seed:\n- `{seedString}`\n')
 scripts_dir = 'scripts'
+print(f'using {seedString} as seed...')
 for file in os.listdir(scripts_dir):
-    if file.endswith('.py') and not file.startswith('fileRename'):
+    if file.endswith('.py'):
         full_path = os.path.join(scripts_dir, file)
         if file == scripts[0] + '.py':
             print('Generating Chat Logs...')
