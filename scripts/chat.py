@@ -4,7 +4,8 @@ chatLogs = [ # [fileName, User, MainCharacter]
     ['646576696e+6b72697374696e61-01.jsonl','Devin','Kristina'],
     ['646576696e+6b72697374696e61-02.jsonl','Devin','Kristina'],
     ['7361646965+74797068-01.jsonl','Sadie','Typh'],
-    ['646576696e+7361646965-01.json','Devin','Sadie']
+    ['646576696e+7361646965-01.json','Devin','Sadie'],
+    ['726f7279+6c65696c61-01.json','Rory','Leila']
 ]
 def logChat(file, user, character):
     def fileMatch(file, extension):
@@ -35,7 +36,9 @@ def logChat(file, user, character):
     elif fileMatch(file,'json'):
         charIdDict = {
             '6b3b0be9-4bbf-449a-a281-0d9298b8bf49': 'Devin',
-            'temp-4ca0ebff-931f-4c0d-a67e-b7a7c344d298_841893a3': 'Sadie'
+            'temp-4ca0ebff-931f-4c0d-a67e-b7a7c344d298_841893a3': 'Sadie',
+            'temp-4ca0ebff-931f-4c0d-a67e-b7a7c344d298_2bad48e7': 'Leila',
+            'temp-4ca0ebff-931f-4c0d-a67e-b7a7c344d298_9158f623': 'Rory'
         }
         # Read the JSON file
         with open(input, "r", encoding="utf-8") as f:
