@@ -3,9 +3,9 @@ import json
 chatLogs = [ # [fileName, User, MainCharacter]
     ['646576696e+6b72697374696e61-01.jsonl','Devin','Kristina'],
     ['646576696e+6b72697374696e61-02.jsonl','Devin','Kristina'],
-    ['7361646965+74797068-01.jsonl','Sadie','Typh'],
-    ['646576696e+7361646965-01.json','Devin','Sadie'],
-    ['726f7279+6c65696c61-01.json','Rory','Leila']
+    ['7361646965+74797068.jsonl','Sadie','Typh'],
+    ['646576696e+7361646965.json','Devin','Sadie'],
+    ['726f7279+6c65696c61.json','Rory','Leila']
 ]
 def logChat(file, user, character):
     def fileMatch(file, extension):
