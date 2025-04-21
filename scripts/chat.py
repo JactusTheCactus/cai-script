@@ -10,6 +10,8 @@ def getNames(file):
     for name in lowerList:
         capList.append(name.capitalize())
     return capList
+with open('log.md','a',encoding='utf-8') as f:
+    f.write(f'## Chats:\n')
 def logChat(file):
     names = getNames(file)
     user = names[0]
@@ -60,6 +62,7 @@ def logChat(file):
         with open(output,'w') as f:
             for i in log:
                 f.write(f'> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n')
-
+    with open('log.md','a',encoding='utf-8') as f:
+        f.write(f'- Created: `{output}`\n    - From: `{input}`\n')
 for i in chatLogs:
     logChat(i)

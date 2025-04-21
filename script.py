@@ -21,6 +21,8 @@ def create_dirs(base, tree):
         os.makedirs(path, exist_ok=True)
         create_dirs(path, subtree)
 create_dirs('.', structure)
+with open('log.md','w',encoding='utf-8') as f:
+    f.write('')
 scripts_dir = 'scripts'
 for file in os.listdir(scripts_dir):
     if file.endswith('.py') and not file.startswith('fileRename'):
@@ -42,3 +44,4 @@ README = """# NOTICE
 print("Generating README.md")
 with open('README.md','w',encoding='utf-8') as f:
     f.write(README)
+print("Generating log.md")
