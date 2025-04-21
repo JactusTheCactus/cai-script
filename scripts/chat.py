@@ -2,13 +2,7 @@ import re
 import json
 import os
 from globalFunctions import hexRename
-chatLogs = [
-    'devin&kristina-01.jsonl',
-    'devin&kristina-02.jsonl',
-    'sadie&typh.jsonl',
-    'devin&sadie.json',
-    'rory&leila.json'
-]
+chatLogs = os.listdir('chats\\files')
 def getNames(file):
     capList = []
     basename = os.path.splitext(file)[0]
