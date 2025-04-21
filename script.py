@@ -1,7 +1,5 @@
-# test gh action
 import os
 import subprocess
-import re
 structure = {
     'chats': {
         'files': {},
