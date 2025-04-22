@@ -40,7 +40,7 @@ emptyDirectories = [
     os.path.join('lore','md'),
     os.path.join('NotebookLM')
 ]
-log = os.path.join('logs',f'{seed}.md')
+log = os.path.join('logs',f'{seedString}.md')
 for dir in emptyDirectories:
     clearDirectory(dir)
 create_dirs('.', structure)
