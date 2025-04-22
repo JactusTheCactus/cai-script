@@ -1,7 +1,7 @@
 import re
 import json
 import os
-from globalFunctions import enigmaRename
+from globalFunctions import enigmaRename, seedString
 with open('charId.json','r',encoding='utf-8') as f:
     charIdDict = json.load(f)
 chatLogs = os.listdir(os.path.join('chats','files'))
