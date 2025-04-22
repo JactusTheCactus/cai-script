@@ -24,3 +24,75 @@
 - created `chats/md/snscf&ybudo.md` from `chats/files/devin&sadie.json`
 # Lore Books:
 - created `lore/md/gbds.md` from `lore/files/vore.json`
+# Chats:
+- created `chats/md/uvhqq&ovsjyezq-02.md` from `chats/files/devin&kristina-02.jsonl`
+- created `chats/md/uvhqq&ovsjyezq-01.md` from `chats/files/devin&kristina-01.jsonl`
+- created `chats/md/jivqd&iqxe.md` from `chats/files/sadie&typh.jsonl`
+- created `chats/md/nnus&zwhiv.md` from `chats/files/rory&leila.json`
+- created `chats/md/uvhqq&epjbb.md` from `chats/files/devin&sadie.json`
+# Lore Books:
+- created `lore/md/zlzo.md` from `lore/files/vore.json`
+# Chats:
+- created `chats/md/rlomu&ostezyho-02.md` from `chats/files/devin&kristina-02.jsonl`
+- created `chats/md/rlomu&ostezyho-01.md` from `chats/files/devin&kristina-01.jsonl`
+- created `chats/md/grtmc&ahcd.md` from `chats/files/sadie&typh.jsonl`
+- created `chats/md/cvlc&wqjfy.md` from `chats/files/rory&leila.json`
+- created `chats/md/rlomu&wkste.md` from `chats/files/devin&sadie.json`
+# Lore Books:
+- created `lore/md/dtwz.md` from `lore/files/vore.json`
+# Chats:
+- created `chats/md/duwda&ubzkulcm-02.md` from `chats/files/devin&kristina-02.jsonl`
+- created `chats/md/duwda&ubzkulcm-01.md` from `chats/files/devin&kristina-01.jsonl`
+- created `chats/md/wfqdu&mvge.md` from `chats/files/sadie&typh.jsonl`
+- created `chats/md/kkrn&zjywc.md` from `chats/files/rory&leila.json`
+- created `chats/md/duwda&featm.md` from `chats/files/devin&sadie.json`
+# Lore Books:
+- created `lore/md/jroa.md` from `lore/files/vore.json`
+# Chats:
+- created `chats/md/mrpnv&ruknzxuj-02.md` from `chats/files/devin&kristina-02.jsonl`
+- created `chats/md/mrpnv&ruknzxuj-01.md` from `chats/files/devin&kristina-01.jsonl`
+- created `chats/md/ibtng&nstz.md` from `chats/files/sadie&typh.jsonl`
+- created `chats/md/uohy&ylmno.md` from `chats/files/rory&leila.json`
+- created `chats/md/mrpnv&fkpjr.md` from `chats/files/devin&sadie.json`
+# Lore Books:
+- created `lore/md/slrk.md` from `lore/files/vore.json`
+# Chats:
+- created `chats/md/vbzfq&kktgfrxj-02.md` from `chats/files/devin&kristina-02.jsonl`
+- created `chats/md/vbzfq&kktgfrxj-01.md` from `chats/files/devin&kristina-01.jsonl`
+- created `chats/md/hmwff&gjyc.md` from `chats/files/sadie&typh.jsonl`
+- created `chats/md/nrnu&xmgbl.md` from `chats/files/rory&leila.json`
+- created `chats/md/vbzfq&slxyo.md` from `chats/files/devin&sadie.json`
+# Lore Books:
+- created `lore/md/rsaz.md` from `lore/files/vore.json`
+# Chats:
+- created `chats/md/ypkku&ndiibpzo-02.md` from `chats/files/devin&kristina-02.jsonl`
+- created `chats/md/ypkku&ndiibpzo-01.md` from `chats/files/devin&kristina-01.jsonl`
+- created `chats/md/tfuke&ohtf.md` from `chats/files/sadie&typh.jsonl`
+- created `chats/md/fszr&ygcme.md` from `chats/files/rory&leila.json`
+- created `chats/md/ypkku&egonm.md` from `chats/files/devin&sadie.json`
+# Lore Books:
+- created `lore/md/uvcm.md` from `lore/files/vore.json`
+- created `chats/md/xdotw&ijvezket-02.md` from `chats/files/devin&kristina-02.jsonl`
+- created `chats/md/xdotw&ijvezket-01.md` from `chats/files/devin&kristina-01.jsonl`
+- created `chats/md/pnwtl&rrff.md` from `chats/files/sadie&typh.jsonl`
+- created `chats/md/sszx&jtixw.md` from `chats/files/rory&leila.json`
+- created `chats/md/xdotw&lotgl.md` from `chats/files/devin&sadie.json`
+- created `lore/md/amnw.md` from `lore/files/vore.json`
+- created `chats/md/qffnk&hakiksle-02.md` from `chats/files/devin&kristina-02.jsonl`
+- created `chats/md/qffnk&hakiksle-01.md` from `chats/files/devin&kristina-01.jsonl`
+- created `chats/md/cqcnd&moru.md` from `chats/files/sadie&typh.jsonl`
+- created `chats/md/mbxs&abfws.md` from `chats/files/rory&leila.json`
+- created `chats/md/qffnk&cytru.md` from `chats/files/devin&sadie.json`
+- created `lore/md/qpta.md` from `lore/files/vore.json`
+- created `chats/md/jqclo&hjajefjr-02.md` from `chats/files/devin&kristina-02.jsonl`
+- created `chats/md/jqclo&hjajefjr-01.md` from `chats/files/devin&kristina-01.jsonl`
+- created `chats/md/qtvlb&alnf.md` from `chats/files/sadie&typh.jsonl`
+- created `chats/md/exmm&ovrzx.md` from `chats/files/rory&leila.json`
+- created `chats/md/jqclo&yzqpn.md` from `chats/files/devin&sadie.json`
+- created `lore/md/bxmw.md` from `lore/files/vore.json`
+- created `chats/md/jqclo&hjajefjr-02.md` from `chats/files/devin&kristina-02.jsonl`
+- created `chats/md/jqclo&hjajefjr-01.md` from `chats/files/devin&kristina-01.jsonl`
+- created `chats/md/qtvlb&alnf.md` from `chats/files/sadie&typh.jsonl`
+- created `chats/md/exmm&ovrzx.md` from `chats/files/rory&leila.json`
+- created `chats/md/jqclo&yzqpn.md` from `chats/files/devin&sadie.json`
+- created `lore/md/bxmw.md` from `lore/files/vore.json`

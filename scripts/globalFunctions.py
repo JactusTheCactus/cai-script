@@ -1,4 +1,5 @@
 import random
+import os
 from datetime import datetime
 now = datetime.now()
 tz = int(now.astimezone().utcoffset().total_seconds() // 3600)

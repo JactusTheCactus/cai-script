@@ -1,7 +1,9 @@
 import os
-import subprocess
 import shutil
-from scripts.globalFunctions import seed, seedString
+from scripts.globalFunctions import seedString
+from scripts.chat import chat
+from scripts.lore import lore
+log = os.path.join('logs',f'{seedString}.txt')
 structure = {
     'chats': {
         'files': {},
@@ -39,23 +41,26 @@ emptyDirectories = [
     os.path.join('lore','md'),
     os.path.join('NotebookLM')
 ]
-log = os.path.join('logs',seedString + '.md')
 for dir in emptyDirectories:
     clearDirectory(dir)
 create_dirs('.', structure)
 with open(log,'w',encoding='utf-8') as f:
-    f.write(f'# Seed:\n- `{seedString}`\n')
+    f.write('')
 scripts_dir = 'scripts'
 print(f'\nseed:\n{seedString}\n')
+chat()
+lore()
+"""
 for file in os.listdir(scripts_dir):
     if file.endswith('.py'):
         full_path = os.path.join(scripts_dir, file)
         if file == scripts[0] + '.py':
-            print('Generating Chat Logs...')
+            
         elif file == scripts[1] + '.py':
-            print('Generating Lore Books...')
+            
         subprocess.run(['python', full_path])
-README = """# Instructions:
+"""
+README = """# Instructions
 1. Run `script.py` to build readable versions of Chat Logs & Lore Books.
 1. file names follow a specific format:
     - `Chats`: 
@@ -67,4 +72,4 @@ README = """# Instructions:
 print("Generating README.md")
 with open('README.md','w',encoding='utf-8') as f:
     f.write(README)
-print(f"Generating {log}")
+print(f"Generating {log}...")
