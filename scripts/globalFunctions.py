@@ -3,6 +3,7 @@ from datetime import datetime
 now = datetime.now()
 tz = int(now.astimezone().utcoffset().total_seconds() // 3600)
 seed = [now.year, now.month, now.day, now.hour, now.minute, now.second, now.microsecond, tz]
+seedString = '.'.join(str(strSeed) for strSeed in seed)
 def generate_rotor(seed):
     """Create a monoalphabetic substitution from a–z → shuffled a–z."""
     random.seed(seed)
