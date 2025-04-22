@@ -56,7 +56,7 @@ for file in os.listdir(scripts_dir):
         elif file == scripts[1] + '.py':
             print('Generating Lore Books...')
         subprocess.run(['python', full_path])
-README = """# NOTICE
+README = """# Instructions
 1. Run `script.py` to build readable versions of Chat Logs & Lore Books.
 1. file names follow a specific format:
     - `Chats`: 
