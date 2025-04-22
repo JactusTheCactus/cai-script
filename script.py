@@ -2,7 +2,6 @@ import os
 import subprocess
 import shutil
 from scripts.globalFunctions import seed, seedString
-seedString = '.'.join(str(strSeed) for strSeed in seed)
 structure = {
     'chats': {
         'files': {},
