@@ -15,7 +15,7 @@ for file in loreList:
         lore = json.load(f)
     for i in lore['entries']:
         if i['enabled'] == True:
-            output += f"> # {i['name']}\n> {i['entry']}\n\n"
+            output += f'> # {i["name"]}\n> {i["entry"]}\n\n'
     with open(outputFile,'w',encoding='utf-8') as f:
         f.write(output)
     with open('log.md','a',encoding='utf-8') as f:
