@@ -16,3 +16,11 @@
 - created `chats/md/yiynz&cegsn.md` from `chats/files/devin&sadie.json`
 # Lore Books:
 - created `lore/md/souz.md` from `lore/files/vore.json`
+# Chats:
+- created `chats/md/snscf&ffnlyvhi-02.md` from `chats/files/devin&kristina-02.jsonl`
+- created `chats/md/snscf&ffnlyvhi-01.md` from `chats/files/devin&kristina-01.jsonl`
+- created `chats/md/bggcz&xlzx.md` from `chats/files/sadie&typh.jsonl`
+- created `chats/md/khzl&gpyky.md` from `chats/files/rory&leila.json`
+- created `chats/md/snscf&ybudo.md` from `chats/files/devin&sadie.json`
+# Lore Books:
+- created `lore/md/gbds.md` from `lore/files/vore.json`
