@@ -12,7 +12,8 @@ structure = {
         'files': {},
         'md': {},
     },
-    'NotebookLM': {}
+    'NotebookLM': {},
+    'logs': {}
 }
 scripts = [
     'chat',
@@ -39,10 +40,11 @@ emptyDirectories = [
     os.path.join('lore','md'),
     os.path.join('NotebookLM')
 ]
+log = os.path.join('logs',f'{seed}.md')
 for dir in emptyDirectories:
     clearDirectory(dir)
 create_dirs('.', structure)
-with open('log.md','w',encoding='utf-8') as f:
+with open(log,'w',encoding='utf-8') as f:
     f.write(f'# Seed:\n- `{seedString}`\n')
 scripts_dir = 'scripts'
 print(f'\nseed:\n{seedString}\n')
@@ -57,13 +59,13 @@ for file in os.listdir(scripts_dir):
 README = """# NOTICE
 1. Run `script.py` to build readable versions of Chat Logs & Lore Books.
 1. file names follow a specific format:
-    1. `Chats`: 
-        1. `User&MainCharacter-##*optional.json/jsonl`
-        1. example: `Johnny&Jessica-03.json`
-    1. `Lore Books`:
-        1. `topic.json`
-        1. example: `Lakedaimon.json`"""
+    - `Chats`: 
+        - `User&MainCharacter-##*optional.json/jsonl`
+        - example: `Johnny&Jessica-03.json`
+    - `Lore Books`:
+        - `topic.json`
+        - example: `Lakedaimon.json`"""
 print("Generating README.md")
 with open('README.md','w',encoding='utf-8') as f:
     f.write(README)
-print("Generating log.md")
+print(f"Generating {log}")
