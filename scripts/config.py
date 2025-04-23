@@ -2,13 +2,7 @@
 import os
 from datetime import datetime
 now = datetime.now()
-seed = []
-seed.append(now.year)
-seed.append(now.month)
-seed.append(now.day)
-seed.append(now.hour)
-seed.append(now.minute)
-seed.append(now.second)
+seed = [now.year,now.month,now.day,now.hour,now.minute,now.second]
 seedList = []
 for s in seed:
     s = str(s)
