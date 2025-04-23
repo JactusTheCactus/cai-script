@@ -50,14 +50,28 @@ def main():
     scripts_dir = 'scripts'
     chat()
     lore()
-    README = """# Instructions
-file names follow a specific format:
-    - `Chats`: 
-        - `User&MainCharacter-##*optional.json/jsonl`
-        - example: `Johnny&Jessica-03.json`
-    - `Lore Books`:
-        - `topic.json`
-        - example: `Lakedaimon.json`"""
+    mdLinks = {
+        "Agnaistic": "[Agnaistic](https://agnai.chat)",
+        "C.AI": "[Character.AI](https://character.ai)",
+        "C.AI Tools": "[CAI Tools](https://chromewebstore.google.com/detail/cai-tools/nbhhncgkhacdaaccjbbadkpdiljedlje?hl=en&pli=1)"
+    }
+    README = f"""# Instructions
+## File names follow a specific format:
+- ### Chats: 
+    - `User&MainChar-##.file`
+    - example: `Johnny&Jessica-03.json`
+    - `-##` is optional
+        - only use if there are duplicates
+    - accepted file formats:
+        - `.json`
+            - via {mdLinks['Agnaistic']}
+        - `.jsonl`
+            - via {mdLinks['C.AI Tools']} for {mdLinks['C.AI']}
+- ### Lore Books:
+    - `topic.json`
+    - example: `Lakedaimon.json`
+    - source: {mdLinks['Agnaistic']}
+"""
     print("Generating README.md")
     with open('README.md','w',encoding='utf-8') as f:
         f.write(README)
