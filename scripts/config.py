@@ -28,10 +28,6 @@ def enigmaRename(userInput):
         shuffled = alphabet.copy()
         random.shuffle(shuffled)
         return dict(zip(alphabet, shuffled))
-    """
-    userInput : str
-    seeds     : list[int]  — one seed per rotor
-    """
     userInput = userInput.lower()
     output = []
     # Pre-generate rotors base on seeds list
