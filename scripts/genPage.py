@@ -12,7 +12,7 @@ targets = {
 }
 
 def genPage():
-    lines = ['<html>', '<head><title>Index</title></head>', '<body>', '<h1>Repository Index</h1>']
+    lines = ['<html>', '<style>body{background-color:#fff;}</style>', '<head><title>Index</title></head>', '<body>', '<h1>Repository Index</h1>']
 
     for folder, extension in targets.items():
         if folder == 'chats/md':
