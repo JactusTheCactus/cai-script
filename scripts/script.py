@@ -4,6 +4,7 @@ def main():
     from config import log
     from chat import chat
     from lore import lore
+    from genPage import genPage
     structure = {
         'chats': {
             'files': {},
@@ -62,5 +63,6 @@ def main():
     with open('README.md','w',encoding='utf-8') as f:
         f.write(README)
     print(f"Generating {log}...")
+    genPage()
 if __name__ == "__main__":
     main()
