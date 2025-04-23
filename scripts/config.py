@@ -13,6 +13,8 @@ seedList = []
 for s in seed:
     if len(f'{s}') < 2:
         s = f'0{s}'
+    if len(f'{s}') > 2:
+        pass
     seedList.append(s)
 seedString = '.'.join(str(strSeed) for strSeed in seedList)
 log = os.path.join('logs',f'{seedString}.txt')
