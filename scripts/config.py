@@ -12,9 +12,9 @@ seed.append(now.second)
 seedList = []
 for s in seed:
     s = str(s)
-    if len(f'{s}') < 2:
+    if len(s) < 2:
         s = f'0{s}'
-    if len(f'{s}') > 2:
+    if len(s) > 2:
         s = s[2:]
     seedList.append(s)
 seedString = '.'.join(str(strSeed) for strSeed in seedList)
