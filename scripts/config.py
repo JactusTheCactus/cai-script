@@ -2,13 +2,19 @@
 import os
 from datetime import datetime
 now = datetime.now()
-tz = int(now.astimezone().utcoffset().total_seconds() // 3600)
-seed = [now.year, now.month, now.day, now.hour, now.minute, now.second, now.microsecond, tz]
-for i in range(len(seed)):
-    if len(f'{seed[i]}') < 2:
-        seed[i] = f'0{seed[i]}'
-    print(seed[i])
-seedString = '.'.join(str(strSeed) for strSeed in seed)
+seed = []
+seed.append(now.year)
+seed.append(now.month)
+seed.append(now.day)
+seed.append(now.hour)
+seed.append(now.minute)
+seed.append(now.second)
+seedList = []
+for s in seed:
+    if len(f'{s}') < 2:
+        s = f'0{s}'
+    seedList.append(s)
+seedString = '.'.join(str(strSeed) for strSeed in seedList)
 log = os.path.join('logs',f'{seedString}.txt')
 def enigmaRename(userInput):
     import random
@@ -49,3 +55,5 @@ def enigmaRename(userInput):
             c = rotor_map[c]
         output.append(c)
     return ''.join(output)
+def logFormat(logInput,logOutput):
+    return f'{logInput} => {logOutput}'

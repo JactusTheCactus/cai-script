@@ -2,8 +2,8 @@ def chat():
     import re
     import json
     import os
-    from config import log, enigmaRename
-    #from script import log
+    from config import log as textLog
+    from config import enigmaRename, logFormat
     print('Generating Chat Logs...')
     with open('charId.json','r',encoding='utf-8') as f:
         charIdDict = json.load(f)
@@ -15,8 +15,8 @@ def chat():
         for name in lowerList:
             capList.append(name.capitalize())
         return capList
-    with open(log,'a',encoding='utf-8') as f:
-        f.write(f'# Chats:\n')
+    with open(textLog,'a',encoding='utf-8') as f:
+        f.write(f'Chats:\n')
     def logChat(file):
         names = getNames(file)
         user = names[0]
@@ -57,8 +57,8 @@ def chat():
             with open(output,'w') as f:
                 for i in log:
                     f.write(f"> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n")
-        with open('log.md','a',encoding='utf-8') as f:
-            f.write(f'- created `{outputFile}` from `{inputFile}`\n')
+        with open(textLog,'a',encoding='utf-8') as f:
+            f.write(f'{logFormat(input,output)}\n')
         print(f'Generating {outputFile}...')
     for i in chatLogs:
         logChat(i)
