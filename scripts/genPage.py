@@ -21,7 +21,7 @@ def genPage():
             head = 'Lore Books'
         elif folder == 'logs':
             head = 'Logs'
-        lines.append(f"<h2>{head}</h2>")
+        lines.append(f"<details><summary>{head}</summary>")
         lines.append("<ul>")
         folder_path = REPO_ROOT / folder
 
@@ -33,7 +33,7 @@ def genPage():
             rel_path = file.relative_to(REPO_ROOT).as_posix()
             lines.append(f'<li><a href="{rel_path}">{file.name}</a></li>')
 
-        lines.append("</ul>")
+        lines.append("</ul></details>")
 
     lines.append('</body></html>')
 
