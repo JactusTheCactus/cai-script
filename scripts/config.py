@@ -11,10 +11,11 @@ seed.append(now.minute)
 seed.append(now.second)
 seedList = []
 for s in seed:
+    s = str(s)
     if len(f'{s}') < 2:
         s = f'0{s}'
     if len(f'{s}') > 2:
-        pass
+        s = s[2:]
     seedList.append(s)
 seedString = '.'.join(str(strSeed) for strSeed in seedList)
 log = os.path.join('logs',f'{seedString}.txt')
