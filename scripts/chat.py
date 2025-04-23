@@ -56,7 +56,7 @@ def chat():
                 log.append([name,i['msg']])
             with open(output,'w') as f:
                 for i in log:
-                    f.write(f'> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n')
+                    f.write(f"> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n")
         with open('log.md','a',encoding='utf-8') as f:
             f.write(f'- created `{outputFile}` from `{inputFile}`\n')
         print(f'Generating {outputFile}...')
