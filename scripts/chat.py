@@ -42,7 +42,7 @@ def chat():
                     i[0] = character
             with open(output,'w') as f:
                 for i in extracted_data:
-                    f.write(f'> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n')
+                    f.write(f"> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n")
         elif fileMatch(file,'json'):
             with open(input, "r", encoding="utf-8") as f:
                 data = json.load(f)
