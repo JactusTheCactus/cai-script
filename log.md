@@ -120,3 +120,14 @@
 - created `chats/md/fvmq&hwqqs.md` from `chats/files/rory&leila.json`
 - created `chats/md/dcijm&zlefv.md` from `chats/files/devin&sadie.json`
 - created `lore/md/rvmg.md` from `lore/files/vore.json`
+- created `chats/md/zsinp&mibsfyvw-02.md` from `chats/files/devin&kristina-02.jsonl`
+- created `chats/md/zsinp&mibsfyvw-01.md` from `chats/files/devin&kristina-01.jsonl`
+- created `chats/md/pgknu&ktma.md` from `chats/files/sadie&typh.jsonl`
+- created `chats/md/syzp&jcoag.md` from `chats/files/rory&leila.json`
+- created `chats/md/zsinp&vszfn.md` from `chats/files/devin&sadie.json`
+- created `chats/md/zrspg&opnvtjnz-02.md` from `chats/files/devin&kristina-02.jsonl`
+- created `chats/md/zrspg&opnvtjnz-01.md` from `chats/files/devin&kristina-01.jsonl`
+- created `chats/md/ehlpj&adit.md` from `chats/files/sadie&typh.jsonl`
+- created `chats/md/xpgy&gexrf.md` from `chats/files/rory&leila.json`
+- created `chats/md/zrspg&wjluh.md` from `chats/files/devin&sadie.json`
+- created `lore/md/tpgf.md` from `lore/files/vore.json`

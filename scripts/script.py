@@ -1,10 +1,9 @@
 def main():
     import os
     import shutil
-    from scripts.globalFunctions import seedString
-    from scripts.chat import chat
-    from scripts.lore import lore
-    log = os.path.join('logs',f'{seedString}.txt')
+    from config import log
+    from chat import chat
+    from lore import lore
     structure = {
         'chats': {
             'files': {},
@@ -48,7 +47,6 @@ def main():
     with open(log,'w',encoding='utf-8') as f:
         f.write('')
     scripts_dir = 'scripts'
-    print(seedString)
     chat()
     lore()
     README = """# Instructions

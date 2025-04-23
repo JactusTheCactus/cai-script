@@ -2,8 +2,8 @@ def lore():
     import json
     import os
     import re
-    from scripts.globalFunctions import enigmaRename
-    from script import log
+    from config import enigmaRename, log
+    #from script import log
     print('Generating Lore Books...')
     loreList = os.listdir(os.path.join('lore','files'))
     with open(log,'a',encoding='utf-8') as f:

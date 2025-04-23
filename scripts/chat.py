@@ -2,8 +2,8 @@ def chat():
     import re
     import json
     import os
-    from scripts.globalFunctions import enigmaRename
-    from script import log
+    from config import log, enigmaRename
+    #from script import log
     print('Generating Chat Logs...')
     with open('charId.json','r',encoding='utf-8') as f:
         charIdDict = json.load(f)
