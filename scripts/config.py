@@ -4,6 +4,10 @@ from datetime import datetime
 now = datetime.now()
 tz = int(now.astimezone().utcoffset().total_seconds() // 3600)
 seed = [now.year, now.month, now.day, now.hour, now.minute, now.second, now.microsecond, tz]
+for i in range(len(seed)):
+    if len(f'{seed[i]}') < 2:
+        seed[i] = f'0{seed[i]}'
+    print(seed[i])
 seedString = '.'.join(str(strSeed) for strSeed in seed)
 log = os.path.join('logs',f'{seedString}.txt')
 def enigmaRename(userInput):

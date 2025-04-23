@@ -131,3 +131,9 @@
 - created `chats/md/xpgy&gexrf.md` from `chats/files/rory&leila.json`
 - created `chats/md/zrspg&wjluh.md` from `chats/files/devin&sadie.json`
 - created `lore/md/tpgf.md` from `lore/files/vore.json`
+- created `chats/md/xxzwj&fgfbtfuq-02.md` from `chats/files/devin&kristina-02.jsonl`
+- created `chats/md/xxzwj&fgfbtfuq-01.md` from `chats/files/devin&kristina-01.jsonl`
+- created `chats/md/tfrwa&tder.md` from `chats/files/sadie&typh.jsonl`
+- created `chats/md/bjcm&nlwcj.md` from `chats/files/rory&leila.json`
+- created `chats/md/xxzwj&sbdvw.md` from `chats/files/devin&sadie.json`
+- created `lore/md/mjco.md` from `lore/files/vore.json`
