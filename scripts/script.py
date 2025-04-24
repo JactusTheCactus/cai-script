@@ -1,22 +1,23 @@
 def main():
     import os
     import shutil
-    from config import log
+    from config import log, toHTML
     from chat import chat
     from lore import lore
     from genPage import genPage
+    import re
     print()
     structure = {
         'chats': {
             'source': {},
-            'readable': {
+            'formatted': {
                 'md': {},
                 'html': {}
             },
         },
         'lore': {
             'source': {},
-            'readable': {
+            'formatted': {
                 'md': {},
                 'html': {}
             },
@@ -41,20 +42,23 @@ def main():
                 except Exception as e:
                     print(f'Failed to delete {file_path}. Reason: {e}')
     emptyDirectories = [
-        os.path.join('chats','readable','md'),
-        os.path.join('chats','readable','html'),
-        os.path.join('lore','readable','md'),
-        os.path.join('lore','readable','html'),
+        os.path.join('chats','formatted','md'),
+        os.path.join('chats','formatted','html'),
+        os.path.join('lore','formatted','md'),
+        os.path.join('lore','formatted','html'),
         os.path.join('NotebookLM')
     ]
     for dir in emptyDirectories:
         clearDirectory(dir)
     create_dirs('.', structure)
     with open(log,'w',encoding='utf-8') as f:
-        f.write('')
-    scripts_dir = 'scripts'
+        f.write(toHTML(f'Seed:\n    {log[5:-5]}\n'))
     chat()
     lore()
+    with open(log,'r',encoding='utf-8') as f:
+        Log = f.read()
+    with open(log,'w',encoding='utf-8') as f:
+        f.write('<pre><code>' + Log + '</code></pre>')
     mdLinks = {
         "Agnaistic": "[Agnaistic](https://agnai.chat)",
         "C.AI": "[Character.AI](https://character.ai)",

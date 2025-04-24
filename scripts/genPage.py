@@ -1,23 +1,30 @@
 import os
 from pathlib import Path
+from config import toHTML
 
 # Get the root of the repo (one level up from the script)
 REPO_ROOT = Path(__file__).resolve().parent.parent
 
 # Define folders relative to repo root
 targets = {
-    os.path.join('chats','readable','html'): ".html",
-    os.path.join('lore','readable','html'): ".html",
-    "logs": ".txt"
+    os.path.join('chats','formatted','html'): ".html",
+    os.path.join('lore','formatted','html'): ".html",
+    "logs": ".html"
 }
 
 def genPage():
-    lines = ['<html>', '<style>body{background-color:#fff;}</style>', '<head><title>Index</title></head>', '<body>', '<h1>Repository Index</h1>']
+    lines = [
+        '<html>',
+        '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown-dark.css" integrity="sha512-XNBMUjy86G874D+6YN8vaBJpEut/Q0IafwiWxO5CoZDyaVXxbzyzacBpA55GPYhetzeLhxUbgdETrigRIVeNqQ==" crossorigin="anonymous" referrerpolicy="no-referrer" /><style>.markdown-body{margin:0 auto;padding:45px;}@media(max-width:767px){.markdown-body{padding:15px;}}</style>',
+        '<head><title>Index</title></head>',
+        '<body class="markdown-body">',
+        '<h1>Repository Index</h1>'
+    ]
 
     for folder, extension in targets.items():
-        if folder == os.path.join('chats','readable','html'):
+        if folder == os.path.join('chats','formatted','html'):
             head = 'Chats'
-        elif folder == os.path.join('lore','readable','html'):
+        elif folder == os.path.join('lore','formatted','html'):
             head = 'Lore Books'
         elif folder == os.path.join('logs'):
             head = 'Logs'

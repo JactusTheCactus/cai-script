@@ -1,8 +1,0 @@
-Chats:
-chats/source/devin&kristina-02.jsonl => chats/readable/md/whcdb&vbjfvhsh-02.md
-chats/source/devin&kristina-01.jsonl => chats/readable/md/whcdb&vbjfvhsh-01.md
-chats/source/sadie&typh.jsonl => chats/readable/md/mzedp&qvwl.md
-chats/source/rory&leila.json => chats/readable/md/jnos&vpelq.md
-chats/source/devin&sadie.json => chats/readable/md/whcdb&ahzzk.md
-Lore Books:
-lore/source/vore.json => lore/readable/md/ynok.md
