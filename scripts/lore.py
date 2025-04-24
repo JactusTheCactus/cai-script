@@ -12,20 +12,20 @@ def lore():
         inputFile = os.path.join('lore','source',file)
         outputMd = os.path.join('lore','formatted','md',enigmaRename(re.sub(r'^(.*)\.json$',r'\1.md',file)))
         outputHtml = os.path.join('lore','formatted','html',enigmaRename(re.sub(r'^(.*)\.json$',r'\1.html',file)))
-        mdOutput = ''
-        htmlOutput = ''
         mdName = re.sub(r'lore\\formatted\\md\\(.*)',r'\1',outputMd)
         htmlName = re.sub(r'lore\\formatted\\html\\(.*)',r'\1',outputHtml)
         inputName = re.sub(r'lore\\source\\(.*)',r'\1',inputFile)
         with open(inputFile,'r',encoding='utf-8') as f:
             lore = json.load(f)
+        mdOutput = f'# {lore["name"]}'
+        htmlOutput = f'<h1>{lore["name"]}</h1>'
         for i in lore['entries']:
             if i['enabled'] == True:
                 mdOutput += f"""## {i['name']}
 {i['entry']}
 
 """
-                htmlOutput += f"<blockquote><h1>{i['name']}</h1></blockquote><blockquote>{i['entry']}</blockquote>"
+                htmlOutput += f"<blockquote><h2>{i['name']}</h3></blockquote><blockquote>{i['entry']}</blockquote>"
         with open(outputMd,'w',encoding='utf-8') as f:
             f.write(mdOutput)
         with open(outputHtml,'w',encoding='utf-8') as f:
