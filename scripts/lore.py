@@ -21,8 +21,8 @@ def lore():
             lore = json.load(f)
         for i in lore['entries']:
             if i['enabled'] == True:
-                mdOutput += f"""> # {i['name']}
-> {i['entry']}
+                mdOutput += f"""# {i['name']}
+{i['entry']}
 
 """
                 htmlOutput += f"<blockquote><h1>{i['name']}</h1></blockquote><blockquote>{i['entry']}</blockquote>"
