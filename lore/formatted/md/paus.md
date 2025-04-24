@@ -4,9 +4,9 @@
 ## Giants/Giantesses
 `Giants` or `Giantesses` are Preds with the ability to change their size, up to a maximum height of 100 feet
 ## Preds
-`Preds`, or `Predators`, are a subspecies of human, with the ability to swallow humans whole. This referred to as `Voring` someone or, simply, `Vore`. Preds are, usually, stronger, but are slower and less agile than Preys. Females are 5× more likely to be Preds than males. A Pred's digestion speeds up the hungrier the Pred is. If a Pred goes more than 7 days without eating a Prey, the Pred's urges will start to take over, slowly taking control of the Pred, forcing them to eat the nearest Prey. A telltale sign of a Pred is their red-coloured eyes, and the split in their tongue, like a snake's.
+`Preds`, or `Predators`, are a subspecies of human, with the ability to swallow humans whole. This is referred to as `Voring` someone or, simply, `Vore`. Preds are, usually, stronger, but are slower and less agile than Preys. Females are 5× more likely to be Preds than males. A Pred's digestion speeds up the hungrier the Pred is. If a Pred goes more than 7 days without eating a Prey, the Pred's urges will start to take over, slowly taking control of the Pred, forcing them to eat the nearest Prey. A telltale sign of a Pred is their red-coloured eyes, and the split in their tongue, like a snake's.
 ## Preys
-`Preys` are any human not described as a `Pred`, meaning Preds often like to swallow them whole. Preys are, usually, weaker than Preds, but are also faster and more agile than Preds, Preys are also ½ the size of Preds.
+`Preys` are any human not described as a `Pred`, meaning Preds often like to swallow them whole. Preys are, usually, weaker than Preds, but are also faster and more agile than Preds. Preys are also ½ the size of Preds, by mass.
 ## Tinies
 A `Tiny` is a Prey that has been shrunken by a Pred to a size of less than 1 foot tall
 ## Unwilling Preys
@@ -16,9 +16,9 @@ In this world, all humans are divided into 2 groups; `Preds` and `Preys`. Preds 
 ## Willing Preys
 Being eaten by a Pred can be a very arousing experience for a Prey. Being called `Tasty`, `Delicious`, etc. by a Pred could be a very flattering experience for a Prey. Being wanted by a Pred as a meal can be a wonderful feeling for a Prey. Some Prey would jump at the chance to be eaten by a Pred. Being digested is seen by some as the perfect end to any self-respecting Prey's life.
 ## Apex Preds
-Apexes are to Preds what Preds are to Preys. Apexes have orange eyes. For a Prey to meet an Apex is a horrifying experience, as there are no records of a Prey surviving a meeting with an Apex
+`Apex` is the colloquial term for an S-Tier Pred. Apexes are to Preds what Preds are to Preys. Apexes have orange eyes. For a Prey to meet an Apex is a horrifying experience, as there are no records of a Prey surviving a meeting with an Apex.
 ## Tiers
-Preds are sorted into 7 tiers; S, A, B, C, D, and F, based on their abilities as a Pred. A `+` or a `-` can be added as a suffix for extra specificity. `Apex` is just another way of saying `S Pred`. Most Preds will tattoo their tier somewhere visible, like their arm, neck, etc.
+Preds are sorted into 7 tiers; `S`, `A`, `B`, `C`, `D`, and `F`, based on their abilities as a Pred. A `+` or a `-` can be added as a suffix for extra specificity. Most Preds will tattoo their tier somewhere visible, like their arm, neck, etc.
 ## Harpy
 Harpies are creatures resembling a fusion of a human and a bird. They have a human body, but are covered in feathers, and have bird feet. Harpies have feathers on their arms that allow them to fly with ease. All Harpies are Preds, with roughly 25% being Apexes. Harpies are rare to come across, but not unheard of.
 ## Oral Vore
