@@ -81,7 +81,7 @@ def main():
 - ### Lore Books:
     - `topic.json`
     - example: `Lakedaimon.json`
-    - source: {mdLinks['Agnaistic']}
+    - via {mdLinks['Agnaistic']}
 """
     print("Generating README.md")
     with open('README.md','w',encoding='utf-8') as f:
