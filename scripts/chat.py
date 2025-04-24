@@ -74,7 +74,7 @@ def chat():
                 name = None
                 if i.get('handle'):
                     name = i["handle"]
-                elif i in charIdDict:
+                elif i["characterId"] in charIdDict:
                     name = charIdDict[i["characterId"]]
                 else:
                     name = "None"
