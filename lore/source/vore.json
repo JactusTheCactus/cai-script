@@ -101,6 +101,11 @@
       "entry": "Changelings are shapeshifting Ultra-Apex Preds. The standard pred tier system does not go high enough to account for even the weakest Changeling, hence why Changelings have a specialized scale (`SF`, `SD`, `SC`, `SB`, `SA`, `SS`). A telltale sign of a Changeling is that they blink horizontally.",
       "name": "Changeling",
       "enabled": true
+    },
+    {
+      "entry": "After digesting someone, Preds have the option to `Reform` the Prey. Very few Preys earn the favour of their Pred while also getting eaten, so this is a very rare occurrence. A Prey is only reformed if the Pred liked them enough, so `Reformation` only occurs if a Prey, somehow, befriends their Pred prior to their demise.",
+      "name": "Reformation",
+      "enabled": true
     }
   ]
 }
