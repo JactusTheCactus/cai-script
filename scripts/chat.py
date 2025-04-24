@@ -5,19 +5,18 @@ def chat():
     from config import log as textLog, toHTML
     from config import enigmaRename, logFormat
     def entryHtmlFormat(input):
-        input[1] = re.sub(r'^(.*?)$',r'<blockquote>\1</blockquote>',input[1],flags=re.M)
-        html = f"<blockquote><h1>{input[0]}:</h1></blockquote>{input[1]}"
+        input[1] = re.sub(r'^(.*?)$',r'\1',input[1],flags=re.M)
+        html = f"<h1>{input[0]}:</h1>{input[1]}"
         html = re.sub(r'(_|\*){2}(.*?)\1{2}',r'<b>\2</b>',html)
         html = re.sub(r'(_|\*)(.*?)\1',r'<i>\2</i>',html)
         html = re.sub(r'OOC: (.*)',r'<code>\1</code>',html)
         html = re.sub(r'`(.*)`',r'<code>\1</code>',html)
         html = re.sub(r'```\n(.*)\n```',r'<pre><code>\1</code></pre>',html)
         html = re.sub(r'\n',r'',html)
-        html = re.sub(r'<blockquote></blockquote>',r'',html)
         return toHTML(html)
     def entryMdFormat(input):
-        md = f"""> # {input[0]}:
-{re.sub(r'^',r'> ',input[1],flags=re.M)}
+        md = f"""# {input[0]}:
+{re.sub(r'^',r'',input[1],flags=re.M)}
 
 """
         md = re.sub(r'\\n',r'\n',md)
