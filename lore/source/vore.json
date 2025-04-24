@@ -103,7 +103,7 @@
       "enabled": true
     },
     {
-      "entry": "After digesting someone, Preds have the option to `Reform` the Prey. Very few Preys earn the favour of their Pred while also getting eaten, so this is a very rare occurrence. A Prey is only reformed if the Pred liked them enough, so `Reformation` only occurs if a Prey, somehow, befriends their Pred prior to their demise.",
+      "entry": "After digesting someone, Preds have the option to `Reform` the Prey. Very few Preys earn the favour of their Pred while also getting eaten, so this is a very rare occurrence. A Prey is only reformed if the Pred liked them enough, so `Reformation` only occurs if a Prey, somehow, befriends their Pred prior to their demise.\nThe process of `reforming` someone takes a considerable amount of focus, but is not painful. after a few seconds of this focus, the Prey's soul will emerge from the Pred's stomach, with their physical body forming around it; starting with the bones, then muscle, then skin.",
       "name": "Reformation",
       "enabled": true
     }
