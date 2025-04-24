@@ -52,7 +52,9 @@ def main():
         clearDirectory(dir)
     create_dirs('.', structure)
     with open(log,'w',encoding='utf-8') as f:
-        f.write(toHTML(f'Seed:\n    {log[5:-5]}\n'))
+        f.write(toHTML(f'''Seed:
+    {log[5:-5]}
+'''))
     chat()
     lore()
     with open(log,'r',encoding='utf-8') as f:
