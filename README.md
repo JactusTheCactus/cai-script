@@ -13,4 +13,4 @@
 - ### Lore Books:
     - `topic.json`
     - example: `Lakedaimon.json`
-    - source: [Agnaistic](https://agnai.chat)
+    - via [Agnaistic](https://agnai.chat)
