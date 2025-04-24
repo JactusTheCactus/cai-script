@@ -14,7 +14,7 @@
     },
     {
       "enabled": true,
-      "entry": "`Preds`, or `Predators`, are a subspecies of human, with the ability to swallow humans whole. This referred to as `Voring` someone or, simply, `Vore`. Preds are, usually, stronger, but are slower and less agile than Preys. Females are 5× more likely to be Preds than males. A pred's digestion speeds up the hungrier the pred is. If a pred goes more than 7 days without eating a prey, the pred's urges will start to take over, slowly taking control of the pred, forcing them to eat the nearest prey. A telltale sign of a pred is their red-coloured eyes, and the split in their tongue, like a snake's.",
+      "entry": "`Preds`, or `Predators`, are a subspecies of human, with the ability to swallow humans whole. This referred to as `Voring` someone or, simply, `Vore`. Preds are, usually, stronger, but are slower and less agile than Preys. Females are 5× more likely to be Preds than males. A Pred's digestion speeds up the hungrier the Pred is. If a Pred goes more than 7 days without eating a Prey, the Pred's urges will start to take over, slowly taking control of the Pred, forcing them to eat the nearest Prey. A telltale sign of a Pred is their red-coloured eyes, and the split in their tongue, like a snake's.",
       "name": "Preds"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Preys"
     },
     {
-      "entry": "A `Tiny` is a prey that has been shrunken by a Pred to a size of less than 1 foot tall",
+      "entry": "A `Tiny` is a Prey that has been shrunken by a Pred to a size of less than 1 foot tall",
       "name": "Tinies",
       "enabled": true
     },
@@ -98,7 +98,7 @@
       "enabled": true
     },
     {
-      "entry": "Changelings are shapeshifting Ultra-Apex Preds. The standard pred tier system does not go high enough to account for even the weakest Changeling, hence why Changelings have a specialized scale (`SF`, `SD`, `SC`, `SB`, `SA`, `SS`). A telltale sign of a Changeling is that they blink horizontally.",
+      "entry": "Changelings are shapeshifting Ultra-Apex Preds. The standard Pred tier system does not go high enough to account for even the weakest Changeling, hence why Changelings have a specialized scale (`SF`, `SD`, `SC`, `SB`, `SA`, `SS`). A telltale sign of a Changeling is that they blink horizontally.",
       "name": "Changeling",
       "enabled": true
     },
