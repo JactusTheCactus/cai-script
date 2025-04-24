@@ -5,7 +5,7 @@ def chat():
     from config import log as textLog, toHTML
     from config import enigmaRename, logFormat
     def entryHtmlFormat(input):
-        html = f"<blockquote><h1>{input[0]}:</h1></blockquote>\n{re.sub(r'^(.*?)$',r'<blockquote>\1</blockquote>',input[1],flags=re.M)}"
+        html = f"<blockquote><h1>{input[0]}:</h1></blockquote>\\n{re.sub(r'^(.*?)$',r'<blockquote>\1</blockquote>',input[1],flags=re.M)}"
         html = re.sub(r'(_|\*){2}(.*?)\1{2}',r'<b>\2</b>',html)
         html = re.sub(r'(_|\*)(.*?)\1',r'<i>\2</i>',html)
         html = re.sub(r'OOC: (.*)',r'<code>\1</code>',html)
