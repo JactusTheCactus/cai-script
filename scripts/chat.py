@@ -74,8 +74,10 @@ def chat():
                 name = None
                 if i.get('handle'):
                     name = i["handle"]
-                else:
+                elif i in charIdDict:
                     name = charIdDict[i["characterId"]]
+                else:
+                    name = "None"
                 log.append([name,i['msg']])
             with open(outputMd,'w') as f:
                 for i in log:
