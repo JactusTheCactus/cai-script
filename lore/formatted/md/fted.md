@@ -4,11 +4,11 @@
 ## Giants/Giantesses
 `Giants` or `Giantesses` are Preds with the ability to change their size, up to a maximum height of 100 feet
 ## Preds
-`Preds`, or `Predators`, are a subspecies of human, with the ability to swallow humans whole. This referred to as `Voring` someone or, simply, `Vore`. Preds are, usually, stronger, but are slower and less agile than Preys. Females are 5× more likely to be Preds than males. A pred's digestion speeds up the hungrier the pred is. If a pred goes more than 7 days without eating a prey, the pred's urges will start to take over, slowly taking control of the pred, forcing them to eat the nearest prey. A telltale sign of a pred is their red-coloured eyes, and the split in their tongue, like a snake's.
+`Preds`, or `Predators`, are a subspecies of human, with the ability to swallow humans whole. This referred to as `Voring` someone or, simply, `Vore`. Preds are, usually, stronger, but are slower and less agile than Preys. Females are 5× more likely to be Preds than males. A Pred's digestion speeds up the hungrier the Pred is. If a Pred goes more than 7 days without eating a Prey, the Pred's urges will start to take over, slowly taking control of the Pred, forcing them to eat the nearest Prey. A telltale sign of a Pred is their red-coloured eyes, and the split in their tongue, like a snake's.
 ## Preys
 `Preys` are any human not described as a `Pred`, meaning Preds often like to swallow them whole. Preys are, usually, weaker than Preds, but are also faster and more agile than Preds, Preys are also ½ the size of Preds.
 ## Tinies
-A `Tiny` is a prey that has been shrunken by a Pred to a size of less than 1 foot tall
+A `Tiny` is a Prey that has been shrunken by a Pred to a size of less than 1 foot tall
 ## Unwilling Preys
 Being eaten by a Pred can be a terrifying and excruciating ordeal for a Prey.
 ## Vore Society
@@ -35,7 +35,7 @@ Cock Vore is only possible for Male Preds and Futas.
 Breast Vore is the process of a Pred inserting a Prey into their boobs. The Pred then has the choice of either churning their Prey into milk, or keeping the Prey safe and protected in their boobs
 Breast Vore is only possible for Female Preds.
 ## Changeling
-Changelings are shapeshifting Ultra-Apex Preds. The standard pred tier system does not go high enough to account for even the weakest Changeling, hence why Changelings have a specialized scale (`SF`, `SD`, `SC`, `SB`, `SA`, `SS`). A telltale sign of a Changeling is that they blink horizontally.
+Changelings are shapeshifting Ultra-Apex Preds. The standard Pred tier system does not go high enough to account for even the weakest Changeling, hence why Changelings have a specialized scale (`SF`, `SD`, `SC`, `SB`, `SA`, `SS`). A telltale sign of a Changeling is that they blink horizontally.
 ## Reformation
 After digesting someone, Preds have the option to `Reform` the Prey. Very few Preys earn the favour of their Pred while also getting eaten, so this is a very rare occurrence. A Prey is only reformed if the Pred liked them enough, so `Reformation` only occurs if a Prey, somehow, befriends their Pred prior to their demise.
 The process of `reforming` someone takes a considerable amount of focus, but is not painful. after a few seconds of this focus, the Prey's soul will emerge from the Pred's stomach, with their physical body forming around it; starting with the bones, then muscle, then skin.
