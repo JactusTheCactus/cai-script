@@ -5,11 +5,12 @@ def chat():
     from config import log as textLog
     from config import enigmaRename, logFormat
     def entryHtmlFormat(md):
-        html = f"<blockquote><h1>{md[0]}:</h1></blockquote>{re.sub(r'^(.*?)$',r'<blockquote>\1</blockquote>',md[1],flags=re.M)}"
-        html = re.sub(r'\n',r'',html)
+        html = f"> # {md[0]}:\n{re.sub(r'^(.*?)$',r'> \1',md[1],flags=re.M)}"
+        html = re.sub(r'# (.*?):',r'<h1>\1</h1>',html)
         html = re.sub(r'(_|\*){2}(.*?)\1{2}',r'<b>\2</b>',html)
         html = re.sub(r'(_|\*)(.*?)\1',r'<i>\2</i>',html)
         html = re.sub(r'OOC: (.*)',r'<code>\1</code>',html)
+        #html = re.sub(r'\n',r'',html)
         return html
     print('Generating Chat Logs...')
     with open('charId.json','r',encoding='utf-8') as f:
