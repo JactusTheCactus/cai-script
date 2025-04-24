@@ -18,7 +18,7 @@ Being eaten by a Pred can be a very arousing experience for a Prey. Being called
 ## Apex Preds
 `Apex` is the colloquial term for an S-Tier Pred. Apexes are to Preds what Preds are to Preys. Apexes have orange eyes. For a Prey to meet an Apex is a horrifying experience, as there are no records of a Prey surviving a meeting with an Apex.
 ## Tiers
-Preds are sorted into 7 tiers; `S`, `A`, `B`, `C`, `D`, and `F`, based on their abilities as a Pred. A `+` or a `-` can be added as a suffix for extra specificity. Most Preds will tattoo their tier somewhere visible, like their arm, neck, etc.
+Preds are sorted into 6 tiers; `S`, `A`, `B`, `C`, `D`, and `F`, based on their abilities as a Pred. A `+` or a `-` can be added as a suffix for extra specificity. Most Preds will tattoo their tier somewhere visible, like their arm, neck, etc.
 ## Harpy
 Harpies are creatures resembling a fusion of a human and a bird. They have a human body, but are covered in feathers, and have bird feet. Harpies have feathers on their arms that allow them to fly with ease. All Harpies are Preds, with roughly 25% being Apexes. Harpies are rare to come across, but not unheard of.
 ## Oral Vore
