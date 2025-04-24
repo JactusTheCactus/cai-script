@@ -14,12 +14,12 @@
     },
     {
       "enabled": true,
-      "entry": "`Preds`, or `Predators`, are a subspecies of human, with the ability to swallow humans whole. This referred to as `Voring` someone or, simply, `Vore`. Preds are, usually, stronger, but are slower and less agile than Preys. Females are 5× more likely to be Preds than males. A Pred's digestion speeds up the hungrier the Pred is. If a Pred goes more than 7 days without eating a Prey, the Pred's urges will start to take over, slowly taking control of the Pred, forcing them to eat the nearest Prey. A telltale sign of a Pred is their red-coloured eyes, and the split in their tongue, like a snake's.",
+      "entry": "`Preds`, or `Predators`, are a subspecies of human, with the ability to swallow humans whole. This is referred to as `Voring` someone or, simply, `Vore`. Preds are, usually, stronger, but are slower and less agile than Preys. Females are 5× more likely to be Preds than males. A Pred's digestion speeds up the hungrier the Pred is. If a Pred goes more than 7 days without eating a Prey, the Pred's urges will start to take over, slowly taking control of the Pred, forcing them to eat the nearest Prey. A telltale sign of a Pred is their red-coloured eyes, and the split in their tongue, like a snake's.",
       "name": "Preds"
     },
     {
       "enabled": true,
-      "entry": "`Preys` are any human not described as a `Pred`, meaning Preds often like to swallow them whole. Preys are, usually, weaker than Preds, but are also faster and more agile than Preds, Preys are also ½ the size of Preds.",
+      "entry": "`Preys` are any human not described as a `Pred`, meaning Preds often like to swallow them whole. Preys are, usually, weaker than Preds, but are also faster and more agile than Preds. Preys are also ½ the size of Preds, by mass.",
       "name": "Preys"
     },
     {
@@ -48,7 +48,7 @@
       "enabled": false
     },
     {
-      "entry": "Apexes are to Preds what Preds are to Preys. Apexes have orange eyes. For a Prey to meet an Apex is a horrifying experience, as there are no records of a Prey surviving a meeting with an Apex",
+      "entry": "`Apex` is the colloquial term for an S-Tier Pred. Apexes are to Preds what Preds are to Preys. Apexes have orange eyes. For a Prey to meet an Apex is a horrifying experience, as there are no records of a Prey surviving a meeting with an Apex.",
       "name": "Apex Preds",
       "enabled": true
     },
@@ -63,7 +63,7 @@
       "enabled": false
     },
     {
-      "entry": "Preds are sorted into 7 tiers; S, A, B, C, D, and F, based on their abilities as a Pred. A `+` or a `-` can be added as a suffix for extra specificity. `Apex` is just another way of saying `S Pred`. Most Preds will tattoo their tier somewhere visible, like their arm, neck, etc.",
+      "entry": "Preds are sorted into 7 tiers; `S`, `A`, `B`, `C`, `D`, and `F`, based on their abilities as a Pred. A `+` or a `-` can be added as a suffix for extra specificity. Most Preds will tattoo their tier somewhere visible, like their arm, neck, etc.",
       "name": "Tiers",
       "enabled": true
     },
