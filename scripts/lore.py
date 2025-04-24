@@ -17,7 +17,7 @@ def lore():
         inputName = re.sub(r'lore\\source\\(.*)',r'\1',inputFile)
         with open(inputFile,'r',encoding='utf-8') as f:
             lore = json.load(f)
-        mdOutput = f'# {lore["name"]}'
+        mdOutput = f'# {lore["name"]}\n\n'
         htmlOutput = f'<h1>{lore["name"]}</h1>'
         for i in lore['entries']:
             if i['enabled'] == True:
