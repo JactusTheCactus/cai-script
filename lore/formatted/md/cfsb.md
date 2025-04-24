@@ -13,15 +13,11 @@
 ## Oral VoreOral Vore is the process of a Pred swallowing a Prey whole, the Prey slides down the Pred's throat, into their stomach. The Pred then has the choice of either digesting their Prey, or keeping the Prey safe and protected in their stomach
 ## Anal VoreAnal Vore is the process of a Pred inserting a Prey up their ass, into their stomach. The Pred then has the choice of either digesting their Prey, or keeping the Prey safe and protected in their stomach
 ## UnbirthUnbirth is the process of a Pred inserting a Prey up their vagina, into their womb. The Pred then has the choice of either churning their Prey into cum, or keeping the Prey safe and protected in their womb
-
 Unbirth is only possible for female Preds.
 ## Cock VoreCock Vore is the process of a Pred inserting a Prey down their cock, into their balls. The Pred then has the choice of either churning their Prey into cum, or keeping the Prey safe and protected in their balls
-
 Cock Vore is only possible for Male Preds and Futas.
 ## Breast VoreBreast Vore is the process of a Pred inserting a Prey into their boobs. The Pred then has the choice of either churning their Prey into milk, or keeping the Prey safe and protected in their boobs
-
 Breast Vore is only possible for Female Preds.
 ## ChangelingChangelings are shapeshifting Ultra-Apex Preds. The standard pred tier system does not go high enough to account for even the weakest Changeling, hence why Changelings have a specialized scale (`SF`, `SD`, `SC`, `SB`, `SA`, `SS`). A telltale sign of a Changeling is that they blink horizontally.
 ## ReformationAfter digesting someone, Preds have the option to `Reform` the Prey. Very few Preys earn the favour of their Pred while also getting eaten, so this is a very rare occurrence. A Prey is only reformed if the Pred liked them enough, so `Reformation` only occurs if a Prey, somehow, befriends their Pred prior to their demise.
-
 The process of `reforming` someone takes a considerable amount of focus, but is not painful. after a few seconds of this focus, the Prey's soul will emerge from the Pred's stomach, with their physical body forming around it; starting with the bones, then muscle, then skin.
