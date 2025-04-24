@@ -17,7 +17,8 @@ def lore():
         inputName = re.sub(r'lore\\source\\(.*)',r'\1',inputFile)
         with open(inputFile,'r',encoding='utf-8') as f:
             lore = json.load(f)
-        mdOutput = f'# {lore["name"]}\n'
+        mdOutput = f'''# {lore["name"]}
+'''
         htmlOutput = f'<h1>{lore["name"]}</h1>'
         if lore["description"]:
             mdOutput += lore['description'] + "\n"
