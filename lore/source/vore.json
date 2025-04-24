@@ -63,7 +63,7 @@
       "enabled": false
     },
     {
-      "entry": "Preds are sorted into 7 tiers; `S`, `A`, `B`, `C`, `D`, and `F`, based on their abilities as a Pred. A `+` or a `-` can be added as a suffix for extra specificity. Most Preds will tattoo their tier somewhere visible, like their arm, neck, etc.",
+      "entry": "Preds are sorted into 6 tiers; `S`, `A`, `B`, `C`, `D`, and `F`, based on their abilities as a Pred. A `+` or a `-` can be added as a suffix for extra specificity. Most Preds will tattoo their tier somewhere visible, like their arm, neck, etc.",
       "name": "Tiers",
       "enabled": true
     },
