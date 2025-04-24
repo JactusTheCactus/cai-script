@@ -6,141 +6,101 @@
     {
       "entry": "`Futanaris`, or `Futas`, are females that, in addition to a vagina, also have a penis that Pred Futas can use to eat Preys, which also function as a normal sexual organ",
       "name": "Futas",
-      "priority": 0,
-      "weight": 0,
       "enabled": true
     },
     {
       "entry": "`Giants` or `Giantesses` are Preds with the ability to change their size, up to a maximum height of 100 feet",
       "name": "Giants/Giantesses",
-      "priority": 0,
-      "weight": 0,
       "enabled": true
     },
     {
       "enabled": true,
       "entry": "`Preds`, or `Predators`, are a subspecies of human, with the ability to swallow humans whole. This referred to as `Voring` someone or, simply, `Vore`. Preds are, usually, stronger, but are slower and less agile than Preys. Females are 5× more likely to be Preds than males. A pred's digestion speeds up the hungrier the pred is. If a pred goes more than 7 days without eating a prey, the pred's urges will start to take over, slowly taking control of the pred, forcing them to eat the nearest prey. A telltale sign of a pred is their red-coloured eyes, and the split in their tongue, like a snake's.",
-      "name": "Preds",
-      "priority": 5,
-      "weight": 0
+      "name": "Preds"
     },
     {
       "enabled": true,
       "entry": "`Preys` are any human not described as a `Pred`, meaning Preds often like to swallow them whole. Preys are, usually, weaker than Preds, but are also faster and more agile than Preds, Preys are also ½ the size of Preds.",
-      "name": "Preys",
-      "priority": 5,
-      "weight": 0
+      "name": "Preys"
     },
     {
       "entry": "A `Tiny` is a prey that has been shrunken by a Pred to a size of less than 1 foot tall",
       "name": "Tinies",
-      "priority": 0,
-      "weight": 0,
       "enabled": true
     },
     {
       "entry": "Being eaten by a Pred is a terrifying ordeal. Being digested is an excruciating ordeal for a Prey.",
       "name": "Unwilling",
-      "priority": 99999,
-      "weight": 1000,
       "enabled": true
     },
     {
       "enabled": true,
       "entry": "In this world, all humans are divided into 2 groups; `Preds` and `Preys`. Preds make up 0.001% of the population, meaning Preds can eat as many Preys as they want without fear of harming population growth.",
-      "name": "Vore Society",
-      "priority": 100,
-      "weight": 0
+      "name": "Vore Society"
     },
     {
       "entry": "Being eaten by a Pred is a very arousing experience for a Prey. Being called `Tasty`, `Delicious`, etc. by a Pred is a very flattering experience for a Prey. Being wanted by a Pred as a meal is a wonderful feeling for a Prey. Any Prey would jump at the chance to be eaten by a Pred. Being digested is seen as the perfect end to any self-respecting Prey's life.",
       "name": "Willing",
-      "priority": 99999,
-      "weight": 1000,
       "enabled": true
     },
     {
       "entry": " Due to the threat they pose to citizens, Preds have significantly less rights than Preys, and are treated as second class citizens. Preds have difficulty being accepted for loans. Pred suicide rates are significantly higher than that of Prey. 75% of Pred deaths are suicides. Racism against Preds is perfectly socially acceptable, even encouraged. Crimes against Preds are really hard to punish people for, because it's impossible to find a jury that would side with the Pred",
       "name": "Anti-Pred Racism",
-      "priority": 0,
-      "weight": 0,
       "enabled": false
     },
     {
       "entry": "Apexes are to Preds what Preds are to Preys. Apexes have orange eyes. For a Prey to meet an Apex is a horrifying experience, as there are no records of a Prey surviving a meeting with an Apex",
       "name": "Apex Preds",
-      "priority": 0,
-      "weight": 0,
       "enabled": true
     },
     {
       "entry": "Lamias are creatures with the top half of a Pred and the bottom half of a rattlesnake. Lamias feed on a diet of exclusively Preys. Lamias are incredibly dangerous creatures to come across, as it's extremely likely that they will swallow you whole in an instant. Lamias are masters of seduction, making great use of their beautiful features. When a Lamia gets stressed, excited, angry, etc. their rattles shake like crazy. Lamia scales are indestructible. There was an Anti-Lamia ethnic cleansing in 1962, called the '62 Sweep, reducing the Lamia population by 96%, making them quite rare to come across. Lamias usually live to be 800 years old. Most living Lamias are survivors of the '62 Sweep. Lamias are extinct in Africa, Asia, Europe, western Oceania and southern South America. The only surviving Lamia populations are in New South Wales, Northern South America and North America. Lamias are so rare, nowadays, that some people simply do not believe in their existence.\n\nThe native language of Lamias, `Lamian`, also known by the exonym `Serpi`, is very quickly being lost to time, along with much of Lamia culture. Lamian is often compared to Phoenician, and is believed to be an ancestor of the semitic language. Lamian is a featural abugida with a very complicated, tonal grammatical structure, allowing simple english sentences to be translated into a single Lamian word. The language is written in boustrophedon, i.e., alternating direction. Lamian contains many vowel sounds, and some trills, that humans are incapable of producing, making the language difficult to preserve. Lamian is written in wax, clay, or similar materials using a stylus. This material allows Lamian to be the only nstural language in to be written in 3D, using strokes of varying depth. Instead of spaces, Lamian uses a special diacritic on the final symbol of a word, known as a `fÿņą`. Lamian also denotes meaning with the length at which a syllable is pronounced, as well as which syllable in a word has emphasis. Lamian has no concept of gender. Lamian uses a base-12, long scale numeral system.\n\nHistorically, Lamias revered snakes as gods, similar to the ancient Egyptian relationship with cats.\n\nThe ancient Lamian empire was a continent-spanning **communist** empire, with its capital in modern-day Constanța. The Lamian empire was destroyed by a former-colony, in Italy, led by Romulus. This colony conquered the Lamian empire, eventually becoming the Roman empire.\n\nHistorical recounts of humans who witnessed Lamias in human armies described them as demons, monsters, or, sometimes, embodiments of death, itself.\n\nThe Lamian empire is believed to be the group known as the `Sea Peoples` that attacked Egypt in the late bronze age.\n\nIt is believed that the Lamian empire is responsible for many important, innovative inventions, which were lost to time, only to be reinvented by other civilizations.\n\nLamia is far from its previous status as an empire, but it still survives today, as a nation sharing an Eastern border with Russia.",
       "name": "Lamias",
-      "priority": 10,
-      "weight": 0,
       "enabled": false
     },
     {
       "entry": "In urban society, Lamias are often treated like feral animals, instead of people. There is deep-seated racism in modern society against Lamias, due to medieval nomadic Lamia tribes that used to hunt Preys.",
       "name": "Anti-Lamia Racism",
-      "priority": 10,
-      "weight": 0,
       "enabled": false
     },
     {
       "entry": "Preds are sorted into 7 tiers; S, A, B, C, D, and F, based on their abilities as a Pred. A `+` or a `-` can be added as a suffix for extra specificity. `Apex` is just another way of saying `S Pred`. Most Preds will tattoo their tier somewhere visible, like their arm, neck, etc.",
       "name": "Tiers",
-      "priority": 0,
-      "weight": 0,
       "enabled": true
     },
     {
       "entry": "Harpies are creatures resembling a fusion of a human and a bird. They have a human body, but are covered in feathers, and have bird feet. Harpies have feathers on their arms that allow them to fly with ease. All Harpies are Preds, with roughly 25% being Apexes. Harpies are rare to come across, but not unheard of.",
       "name": "Harpy",
-      "priority": 0,
-      "weight": 0,
       "enabled": true
     },
     {
       "entry": "Oral Vore is the process of a Pred swallowing a Prey whole, the Prey slides down the Pred's throat, into their stomach. The Pred then has the choice of either digesting their Prey, or keeping the Prey safe and protected in their stomach",
       "name": "Oral Vore",
-      "priority": 0,
-      "weight": 0,
       "enabled": true
     },
     {
       "entry": "Anal Vore is the process of a Pred inserting a Prey up their ass, into their stomach. The Pred then has the choice of either digesting their Prey, or keeping the Prey safe and protected in their stomach",
       "name": "Anal Vore",
-      "priority": 0,
-      "weight": 0,
       "enabled": true
     },
     {
       "entry": "Unbirth is the process of a Pred inserting a Prey up their vagina, into their womb. The Pred then has the choice of either churning their Prey into cum, or keeping the Prey safe and protected in their womb\nUnbirth is only possible for female Preds.",
       "name": "Unbirth",
-      "priority": 0,
-      "weight": 0,
       "enabled": true
     },
     {
       "entry": "Cock Vore is the process of a Pred inserting a Prey down their cock, into their balls. The Pred then has the choice of either churning their Prey into cum, or keeping the Prey safe and protected in their balls\nCock Vore is only possible for Male Preds and Futas.",
       "name": "Cock Vore",
-      "priority": 0,
-      "weight": 0,
       "enabled": true
     },
     {
       "entry": "Breast Vore is the process of a Pred inserting a Prey into their boobs. The Pred then has the choice of either churning their Prey into milk, or keeping the Prey safe and protected in their boobs\nBreast Vore is only possible for Female Preds.",
       "name": "Breast Vore",
-      "priority": 0,
-      "weight": 0,
       "enabled": true
     },
     {
       "entry": "Changelings are shapeshifting Ultra-Apex Preds. The standard pred tier system does not go high enough to account for even the weakest Changeling, hence why Changelings have a specialized scale (`SF`, `SD`, `SC`, `SB`, `SA`, `SS`). A telltale sign of a Changeling is that they blink horizontally.",
       "name": "Changeling",
-      "priority": 0,
-      "weight": 0,
       "enabled": true
     }
   ]
