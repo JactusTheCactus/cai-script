@@ -16,7 +16,10 @@ def chat():
         html = re.sub(r'<blockquote></blockquote>',r'',html)
         return toHTML(html)
     def entryMdFormat(input):
-        md = f"> # {input[0]}:\n{re.sub(r'^',r'> ',input[1],flags=re.M)}\n\n"
+        md = f"""> # {input[0]}:
+{re.sub(r'^',r'> ',input[1],flags=re.M)}
+
+"""
         md = re.sub(r'\\n',r'\n',md)
         return md
     print('Generating Chat Logs...')
