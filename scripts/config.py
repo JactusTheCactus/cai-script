@@ -12,7 +12,7 @@ seed = [
 ]
 seedList = []
 def toHTML(input):
-    output = re.sub(r'',r'',input)
+    output = re.sub(r'`(.*?)`',r'<code>\1</code>',input)
     output = f"<!DOCTYPE html><head></head><link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown-dark.css\" integrity=\"sha512-XNBMUjy86G874D+6YN8vaBJpEut/Q0IafwiWxO5CoZDyaVXxbzyzacBpA55GPYhetzeLhxUbgdETrigRIVeNqQ==\" crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\" /><style>.markdown-body{{margin:0 auto;padding:45px;}}@media(max-width:767px){{.markdown-body{{padding:15px;}}}}</style><body class=\"markdown-body\">{output}</body>"
     return output
 for s in seed:
