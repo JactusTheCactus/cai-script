@@ -1,0 +1,14 @@
+Chats:
+    chats/source/devin&kristina-02.jsonl => chats/readable/md/jdwyz&muhpwxmn-02.md
+    chats/source/devin&kristina-02.jsonl => chats/readable/html/jdwyz&muhpwxmn-02.html
+    chats/source/devin&kristina-01.jsonl => chats/readable/md/jdwyz&muhpwxmn-01.md
+    chats/source/devin&kristina-01.jsonl => chats/readable/html/jdwyz&muhpwxmn-01.html
+    chats/source/sadie&typh.jsonl => chats/readable/md/xsyys&nons.md
+    chats/source/sadie&typh.jsonl => chats/readable/html/xsyys&nons.html
+    chats/source/rory&leila.json => chats/readable/md/ofgx&bvarg.md
+    chats/source/rory&leila.json => chats/readable/html/ofgx&bvarg.html
+    chats/source/devin&sadie.json => chats/readable/md/jdwyz&jqvyq.md
+    chats/source/devin&sadie.json => chats/readable/html/jdwyz&jqvyq.html
+Lore Books:
+lore/source/vore.json => lore/readable/md/kfgj.md
+lore/source/vore.json => lore/readable/html/kfgj.html

@@ -5,22 +5,25 @@ def main():
     from chat import chat
     from lore import lore
     from genPage import genPage
+    print()
     structure = {
         'chats': {
-            'files': {},
-            'md': {},
+            'source': {},
+            'readable': {
+                'md': {},
+                'html': {}
+            },
         },
         'lore': {
-            'files': {},
-            'md': {},
+            'source': {},
+            'readable': {
+                'md': {},
+                'html': {}
+            },
         },
         'NotebookLM': {},
         'logs': {}
     }
-    scripts = [
-        'chat',
-        'lore'
-    ]
     def create_dirs(base, tree):
         for name, subtree in tree.items():
             path = os.path.join(base, name)
@@ -38,8 +41,10 @@ def main():
                 except Exception as e:
                     print(f'Failed to delete {file_path}. Reason: {e}')
     emptyDirectories = [
-        os.path.join('chats','md'),
-        os.path.join('lore','md'),
+        os.path.join('chats','readable','md'),
+        os.path.join('chats','readable','html'),
+        os.path.join('lore','readable','md'),
+        os.path.join('lore','readable','html'),
         os.path.join('NotebookLM')
     ]
     for dir in emptyDirectories:
@@ -75,7 +80,7 @@ def main():
     print("Generating README.md")
     with open('README.md','w',encoding='utf-8') as f:
         f.write(README)
-    print(f"Generating {log}...")
+    print(f"Generating log...")
     genPage()
 if __name__ == "__main__":
     main()

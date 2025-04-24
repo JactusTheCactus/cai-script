@@ -6,8 +6,8 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 
 # Define folders relative to repo root
 targets = {
-    "chats/md": ".md",
-    "lore/md": ".md",
+    os.path.join('chats','readable','html'): ".html",
+    os.path.join('lore','readable','html'): ".html",
     "logs": ".txt"
 }
 
@@ -15,11 +15,11 @@ def genPage():
     lines = ['<html>', '<style>body{background-color:#fff;}</style>', '<head><title>Index</title></head>', '<body>', '<h1>Repository Index</h1>']
 
     for folder, extension in targets.items():
-        if folder == 'chats/md':
+        if folder == os.path.join('chats','readable','html'):
             head = 'Chats'
-        elif folder == 'lore/md':
+        elif folder == os.path.join('lore','readable','html'):
             head = 'Lore Books'
-        elif folder == 'logs':
+        elif folder == os.path.join('logs'):
             head = 'Logs'
         lines.append(f"<details><summary>{head}</summary>")
         lines.append("<ul>")

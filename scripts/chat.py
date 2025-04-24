@@ -4,10 +4,17 @@ def chat():
     import os
     from config import log as textLog
     from config import enigmaRename, logFormat
+    def entryHtmlFormat(md):
+        html = f"<blockquote><h1>{md[0]}:</h1></blockquote>{re.sub(r'^(.*?)$',r'<blockquote>\1</blockquote>',md[1],flags=re.M)}"
+        html = re.sub(r'\n',r'',html)
+        html = re.sub(r'(_|\*){2}(.*?)\1{2}',r'<b>\2</b>',html)
+        html = re.sub(r'(_|\*)(.*?)\1',r'<i>\2</i>',html)
+        html = re.sub(r'OOC: (.*)',r'<code>\1</code>',html)
+        return html
     print('Generating Chat Logs...')
     with open('charId.json','r',encoding='utf-8') as f:
         charIdDict = json.load(f)
-    chatLogs = os.listdir(os.path.join('chats','files'))
+    chatLogs = os.listdir(os.path.join('chats','source'))
     def getNames(file):
         capList = []
         basename = os.path.splitext(file)[0]
@@ -24,10 +31,12 @@ def chat():
         def fileMatch(file, extension):
             pattern = r'.*\.(' + extension + r')$'
             return bool(re.match(pattern, file))
-        input = os.path.join('chats','files',file)
-        output = os.path.join('chats','md',enigmaRename(re.sub(r'^(.*)\..*$',r'\1.md',file)))
-        outputFile = re.sub(r'chats\\md\\(.*)',r'\1',output)
-        inputFile = re.sub(r'chats\\files\\(.*)',r'\1',input)
+        input = os.path.join('chats','source',file)
+        outputMd = os.path.join('chats','readable','md',enigmaRename(re.sub(r'^(.*)\..*$',r'\1.md',file)))
+        outputMdFile = re.sub(r'chats\\readable\\md\\(.*)',r'\1',outputMd)
+        outputHtml = os.path.join('chats','readable','html',enigmaRename(re.sub(r'^(.*)\..*$',r'\1.html',file)))
+        outputHtmlFile = re.sub(r'chats\\readable\\html\\(.*)',r'\1',outputHtml)
+        inputFile = re.sub(r'chats\\source\\(.*)',r'\1',input)
         if fileMatch(file,'jsonl'):
             with open(input, "r", encoding="utf-8") as f:
                 data = [json.loads(line) for line in f if line.strip()]
@@ -40,9 +49,12 @@ def chat():
                     i[0] = user
                 elif i[0] == 'Character':
                     i[0] = character
-            with open(output,'w') as f:
+            with open(outputMd,'w') as f:
                 for i in extracted_data:
                     f.write(f"> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n")
+            with open(outputHtml,'w') as f:
+                for i in extracted_data:
+                    f.write(entryHtmlFormat(i))
         elif fileMatch(file,'json'):
             with open(input, "r", encoding="utf-8") as f:
                 data = json.load(f)
@@ -54,11 +66,17 @@ def chat():
                 else:
                     name = charIdDict[i["characterId"]]
                 log.append([name,i['msg']])
-            with open(output,'w') as f:
+            with open(outputMd,'w') as f:
                 for i in log:
                     f.write(f"> # {i[0]}:\n{re.sub(r'^',r'> ',i[1],flags=re.M)}\n\n")
+            with open(outputHtml,'w') as f:
+                for i in log:
+                    f.write(entryHtmlFormat(i))
         with open(textLog,'a',encoding='utf-8') as f:
-            f.write(f'{logFormat(input,output)}\n')
-        print(f'Generating {outputFile}...')
+            f.write(f'    {logFormat(input,outputMd)}\n')
+            f.write(f'    {logFormat(input,outputHtml)}\n')
+        print(f'    {outputMdFile[18:]}...')
+        print(f'    {outputHtmlFile[18:]}...')
     for i in chatLogs:
         logChat(i)
+    print('Chat Logs Generated Successfully')
