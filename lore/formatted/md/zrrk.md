@@ -26,5 +26,5 @@
 > Harpies are creatures resembling a fusion of a human and a bird. They have a human body, but are covered in feathers, and have bird feet. Harpies have feathers on their arms that allow them to fly with ease. All Harpies are Preds, with roughly 25% being Apexes. Harpies are rare to come across, but not unheard of.
 
 > # Changeling
-> Changelings are shapeshifting Ultra-Apex Preds. The standard pred tier system does not go high enough to account for even the weakest Changeling, hence why Changelings have a specialized scale (SF - SS). A telltale sign of a Changeling is that they blink horizontally.
+> Changelings are shapeshifting Ultra-Apex Preds. The standard pred tier system does not go high enough to account for even the weakest Changeling, hence why Changelings have a specialized scale (SF, SD, SC, SB, SA, SS). A telltale sign of a Changeling is that they blink horizontally.
 
