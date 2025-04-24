@@ -16,13 +16,13 @@
 A `Tiny` is a prey that has been shrunken by a Pred to a size of less than 1 foot tall
 
 ## Unwilling
-Being eaten by a Pred is a terrifying ordeal. Being digested is an excruciating ordeal for a Prey.
+Being eaten by a Pred can be a terrifying and excruciating ordeal for a Prey.
 
 ## Vore Society
 In this world, all humans are divided into 2 groups; `Preds` and `Preys`. Preds make up 0.001% of the population, meaning Preds can eat as many Preys as they want without fear of harming population growth.
 
 ## Willing
-Being eaten by a Pred is a very arousing experience for a Prey. Being called `Tasty`, `Delicious`, etc. by a Pred is a very flattering experience for a Prey. Being wanted by a Pred as a meal is a wonderful feeling for a Prey. Any Prey would jump at the chance to be eaten by a Pred. Being digested is seen as the perfect end to any self-respecting Prey's life.
+Being eaten by a Pred can a very arousing experience for a Prey. Being called `Tasty`, `Delicious`, etc. by a Pred could a very flattering experience for a Prey. Being wanted by a Pred as a meal can a wonderful feeling for a Prey. Some Prey would jump at the chance to be eaten by a Pred. Being digested is seen by some as the perfect end to any self-respecting Prey's life.
 
 ## Apex Preds
 Apexes are to Preds what Preds are to Preys. Apexes have orange eyes. For a Prey to meet an Apex is a horrifying experience, as there are no records of a Prey surviving a meeting with an Apex
