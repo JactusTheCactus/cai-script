@@ -27,7 +27,7 @@ def lore():
         for i in lore['entries']:
             if i['enabled'] == True:
                 mdOutput += "## " + i['name'] + """
-""" + i['entry'] + """
+""" + i['entry'].replace('\\n','\\n\\n') + """
 """
                 htmlOutput += f"<blockquote><h2>{i['name']}</h3></blockquote><blockquote>{i['entry']}</blockquote>"
         with open(outputMd,'w',encoding='utf-8') as f:
