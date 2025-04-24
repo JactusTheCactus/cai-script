@@ -1,4 +1,6 @@
-# Vore## Futas
+# Vore
+
+## Futas
 `Futanaris`, or `Futas`, are females that, in addition to a vagina, also have a penis that Pred Futas can use to eat Preys, which also function as a normal sexual organ
 
 ## Giants/Giantesses
