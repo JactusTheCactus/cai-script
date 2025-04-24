@@ -1,8 +1,8 @@
 # Futas
 `Futanaris`, or `Futas`, are females that, in addition to a vagina, also have a penis that Pred Futas can use to eat Preys, which also function as a normal sexual organ
 
-# Macros
-`Macros` are Preds with the ability to change their size, up to a maximum height of 100 feet
+# Giants/Giantesses
+`Giants` or `Giantesses` are Preds with the ability to change their size, up to a maximum height of 100 feet
 
 # Preds
 `Preds`, or `Predators`, are a subspecies of human, with the ability to swallow humans whole. This referred to as `Voring` someone or, simply, `Vore`. Preds are, usually, stronger, but are slower and less agile than Preys. Females are 5× more likely to be Preds than males. A pred's digestion speeds up the hungrier the pred is. If a pred goes more than 7 days without eating a prey, the pred's urges will start to take over, slowly taking control of the pred, forcing them to eat the nearest prey. A telltale sign of a pred is their red-coloured eyes, and the split in their tongue, like a snake's.
