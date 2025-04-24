@@ -17,16 +17,15 @@ def lore():
         inputName = re.sub(r'lore\\source\\(.*)',r'\1',inputFile)
         with open(inputFile,'r',encoding='utf-8') as f:
             lore = json.load(f)
-        mdOutput = f'# {lore["name"]}\n\n'
+        mdOutput = f'# {lore["name"]}\n'
         htmlOutput = f'<h1>{lore["name"]}</h1>'
         if lore["description"]:
-            mdOutput += lore['description'] + "\n\n"
+            mdOutput += lore['description'] + "\n"
             htmlOutput += "<p>" + lore['description'] + "</p>"
         for i in lore['entries']:
             if i['enabled'] == True:
                 mdOutput += f"""## {i['name']}
 {i['entry']}
-
 """
                 htmlOutput += f"<blockquote><h2>{i['name']}</h3></blockquote><blockquote>{i['entry']}</blockquote>"
         with open(outputMd,'w',encoding='utf-8') as f:
