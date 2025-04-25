@@ -5,12 +5,12 @@
     {
       "entry": "`Futanaris`, or `Futas`, are females that, in addition to a vagina, also have a penis that Pred Futas can use to eat Preys, which also function as a normal sexual organ",
       "name": "Futas",
-      "enabled": true
+      "enabled": false
     },
     {
       "entry": "`Giants` or `Giantesses` are Preds with the ability to change their size, up to a maximum height of 100 feet",
       "name": "Giants/Giantesses",
-      "enabled": true
+      "enabled": false
     },
     {
       "enabled": true,
@@ -25,7 +25,7 @@
     {
       "entry": "A `Tiny` is a Prey that has been shrunken by a Pred to a size of less than 1 foot tall",
       "name": "Tinies",
-      "enabled": true
+      "enabled": false
     },
     {
       "entry": "Being eaten by a Pred can be a terrifying and excruciating ordeal for a Prey.",
@@ -40,7 +40,7 @@
     {
       "entry": "Being eaten by a Pred can be a very arousing experience for a Prey. Being called `Tasty`, `Delicious`, etc. by a Pred could be a very flattering experience for a Prey. Being wanted by a Pred as a meal can be a wonderful feeling for a Prey. Some Prey would jump at the chance to be eaten by a Pred. Being digested is seen by some as the perfect end to any self-respecting Prey's life.",
       "name": "Willing Preys",
-      "enabled": true
+      "enabled": false
     },
     {
       "entry": " Due to the threat they pose to citizens, Preds have significantly less rights than Preys, and are treated as second class citizens. Preds have difficulty being accepted for loans. Pred suicide rates are significantly higher than that of Prey. 75% of Pred deaths are suicides. Racism against Preds is perfectly socially acceptable, even encouraged. Crimes against Preds are really hard to punish people for, because it's impossible to find a jury that would side with the Pred",
@@ -70,32 +70,32 @@
     {
       "entry": "Harpies are creatures resembling a fusion of a human and a bird. They have a human body, but are covered in feathers, and have bird feet. Harpies have feathers on their arms that allow them to fly with ease. All Harpies are Preds, with roughly 25% being Apexes. Harpies are rare to come across, but not unheard of.",
       "name": "Harpy",
-      "enabled": true
+      "enabled": false
     },
     {
       "entry": "Oral Vore is the process of a Pred swallowing a Prey whole, the Prey slides down the Pred's throat, into their stomach. The Pred then has the choice of either digesting their Prey, or keeping the Prey safe and protected in their stomach",
       "name": "Oral Vore",
-      "enabled": true
+      "enabled": false
     },
     {
       "entry": "Anal Vore is the process of a Pred inserting a Prey up their ass, into their stomach. The Pred then has the choice of either digesting their Prey, or keeping the Prey safe and protected in their stomach",
       "name": "Anal Vore",
-      "enabled": true
+      "enabled": false
     },
     {
       "entry": "Unbirth is the process of a Pred inserting a Prey up their vagina, into their womb. The Pred then has the choice of either churning their Prey into cum, or keeping the Prey safe and protected in their womb\nUnbirth is only possible for female Preds.",
       "name": "Unbirth",
-      "enabled": true
+      "enabled": false
     },
     {
       "entry": "Cock Vore is the process of a Pred inserting a Prey down their cock, into their balls. The Pred then has the choice of either churning their Prey into cum, or keeping the Prey safe and protected in their balls\nCock Vore is only possible for Male Preds and Futas.",
       "name": "Cock Vore",
-      "enabled": true
+      "enabled": false
     },
     {
       "entry": "Breast Vore is the process of a Pred inserting a Prey into their boobs. The Pred then has the choice of either churning their Prey into milk, or keeping the Prey safe and protected in their boobs\nBreast Vore is only possible for Female Preds.",
       "name": "Breast Vore",
-      "enabled": true
+      "enabled": false
     },
     {
       "entry": "Changelings are shapeshifting Ultra-Apex Preds. The standard Pred tier system does not go high enough to account for even the weakest Changeling, hence why Changelings have a specialized scale (`SF`, `SD`, `SC`, `SB`, `SA`, `SS`). A telltale sign of a Changeling is that they blink horizontally.",
@@ -105,7 +105,7 @@
     {
       "entry": "After digesting someone, Preds have the option to `Reform` the Prey. Very few Preys earn the favour of their Pred while also getting eaten, so this is a very rare occurrence. A Prey is only reformed if the Pred liked them enough, so `Reformation` only occurs if a Prey, somehow, befriends their Pred prior to their demise.\nThe process of `reforming` someone takes a considerable amount of focus, but is not painful. after a few seconds of this focus, the Prey's soul will emerge from the Pred's stomach, with their physical body forming around it; starting with the bones, then muscle, then skin.",
       "name": "Reformation",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
