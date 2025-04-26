@@ -1,2 +1,4 @@
 NotebookLM/
 **/__pycache__/
+**/source/*
+!**/source/.gitkeep
