@@ -21,14 +21,14 @@ def chat():
 """
         md = re.sub(r'\\n',r'\n',md)
         return md
-    print('Generating Chat Logs...')
+    
     with open('charId.json','r',encoding='utf-8') as f:
         charIdDict = json.load(f)
     chatLogs = os.listdir(os.path.join('chats','source'))
     def getNames(file):
         capList = []
         basename = os.path.splitext(file)[0]
-        lowerList = basename.split("&")
+        lowerList = basename.split("+")
         for name in lowerList:
             capList.append(name.capitalize())
         return capList
@@ -43,10 +43,7 @@ def chat():
             return bool(re.match(pattern, file))
         input = os.path.join('chats','source',file)
         outputMd = os.path.join('chats','formatted','md',enigmaRename(re.sub(r'^(.*)\..*$',r'\1.md',file)))
-        outputMdFile = re.sub(r'chats\\formatted\\md\\(.*)',r'\1',outputMd)
         outputHtml = os.path.join('chats','formatted','html',enigmaRename(re.sub(r'^(.*)\..*$',r'\1.html',file)))
-        outputHtmlFile = re.sub(r'chats\\formatted\\html\\(.*)',r'\1',outputHtml)
-        inputFile = re.sub(r'chats\\source\\(.*)',r'\1',input)
         if fileMatch(file,'jsonl'):
             with open(input, "r", encoding="utf-8") as f:
                 data = [json.loads(line) for line in f if line.strip()]
@@ -71,7 +68,9 @@ def chat():
             log = []
             for i in data["messages"]:
                 name = None
-                if i.get('handle'):
+                if i.get('name') and i.get('name') != 'JactusTheCactus':
+                    name = i["name"]
+                elif i.get('handle'):
                     name = i["handle"]
                 elif i["characterId"] in charIdDict:
                     name = charIdDict[i["characterId"]]
@@ -87,8 +86,5 @@ def chat():
         with open(textLog,'a',encoding='utf-8') as f:
             f.write(f'    {logFormat(input,outputMd)}\n')
             f.write(f'    {logFormat(input,outputHtml)}\n')
-            if outputMdFile[19:-3] == outputHtmlFile[21:-5]:
-                print(f'    {outputHtmlFile[21:-5]}')
     for i in chatLogs:
         logChat(i)
-    print()

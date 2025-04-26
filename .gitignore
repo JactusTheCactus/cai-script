@@ -1,4 +1,0 @@
-# Ignore the entire NotebookLM directory
-NotebookLM/
-# Ignore all contents in __pycache__ directories
-**/__pycache__/

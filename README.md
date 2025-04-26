@@ -1,7 +1,7 @@
 # Instructions
 ## File names follow a specific format:
 - ### Chats: 
-    - `User&MainChar-##.file`
+    - `User+MainChar-##.file`
     - example: `Johnny&Jessica-03.json`
     - `-##` is optional
         - only use if there are duplicates

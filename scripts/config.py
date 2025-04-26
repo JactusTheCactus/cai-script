@@ -40,7 +40,7 @@ def enigmaRename(userInput):
     num_rotors = len(seed)
     for idx, ch in enumerate(userInput):
         # Preserve digits & the ampersand
-        if ch.isdigit() or ch == '&':
+        if ch.isdigit() or ch == '+':
             output.append(ch)
             continue
         # On hitting the dot, append extension and stop

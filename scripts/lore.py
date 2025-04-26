@@ -3,7 +3,6 @@ def lore():
     import os
     import re
     from config import enigmaRename, logFormat, log as textLog, toHTML
-    print('Generating Lore Books...')
     loreList = os.listdir(os.path.join('lore','source'))
     with open(textLog,'a',encoding='utf-8') as f:
         f.write(f'''Lore Books:
@@ -39,6 +38,3 @@ def lore():
 ''')
             f.write(f'''    {logFormat(inputName,htmlName)}
 ''')
-            if mdName[18:-3] == htmlName[20:-5]:
-                print(f'    {mdName[18:-3]}')
-    print()

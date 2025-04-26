@@ -30,7 +30,7 @@
     {
       "entry": "Being eaten by a Pred can be a terrifying and excruciating ordeal for a Prey.",
       "name": "Unwilling Preys",
-      "enabled": true
+      "enabled": false
     },
     {
       "enabled": true,
@@ -40,7 +40,7 @@
     {
       "entry": "Being eaten by a Pred can be a very arousing experience for a Prey. Being called `Tasty`, `Delicious`, etc. by a Pred could be a very flattering experience for a Prey. Being wanted by a Pred as a meal can be a wonderful feeling for a Prey. Some Prey would jump at the chance to be eaten by a Pred. Being digested is seen by some as the perfect end to any self-respecting Prey's life.",
       "name": "Willing Preys",
-      "enabled": false
+      "enabled": true
     },
     {
       "entry": " Due to the threat they pose to citizens, Preds have significantly less rights than Preys, and are treated as second class citizens. Preds have difficulty being accepted for loans. Pred suicide rates are significantly higher than that of Prey. 75% of Pred deaths are suicides. Racism against Preds is perfectly socially acceptable, even encouraged. Crimes against Preds are really hard to punish people for, because it's impossible to find a jury that would side with the Pred",

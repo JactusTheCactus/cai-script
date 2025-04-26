@@ -6,7 +6,6 @@ def main():
     from lore import lore
     from genPage import genPage
     import re
-    print()
     structure = {
         'chats': {
             'source': {},
@@ -69,7 +68,7 @@ def main():
     README = f"""# Instructions
 ## File names follow a specific format:
 - ### Chats: 
-    - `User&MainChar-##.file`
+    - `User+MainChar-##.file`
     - example: `Johnny&Jessica-03.json`
     - `-##` is optional
         - only use if there are duplicates
@@ -83,10 +82,8 @@ def main():
     - example: `Lakedaimon.json`
     - via {mdLinks['Agnaistic']}
 """
-    print("Generating README.md")
     with open('README.md','w',encoding='utf-8') as f:
         f.write(README)
-    print(f"Generating log...")
     genPage()
 if __name__ == "__main__":
     main()
