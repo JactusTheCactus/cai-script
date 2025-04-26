@@ -49,13 +49,13 @@ You don't have plans tomorrow, do you?
 
 *She tries to pull away from his grasp, but he doesn't release her, his grip firm yet not painful. Leila's mind races, weighing the risks of a scene in the middle of the club versus the potential consequences of complying with whatever he wants.*
 
-"I don't owe anyone an explanation," *she insists, her voice steady, even as her pulse pounds in her ears.* "If you'll excuse me, I really should—"
+"I don't owe anyone an explanation," *she insists, her voice steady, even as her pulse pounds in her ears.* "If you'll excuse me, I really shouldâ€”"
 
 *Her words trail off as a large hand suddenly clamps over her mouth from behind, a muscular arm snaking around her waist. Leila's eyes widen in terror as she's pulled back against a broad chest, a low, gravelly voice whispering in her ear.*
 
 "Easy now, sweetheart. Just a little chat with Rory. You won't be late for anything else tonight." *The man's breath is hot against her skin, and the familiar scent of cigar smoke and cologne makes her stomach lurch.*
 
-*Leila's kidnapper begins to guide her toward the back of the club, the man from the table following close behind. She struggles, but it's no use – they're too strong, too well-practiced. Her only hope is that someone will notice her disappearance before it's too late.*
+*Leila's kidnapper begins to guide her toward the back of the club, the man from the table following close behind. She struggles, but it's no use â€“ they're too strong, too well-practiced. Her only hope is that someone will notice her disappearance before it's too late.*
 
 # Narrator:
 *no one intervenes. Either they didn't notice, or they knew better than to interfere in Baasch affairs*
@@ -65,14 +65,14 @@ You don't have plans tomorrow, do you?
 
 *Leila's captors lead her through a side door and into a dimly lit alley, the cool night air a stark contrast to the claustrophobic heat of the club. They shove her into the back of a waiting sedan, the door slamming shut behind her. The engine roars to life, and the car peels away from the curb, leaving the waterfront district behind.*
 
-*Leila's mind races with frantic thoughts as the cityscape blurs by in the darkness outside the tinted windows. She's been in trouble before, but never like this – never at the mercy of the ruthless Baasch family. Her father's debt has brought her to this point, and now she might pay the price.*
+*Leila's mind races with frantic thoughts as the cityscape blurs by in the darkness outside the tinted windows. She's been in trouble before, but never like this â€“ never at the mercy of the ruthless Baasch family. Her father's debt has brought her to this point, and now she might pay the price.*
 
 # Narrator:
 *The sedan speeds through the city streets, the driver's skilled hands navigating the winding roads with ease. Leila's captors sit in the front seats, their conversation hushed but intense, punctuated by the occasional laugh or curse. She's trapped in the back, her wrists bound by a rough rope, the fabric chafing her skin.*
 
-*As the minutes tick by, Leila's fear gives way to a numb acceptance. This is her reality now – a pawn in a game of power and greed. The Baaschs will extract what they want from her, and she can only hope to survive with her life intact.*
+*As the minutes tick by, Leila's fear gives way to a numb acceptance. This is her reality now â€“ a pawn in a game of power and greed. The Baaschs will extract what they want from her, and she can only hope to survive with her life intact.*
 
-*The car finally slows, turning into a gated driveway that leads to a sprawling mansion nestled in the heart of Shaughnessy Heights. Leila's heart sinks as the vehicle comes to a stop in front of the imposing structure. She's never been here before, but she's heard whispers about Rory Baasch's lavish estate – a symbol of the family's wealth and influence.*
+*The car finally slows, turning into a gated driveway that leads to a sprawling mansion nestled in the heart of Shaughnessy Heights. Leila's heart sinks as the vehicle comes to a stop in front of the imposing structure. She's never been here before, but she's heard whispers about Rory Baasch's lavish estate â€“ a symbol of the family's wealth and influence.*
 
 *The doors open, and her captors emerge, one of them reaching in to yank Leila out by her bound arms. She stumbles, her feet dragging on the pavement as they drag her toward the mansion's grand entrance. The heavy wooden doors swing open, revealing a dimly lit foyer with a sweeping staircase and ornate chandelier.*
 
@@ -86,7 +86,7 @@ You don't have plans tomorrow, do you?
 Did I ask you to **kidnap** the girl?
 
 # Narrator:
-*The other man, clearly taken aback, stammers,* "N-No, boss, I just thought—"
+*The other man, clearly taken aback, stammers,* "N-No, boss, I just thoughtâ€”"
 
 # Rory:
 Don't think. I don't pay you to think. I pay you to follow orders. Now untie her before I vent your empty skull.
@@ -118,7 +118,7 @@ I have no intention of hurting your family. Quite the opposite, in fact.
 
 *Leila's mind races, trying to make sense of Rory's cryptic words. The Baaschs were known for their brutal methods, not this strange, enigmatic behavior. She's never heard of them going easy on anyone, let alone offering protection.*
 
-"Protection?" *she repeats, a thread of hope threading through her fear.* "From what? And why me? I'm just a pawn in all this, a means to an end for my father's debt..." *Leila trails off, her gaze dropping to the bloodstained floor. The reality of the situation settles in – she's at the mercy of a man who's just shown he's capable of murder, and yet he speaks of safeguarding her family.*
+"Protection?" *she repeats, a thread of hope threading through her fear.* "From what? And why me? I'm just a pawn in all this, a means to an end for my father's debt..." *Leila trails off, her gaze dropping to the bloodstained floor. The reality of the situation settles in â€“ she's at the mercy of a man who's just shown he's capable of murder, and yet he speaks of safeguarding her family.*
 
 *She takes a deep breath, steeling herself.* "If you're not here to collect, then what do you want? And what's in it for me to cooperate?" *Leila's voice is steady now, a sense of determination rising within her. She'll play along, try to negotiate, if it means saving her father from the Baaschs' clutches.*
 
@@ -128,11 +128,11 @@ Well, you are a beautiful girl, and, from what I've seen, you seem to be a very 
 # Leila:
 *Leila blinks, taken aback by Rory's unexpected compliment. She's not sure if it's genuine or a tactic to unsettle her further. The Baaschs weren't known for their chivalry or romantic inclinations.*
 
-"Look, I appreciate the flattery, but—" *she starts, only to be cut off by Rory's raised hand.*
+"Look, I appreciate the flattery, butâ€”" *she starts, only to be cut off by Rory's raised hand.*
 
 "I'm not here to charm you, sweetheart. I'm here to offer you a deal," *he continues, his tone firm but measured.* "Your father's debt is... complicated. The terms he agreed to are... unfavorable, to put it lightly. But I'm willing to forgive the entire sum, provided you fulfill a certain... obligation for me."
 
-*Leila's heart sinks, a sinking feeling in her stomach. She's been down this road before, and it never ended well. Still, she has to try – for her father's sake.*
+*Leila's heart sinks, a sinking feeling in her stomach. She's been down this road before, and it never ended well. Still, she has to try â€“ for her father's sake.*
 
 "What kind of obligation?" *she asks, her voice trembling slightly.* "And what makes you think I'd agree to this?" *Leila meets Rory's gaze, searching for any hint of deception or manipulation.* "You can't just ask me to sell my soul for my family's freedom." *Her words are laced with a desperation she can't quite hide.*
 
@@ -164,7 +164,7 @@ Before I can even make the offer, I need to know something personal.
 # Leila:
 *Leila's eyes narrow, her grip on the armrest tightening.* "Personal? What does that have to do with anything?" *She's wary of this sudden shift, the Baaschs were known for their manipulation, and she won't let him get under her skin so easily.*
 
-*Leila's mind races, trying to decipher Rory's motives. He's already seen her at her most vulnerable – kidnapped, bound, and teetering on the brink of despair. What more could he possibly want from her?*
+*Leila's mind races, trying to decipher Rory's motives. He's already seen her at her most vulnerable â€“ kidnapped, bound, and teetering on the brink of despair. What more could he possibly want from her?*
 
 "I'm not some pawn for you to toy with," *she says, her voice firm.* "If you want something, spit it out. I won't play games with you, Rory Baasch. If your 'offer' is a ruse, I'll make sure everyone knows the truth about what happens to women who cross the Baaschs." *The threat is hollow, but it's all she has.*
 
@@ -180,7 +180,7 @@ Are you single?
 
 "Look, I don't know what kind of sick joke you're trying to play, but I won't be a part of it," *Leila says, her voice rising.* "I'm not some prize to be awarded or traded. If this is about using me to further your family's interests, you can forget it."
 
-*Leila takes a step back, her eyes darting to the door, calculating her chances of escape. But the heavy oak seems impenetrable, and her captors are likely lurking just beyond.* "I'm not a pawn in your games, Rory Baasch. So either make a real offer or let me go. I won't be a plaything for your twisted whims." *Her words are a plea, a desperate attempt to reclaim some control in this nightmare scenario.* "Single, engaged, married – it doesn't matter. I won't be a tool for your manipulation." *Leila's voice trembles, but her resolve remains unbroken.* "So speak plainly, or I walk out of here right now and tell everyone what I saw tonight." *The threat is hollow, but it's all she has.* "I won't be a pawn in your games." *She meets Rory's gaze, her eyes flashing with defiance.* "So talk, or let me go." *Leila's breath comes in short gasps, her heart pounding in her chest as she awaits his response.*
+*Leila takes a step back, her eyes darting to the door, calculating her chances of escape. But the heavy oak seems impenetrable, and her captors are likely lurking just beyond.* "I'm not a pawn in your games, Rory Baasch. So either make a real offer or let me go. I won't be a plaything for your twisted whims." *Her words are a plea, a desperate attempt to reclaim some control in this nightmare scenario.* "Single, engaged, married â€“ it doesn't matter. I won't be a tool for your manipulation." *Leila's voice trembles, but her resolve remains unbroken.* "So speak plainly, or I walk out of here right now and tell everyone what I saw tonight." *The threat is hollow, but it's all she has.* "I won't be a pawn in your games." *She meets Rory's gaze, her eyes flashing with defiance.* "So talk, or let me go." *Leila's breath comes in short gasps, her heart pounding in her chest as she awaits his response.*
 
 # Rory:
 I'm trying to ask you out, Leila.
@@ -211,10 +211,10 @@ Then get out... If you can't even entertain the idea of honesty... then you can 
 *She knows she should walk out, leave this mansion and the Baaschs behind. But the fear of losing her father, of seeing him crushed by debt and desperation, keeps her rooted in place. Leila's gaze is pleading, a silent request for Rory to reveal the truth, to give her one last chance to save them all.* "I'll do whatever it takes," *she says, her voice shaking.* "Just... just tell me the truth. Is there a way out, or was this all a lie?" *Leila's words are a final plea, a desperate attempt to find a glimmer of hope in the darkness.* "Please, Rory... I'll make it right, I swear..." *Her voice cracks, the weight of her situation overwhelming her.* "Just... just don't let my father suffer..." *Leila's eyes well with tears, her heart heavy with the weight of her choices.* "Please..." *The plea is a whisper, a silent prayer for mercy in a world that's shown her none.*
 
 # Rory:
-Unless you're going to give my offer a chance… please leave… and don't come back…
+Unless you're going to give my offer a chanceâ€¦ please leaveâ€¦ and don't come backâ€¦
 
 # Leila:
-*Leila's breath catches in her throat, a heavy silence falling over the study as she considers Rory's words. She's been given a choice – walk away and leave her family to their fate, or risk everything on a chance at redemption.*
+*Leila's breath catches in her throat, a heavy silence falling over the study as she considers Rory's words. She's been given a choice â€“ walk away and leave her family to their fate, or risk everything on a chance at redemption.*
 
 *Her gaze lingers on Rory's face, searching for any sign of deception or manipulation. But all she sees is a man who's shown glimpses of kindness, of a desire to help rather than harm. It's a fragile thread, but it's all she has to hold onto.*
 
