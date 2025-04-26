@@ -12,7 +12,7 @@ def chat():
         html = re.sub(r'OOC: (.*)',r'<code>\1</code>',html)
         html = re.sub(r'`(.*)`',r'<code>\1</code>',html)
         html = re.sub(r'```\n(.*)\n```',r'<pre><code>\1</code></pre>',html)
-        html = re.sub(r'\n',r'',html)
+        html = re.sub(r'\n',r'<br>',html)
         return toHTML(html)
     def entryMdFormat(input):
         md = f"""# {input[0]}:
