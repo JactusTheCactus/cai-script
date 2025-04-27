@@ -1,32 +1,27 @@
 name: Run Python Script on Commit
-
 on:
   push:
     branches:
       - main
-
 jobs:
   run-script:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.13.3'
+        python-version: '3.12.x'
     - name: Run script
       run: python scripts/script.py
-
     - name: Configure Git
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
     - name: Commit changes
       run: |
         git add .
         git commit -m "Auto-commit: update from script" || echo "No changes to commit"
+        git pull --rebase
         git push
