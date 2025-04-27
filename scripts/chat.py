@@ -1,9 +1,12 @@
-def chat():
+def chatFunction():
     import re
     import json
     import os
     from config import log as textLog, toHTML
     from config import enigmaRename, logFormat
+    def insertSubDir(file, subDir):
+        dir, filename = os.path.split(file)
+        return os.path.join(dir, subDir, filename)
     def entryHtmlFormat(input):
         input[1] = re.sub(r'^(.*?)$',r'\1',input[1],flags=re.M)
         html = f"<h1>{input[0]}:</h1>{input[1]}"
@@ -24,28 +27,37 @@ def chat():
     
     with open('charId.json','r',encoding='utf-8') as f:
         charIdDict = json.load(f)
-    chatLogs = os.listdir(os.path.join('chats','source'))
+
+    chatLogs = []
+
+    source = os.path.join('chats', 'source')
+
+    for folder in os.listdir(source):
+        folder_path = os.path.join(source, folder)
+        if os.path.isdir(folder_path):
+            for file in os.listdir(folder_path):
+                chatLogs.append(f"{folder} => {file}")
     def getNames(file):
+        file = re.sub(r'.* => (.*?)',r'\1',file)
         capList = []
         basename = os.path.splitext(file)[0]
-        lowerList = basename.split("+")
+        lowerList = basename.split("&")
         for name in lowerList:
             capList.append(name.capitalize())
         return capList
     with open(textLog,'a',encoding='utf-8') as f:
         f.write(f'Chats:\n')
     def logChat(file):
+        format = re.sub(r'(.*) \=\> .*',r'\1',file)
+        file = re.sub(r'.*? => (.*?)',r'\1',file)
         names = getNames(file)
         user = names[0]
         character = names[1]
-        def fileMatch(file, extension):
-            pattern = r'.*\.(' + extension + r')$'
-            return bool(re.match(pattern, file))
         input = os.path.join('chats','source',file)
         outputMd = os.path.join('chats','formatted','md',enigmaRename(re.sub(r'^(.*)\..*$',r'\1.md',file)))
         outputHtml = os.path.join('chats','formatted','html',enigmaRename(re.sub(r'^(.*)\..*$',r'\1.html',file)))
-        if fileMatch(file,'jsonl'):
-            with open(input, "r", encoding="utf-8") as f:
+        if format == 'cai':
+            with open(insertSubDir(input, format), "r", encoding="utf-8") as f:
                 data = [json.loads(line) for line in f if line.strip()]
             extracted_data = [
                 [entry.get('name'), entry.get('mes')] 
@@ -62,8 +74,8 @@ def chat():
             with open(outputHtml,'w') as f:
                 for i in extracted_data:
                     f.write(entryHtmlFormat(i))
-        elif fileMatch(file,'json'):
-            with open(input, "r", encoding="utf-8") as f:
+        elif format == 'agnaistic':
+            with open(insertSubDir(input, format), "r", encoding="utf-8") as f:
                 data = json.load(f)
             log = []
             for i in data["messages"]:

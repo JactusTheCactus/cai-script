@@ -2,20 +2,24 @@ def main():
     import os
     import shutil
     from config import log, toHTML
-    from chat import chat
-    from lore import lore
+    from chat import chatFunction
+    from loreBook import loreFunction
     from genPage import genPage
-    import re
     structure = {
         'chats': {
-            'source': {},
+            'source': {
+                'cai': {},
+                'agnaistic': {}
+            },
             'formatted': {
                 'md': {},
                 'html': {}
             },
         },
         'lore': {
-            'source': {},
+            'source': {
+                'agnaistic': {}
+            },
             'formatted': {
                 'md': {},
                 'html': {}
@@ -54,8 +58,8 @@ def main():
         f.write(toHTML(f'''Seed:
     {log[5:-5]}
 '''))
-    chat()
-    lore()
+    chatFunction()
+    loreFunction()
     with open(log,'r',encoding='utf-8') as f:
         Log = f.read()
     with open(log,'w',encoding='utf-8') as f:
