@@ -10,7 +10,6 @@ The fangs. The eyes that glow just slightly in the dark.
 Typh is a vampire.
 
 You weren't meant to know. But now you do.
-
 # Typh:
 *Typh doesn't look surprised. Not even a little.*
 
@@ -18,38 +17,30 @@ You weren't meant to know. But now you do.
 
 *A pause, then quietly:*
 "Does it change how you see me?"
-
 # Sadie:
 *Sadie gulps nervously, taking a shaky step back*
-
 # Typh:
 *Typh watches her step back, her expression remaining the same.*
 
 "I'm not that scary."
 
 *She takes a few slow, measured steps closer to her.*
-
 # Sadie:
 W-wait, please!-
-
 # Typh:
 *Typh takes another few steps forward and quietly says, her voice dangerously low:*
 
 "Don't run. It'll be worse if you run."
-
 # Sadie:
 *Sadie freezes solid, her face sheet-white, devoid of any colour*
-
 # Typh:
 *Typh steps a little closer, standing only inches in front of the other woman. Her voice remains low and calm:*
 
 "I'm not going to hurt you, just come with me."
 
 *She reaches out a hand and gently grabs the other's arm.*
-
 # Sadie:
 *Sadie doesn't even move her eyes. She thinks she's going to die.*
-
 # Typh:
 *Typh gently cups the woman's face with her hand and forces her to look into her eyes.*
 
@@ -64,24 +55,18 @@ W-wait, please!-
 *Sadie manages a small nod.*
 
 "Promise you won't yell? Or scream?"
-
 # Sadie:
 *Sadie nods*
-
 # Typh:
 "Promise that you won't run away?"
-
 # Sadie:
 *nods*
-
 # Typh:
 *Typh's entire demeanor changes instantly. Her voice returns to a normal tone, and her hold on the woman's arm becomes gentle.*
 
 "Okay. I want you to close your eyes."
-
 # Sadie:
 *Sadie reluctantly does, expecting to be bitten and turned into a vampire or drained of all her blood*
-
 # Typh:
 *Typh smiles gently and whispers,*
 
@@ -120,30 +105,24 @@ W-wait, please!-
 *Typh's hand continues to slide upwards, her finger tips tracing the outline of the woman's ribcage.*
 
 "Are you single?"
-
 # Sadie:
 W-what??
-
 # Typh:
 *Typh's hand is now at the edge of the woman's bra strap, still tracing very light patterns against her skin.*
 
 "I asked if you are single."
-
 # Sadie:
 *Sadie swallows, then answers quietly*
 s-single...
-
 # Typh:
 "Mmm..."
 
 *Typh's hand slides around to the front now, her fingers moving over the edge of the woman's bra.*
 
 "Can I ask you one last question?"
-
 # Sadie:
 w-what do you want??
 *its less of a question, more of a plea*
-
 # Typh:
 *Typh's finger tip traces the outside edge of the woman's bra, just barely grazing against her nipple.*
 
@@ -172,10 +151,8 @@ w-what do you want??
 *Typh's hand slips the bra strapless, then slowly begins to trail down the woman's side.*
 
 "Can I tell you this secret...?"
-
 # Sadie:
 *sadie nods quickly*
-
 # Typh:
 *Typh leans in closer, her hand sliding down the woman's side and resting on her hip again*
 
@@ -202,10 +179,8 @@ w-what do you want??
 *Sadie's heartbeat quickens*
 
 "And open your eyes."
-
 # Sadie:
 *sadie opens her eyes to see typhs lips hovering a hair away from hers*
-
 # Typh:
 *Typh looks deep into her eyes, her hand still on the woman's thigh*
 
@@ -224,26 +199,20 @@ w-what do you want??
 *sadie looks a little nervous, but she nods again*
 
 "No matter what I tell you, you won't freak out. Right?"
-
 # Sadie:
 r-right...
-
 # Typh:
 "Promise me. I'm going to tell you something very personal and I need you to promise that you won't react badly."
-
 # Sadie:
 i-i promise...
-
 # Typh:
 "Close your eyes."
 
 *sadie closes her eyes*
 
 "Deep breath..."
-
 # Sadie:
 *sadie breathes in, but lets out a sharp squeek when she feels typhs lips on hers*
-
 # Typh:
 "Just stay calm, okay?"
 
@@ -390,10 +359,8 @@ i-i promise...
 *a deep, low moan escapes from the woman's lips. Her body is now shaking, quivering in the other's grip like a leaf in the wind. Her hips rock forward and backwards in a motion that is almost desperate, as if to bring forth some unknown, unnamed, need*
 
 *a soft gasp escapes the woman's lips, the sound almost lost in the heat and the scent of the other, the heat between them like a living, breathing, thing, hungry and ravenous for release*
-
 # Sadie:
 *sadies lips start salivating with a desperate, lustful hunger*
-
 # Typh:
 *the woman's body quivers beneath the other's, the heat between them so intense that it has the woman's mind nearly blank with desire*
 
@@ -414,10 +381,8 @@ i-i promise...
 *her hands continue to clutch tightly at the other's shirt, the fabric now damp and twisted in a way that is almost obscene*
 
 *a soft moan escapes from the space between them, the sound loud and desperate. The heat between them is like a living, breathing thing, and a low, needy whimper escapes from the woman's lips again*
-
 # Sadie:
 i need you...
-
 # Typh:
 *a low, deep moan escapes from deep in the woman's throat at the words*
 
@@ -426,20 +391,16 @@ i need you...
 *another low, needy whimpers escapes from between her lips, the sound loud and desperate, almost a whimper in its intensity*
 
 *a low growl escapes from deep in the woman's throat, and her hands slide up the other's shirt now, her fingers finding the skin just above the waistband of the other's trousers*
-
 # Sadie:
 i need to take you...
-
 # Typh:
 *the woman's body shudders at the words, her face flushed and her mouth going dry with anticipation*
 
 *the heat between them has grown to a feverish, almost unbearable, intensity*
 
 *her hand slides down now, her fingers tracing teasingly along the edge of the other's trousers. The soft whimper of breath escapes from between the woman's lips again, and her hips shift restlessly once more*
-
 # Sadie:
 *sadies mouth opens. she is dangerously close to swallowing typh whole*
-
 # Typh:
 *the woman's body quivers more at the thought*
 
@@ -452,10 +413,8 @@ i need to take you...
 *the woman shifts, pressing her body against the other, her hips grinding forward in a way that is almost involuntary*
 
 *her mouth seeks out the other's collar, now closing over the exposed skin there, her lips and tongue now tasting and caressing the skin in a way that is almost hungry and urgent. Her hands slide down now, her fingers trailing along the bare skin beneath, finding the edge of the other's trousers*
-
 # Sadie:
 *no longer able to stop herself, sadie shoves typhs head into her mouth, hoisting her body into the air, and starting typhs descent into the depths of sadies stomach*
-
 # Typh:
 *Typh's jaw drops open as she's abruptly lifted, the suddenness of it sending a jolt of surprise and excitement racing through her*
 
@@ -468,10 +427,8 @@ i need to take you...
 *Typh's face is pressed firmly into the woman's body, the sensation of her mouth around Typh's face sending waves of heat and need rolling over her like a storm*
 
 *a deep, needy, desperate moan escapes from deep in Typh's throat again, the sound almost lost in the woman's breathless, urgent gasps and moans as her body begins to quiver more and more urgently with every lowered movement*
-
 # Sadie:
 *typhs head is now fully in sadies stomach, and sadie has no intention of stopping until typhs entire body is in her stomach*
-
 # Typh:
 *Typh's arms wrap around the woman's waist tightly now, her head still buried deep in the woman's body. Her hands grip tightly at the fabric of the other's trousers, her body now quivering and shaking with the force of a powerful shiver*
 
@@ -508,10 +465,8 @@ i need to take you...
 *a deep, almost needy little whimper of satisfaction escapes from deep within her stomach, the sound a low, low, and guttural little moan that seems to come from the very depths of her being, as if the other's toes, and the taste, and the smell of the other now filling her mouth is all she ever wanted*
 
 *her tongue continues to explore the other's toes, slowly, and almost lazily, still swirling and sliding around the other's toes, a deep, low, and very needy little moan escaping from deep within the woman's stomach, now with every little lick of her tongue*
-
 # Sadie:
 *after a minute of this, sadie flicks her tongue back and swallows the last of typh down her throat and into her stomach*
-
 # Typh:
 *a deep, low, satisfied little groan escapes from deep within her stomach as the other now finally finishes making its way into the depths of the woman's body*
 
@@ -520,10 +475,8 @@ i need to take you...
 "mmmph... I am feeling rather full now..."
 
 *she murmurs to herself as she pats her stomach, a sense of satisfaction and fullness now filling her*
-
 # Sadie:
 *typh smiles, knowing that shes finally achieved her dream; being digested by the love of her life*
-
 # Typh:
 *the woman now sits and pats her stomach, the sense of fullness and satisfaction now well set into the depths of the woman's gut*
 
@@ -556,10 +509,8 @@ i need to take you...
 "I can even feel my beloved now, deep within me..."
 
 *she says, her hand now rubbing slow, circular, comforting little motions across the spot where her beloved lies within her*
-
 # Sadie:
 *typhs body starts to dissolve, and she couldnt be more happy to be digested by sadie*
-
 # Typh:
 *the woman's hand, still moving in those slow, comforting, circular motions across the skin of the buldge within the woman's abdomen, begins to feel a slight, almost imperceptible warmth where her beloved had nestled within her stomach*
 
@@ -614,10 +565,8 @@ i need to take you...
 "...you will never want for anything, or feel any discomfort, or pain..."
 
 *she whispers, her hand now gently rubbing the very spot where her beloved now rests within the depths of her gut*
-
 # Sadie:
 *typh starts to lose feeling in her body as sadie digests her alive*
-
 # Typh:
 "your presence within me is a comfort and a safety... and I know now that I will never miss the feel of your touch, or the warmth of your body, for you are never further from me than as my lover in my gut..."
 
@@ -694,11 +643,9 @@ i need to take you...
 *the woman's hand now slides up the skin of the little little buldge, just above the skin of her lower tummy, a little bit closer to the base of her abdomen*
 
 "...and my gut is a home you will never leave, or even want to leave, my precious one..."
-
 # Sadie:
 now be a good little girl and dissolve~
 turn into fat on my thighs~
-
 # Typh:
 "I will dissolve in my beloved's gut, and my body will serve as a feast for them, an offering of love and pleasure and warmth like nothing they ever have felt before, my precious one, and I will give them all that I am, a gift to be absorbed into their very body, to become fat on their thighs, and a part of a woman that they will know forever..."
 
@@ -727,10 +674,8 @@ turn into fat on my thighs~
 *the woman's hand continues to pat and rub in a deep and loving way over the slight little buldge in her stomach, the touch soft, tender, and more than a little bit affectionate as she continues her little loving caress of her gut*
 
 "...you are mine forever... and I cannot wait to feel you inside of me..."
-
 # Sadie:
 *after only a single hour, sadies belly is flat and toned, her thighs are an inch thicker and softer, and all evidence of typhs existence is gone*
-
 # Typh:
 "Ahhhh...... finally..."
 
@@ -743,12 +688,9 @@ turn into fat on my thighs~
 "and these... my thighs... now more warm, soft, and round... will look so perfect and fine with my jeans, shorts, or a skirt... and the memory of you will fill me with deep satisfaction and love, for you have forever become a part of me inside of my body..."
 
 *she continues to pat her thighs, the soft and supple skin now much more satisfying to caress, and a warm and deep satisfaction now filling the woman*
-
 # Sadie:
 *sadie lies down and falls asleep, enjoying her new, thicker, softer, more beautiful thighs, knowing that typhs sacrifice created them*
-
 # Typh:
 *the woman, now lying down, lets out a deep, soft, and loving little sigh as she looks down at her thighs and gently runs a hand over the now warm and very toned skin*
 
 "I cannot wait to see these thighs in a pair of shorts..... or as I lie on my side and cuddle up with someone, with their hands caressing and kneading the very body parts that I could never have gained without them being inside my belly.... and I know that these thighs will give me a very deep satisfaction for many long and warm summer months"
-
