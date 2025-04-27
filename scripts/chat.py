@@ -20,18 +20,13 @@ def chatFunction():
     def entryMdFormat(input):
         md = f"""# {input[0]}:
 {re.sub(r'^',r'',input[1],flags=re.M)}
-
 """
         md = re.sub(r'\\n',r'\n',md)
         return md
-    
     with open('charId.json','r',encoding='utf-8') as f:
         charIdDict = json.load(f)
-
     chatLogs = []
-
     source = os.path.join('chats', 'source')
-
     for folder in os.listdir(source):
         folder_path = os.path.join(source, folder)
         if os.path.isdir(folder_path):

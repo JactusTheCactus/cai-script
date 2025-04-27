@@ -35,26 +35,18 @@ def enigmaRename(userInput):
         return dict(zip(alphabet, shuffled))
     userInput = userInput.lower()
     output = []
-    # Pre-generate rotors base on seeds list
-    # (we'll re-seed/step each on every character)
-    num_rotors = len(seed)
     for idx, ch in enumerate(userInput):
-        # Preserve digits & the ampersand
         if ch.isdigit() or ch == '+':
             output.append(ch)
             continue
-        # On hitting the dot, append extension and stop
         if ch == '.':
             output.append(userInput[idx:])
             break
-        # Non‑alphabetic → dash
         if ch not in 'abcdefghijklmnopqrstuvwxyz':
             output.append('-')
             continue
-        # Step & apply each rotor in sequence
         c = ch
         for r, base_seed in enumerate(seed):
-            # step: reseed rotor with base_seed + position
             rotor_map = generate_rotor(base_seed + idx)
             c = rotor_map[c]
         output.append(c)
