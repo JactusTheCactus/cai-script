@@ -78,6 +78,9 @@ def main():
 """
     with open('README.md','w',encoding='utf-8') as f:
         f.write(README)
+    with open('.gitignore','w') as g:
+        g.write('''/scripts/__pycache__
+''')
     genPage()
 if __name__ == "__main__":
     main()
