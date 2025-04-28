@@ -1,7 +1,6 @@
 def main():
     import os
     import shutil
-    from config import log, toHTML
     from chat import chatFunction
     from loreBook import loreFunction
     from genPage import genPage
@@ -25,8 +24,7 @@ def main():
                 'html': {}
             },
         },
-        'NotebookLM': {},
-        'logs': {}
+        'NotebookLM': {}
     }
     def create_dirs(base, tree):
         for name, subtree in tree.items():
@@ -54,17 +52,9 @@ def main():
     for dir in emptyDirectories:
         clearDirectory(dir)
     create_dirs('.', structure)
-    with open(log,'w',encoding='utf-8') as f:
-        f.write(toHTML(f'''Seed:
-    {log[5:-5]}
-'''))
     chatFunction()
     loreFunction()
-    with open(log,'r',encoding='utf-8') as f:
-        Log = f.read()
-    with open(log,'w',encoding='utf-8') as f:
-        f.write('<pre><code>' + Log + '</code></pre>')
-    mdLinks = {
+    links = {
         "Agnaistic": "[Agnaistic](https://agnai.chat)",
         "C.AI": "[Character.AI](https://character.ai)",
         "C.AI Tools": "[CAI Tools](https://chromewebstore.google.com/detail/cai-tools/nbhhncgkhacdaaccjbbadkpdiljedlje?hl=en&pli=1)"
@@ -78,13 +68,13 @@ def main():
         - only use if there are duplicates
     - accepted file formats:
         - `.json`
-            - via {mdLinks['Agnaistic']}
+            - via {links['Agnaistic']}
         - `.jsonl`
-            - via {mdLinks['C.AI Tools']} for {mdLinks['C.AI']}
+            - via {links['C.AI Tools']} for {links['C.AI']}
 - ### Lore Books:
     - `topic.json`
     - example: `Lakedaimon.json`
-    - via {mdLinks['Agnaistic']}
+    - via {links['Agnaistic']}
 """
     with open('README.md','w',encoding='utf-8') as f:
         f.write(README)

@@ -2,8 +2,8 @@ def chatFunction():
     import re
     import json
     import os
-    from config import log as textLog, toHTML
-    from config import enigmaRename, logFormat
+    from config import toHTML
+    from config import enigmaRename
     def insertSubDir(file, subDir):
         dir, filename = os.path.split(file)
         return os.path.join(dir, subDir, filename)
@@ -40,8 +40,6 @@ def chatFunction():
         for name in lowerList:
             capList.append(name.capitalize())
         return capList
-    with open(textLog,'a',encoding='utf-8') as f:
-        f.write(f'Chats:\n')
     def logChat(file):
         format = re.sub(r'(.*) \=\> .*',r'\1',file)
         file = re.sub(r'.*? => (.*?)',r'\1',file)
@@ -90,8 +88,5 @@ def chatFunction():
             with open(outputHtml,'w') as f:
                 for i in log:
                     f.write(entryHtmlFormat(i))
-        with open(textLog,'a',encoding='utf-8') as f:
-            f.write(f'    {logFormat(input,outputMd)}\n')
-            f.write(f'    {logFormat(input,outputHtml)}\n')
     for i in chatLogs:
         logChat(i)
