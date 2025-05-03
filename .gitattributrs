@@ -1,0 +1,3 @@
+# always favor the incoming (their) version for these folders
+chats/formatted/** merge=theirs
+lore/formatted/**  merge=theirs
