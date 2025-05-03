@@ -1,2 +1,0 @@
-git config merge.theirs.name "Keep remote version"
-git config merge.theirs.driver "cp %B %A"
