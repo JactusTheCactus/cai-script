@@ -3,25 +3,49 @@ on:
   push:
     branches:
       - main
+
 jobs:
   run-script:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.12.x'
-    - name: Run script
-      run: python scripts/script.py
-    - name: Configure Git
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-    - name: Commit changes
-      run: |
-        git add .
-        git commit -m "Auto-commit: update from script" || echo "No changes to commit"
-        git pull --rebase
-        git push
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12.x'
+
+      - name: Run script
+        run: python scripts/script.py
+
+      # ─── NEW STEPS START HERE ───────────────────────────────────
+      - name: Register `theirs` merge driver
+        run: |
+          git config --global merge.theirs.name "Keep remote (theirs) version"
+          git config --global merge.theirs.driver true
+
+      - name: Ensure .gitattributes exists
+        run: |
+          cat << 'EOF' >> .gitattributes
+          # use our custom "theirs" driver for these folders
+          chats/formatted/** merge=theirs
+          lore/formatted/** merge=theirs
+          EOF
+          git add .gitattributes
+          git commit -m "chore: add .gitattributes for auto-conflict resolution" || echo "already up-to-date"
+      # ─── NEW STEPS END HERE ─────────────────────────────────────
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "Auto-commit: update from script" || echo "No changes to commit"
+          # when pulling, any conflict in chats/formatted/ or lore/formatted/
+          # will be auto-resolved in favour of the remote version
+          git pull --rebase
+          git push
