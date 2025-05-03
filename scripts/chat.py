@@ -23,7 +23,7 @@ def chatFunction():
 """
         md = re.sub(r'\\n',r'\n',md)
         return md
-    with open('dara/charId.json','r',encoding='utf-8') as f:
+    with open('data/charId.json','r',encoding='utf-8') as f:
         charIdDict = json.load(f)
     chatLogs = []
     source = os.path.join('chats', 'source')
