@@ -1,4 +1,5 @@
-name: Run Python Script on Commit
+name: Run Python Script and Deploy
+
 on:
   push:
     branches:
@@ -7,8 +8,9 @@ on:
 jobs:
   run-script:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Checkout main
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -19,33 +21,44 @@ jobs:
       - name: Run script
         run: python scripts/script.py
 
-      # ─── NEW STEPS START HERE ───────────────────────────────────
-      - name: Register `theirs` merge driver
-        run: |
-          git config --global merge.theirs.name "Keep remote (theirs) version"
-          git config --global merge.theirs.driver true
-
-      - name: Ensure .gitattributes exists
-        run: |
-          cat << 'EOF' >> .gitattributes
-          # use our custom "theirs" driver for these folders
-          chats/formatted/** merge=theirs
-          lore/formatted/** merge=theirs
-          EOF
-          git add .gitattributes
-          git commit -m "chore: add .gitattributes for auto-conflict resolution" || echo "already up-to-date"
-      # ─── NEW STEPS END HERE ─────────────────────────────────────
-
-      - name: Configure Git
+      - name: Commit changes to main
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit changes
-        run: |
           git add .
           git commit -m "Auto-commit: update from script" || echo "No changes to commit"
-          # when pulling, any conflict in chats/formatted/ or lore/formatted/
-          # will be auto-resolved in favour of the remote version
-          git pull --rebase
-          git push
+          git push origin main
+
+  deploy-gh-pages:
+    needs: run-script
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+
+      - name: Fetch formatted files and index.html from main
+        run: |
+          git fetch origin main
+
+          # Clean existing folders
+          rm -rf chats lore index.html
+
+          # Checkout only necessary files from main
+          git checkout origin/main -- chats/formatted lore/formatted index.html
+
+          # Move contents of formatted/ up one level
+          mkdir -p chats lore
+          mv chats/formatted/* chats/ || true
+          mv lore/formatted/* lore/ || true
+          rm -rf chats/formatted lore/formatted
+
+      - name: Commit changes to gh-pages
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add chats lore index.html
+          git commit -m "Update gh-pages content from main" || echo "No changes to commit"
+          git push origin gh-pages
