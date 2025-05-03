@@ -48,13 +48,13 @@ jobs:
           rm -rf chats lore index.html
 
           # Checkout only necessary files from main
-          git checkout origin/main -- chats/formatted lore/formatted index.html
+          git checkout origin/main -- chats/formatted/html lore/formatted/html index.html
 
           # Move contents of formatted/ up one level
           mkdir -p chats lore
-          mv chats/formatted/* chats/ || true
-          mv lore/formatted/* lore/ || true
-          rm -rf chats/formatted lore/formatted
+          mv chats/formatted/html/* chats/ || true
+          mv lore/formatted/html/* lore/ || true
+          rm -rf chats/formatted/html lore/formatted/html
 
       - name: Commit changes to gh-pages
         run: |
