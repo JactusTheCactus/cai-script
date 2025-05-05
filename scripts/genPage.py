@@ -9,7 +9,7 @@ def genPage():
     lines = [
         '<html>',
         '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown-dark.css" integrity="sha512-XNBMUjy86G874D+6YN8vaBJpEut/Q0IafwiWxO5CoZDyaVXxbzyzacBpA55GPYhetzeLhxUbgdETrigRIVeNqQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />',
-        '<style>.markdown-body{margin:0 auto;padding:45px;}@media(max-width:767px){.markdown-body{padding:15px;}}</style>',
+        '<style>.markdown-body{margin:0 auto;padding:45px;font-size:20px;}@media(max-width:767px){.markdown-body{padding:15px;}}</style>',
         '<head><title>Index</title></head>',
         '<body class="markdown-body">',
         '<h1>Repository Index</h1>'
