@@ -22,7 +22,7 @@ def genPage():
         lines.append("<ul>")
         folder_path = REPO_ROOT / folder
         if not folder_path.exists():
-            lines.append(f"<li><em>{folder} not found</em></li>")
+            lines.append(f"<li><i>{folder} not found</i></li>")
             continue
         for file in sorted(folder_path.glob(f'*{extension}')):
             rel_path = file.relative_to(REPO_ROOT).as_posix()
