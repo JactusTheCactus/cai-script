@@ -19,7 +19,7 @@ def genPage():
             head = 'Chats'
         elif folder == os.path.join('lore','formatted','html'):
             head = 'Lore Books'
-        lines.append(f"<details><summary>{head}</summary>")
+        lines.append(f"<h2>{head}</h2>")
         lines.append("<ul>")
         folder_path = REPO_ROOT / folder
         if not folder_path.exists():
