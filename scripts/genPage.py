@@ -27,7 +27,7 @@ def genPage():
             continue
         for file in sorted(folder_path.glob(f'*{extension}')):
             rel_path = file.relative_to(REPO_ROOT).as_posix()
-            lines.append(f'<li><a href="{rel_path.replace("formatted/html/","")}" target="_blank">{file.name}</a></li>')
+            lines.append(f'<li><a href="{rel_path.replace("formatted/html/","").replace(".html","").upper()}" target="_blank">{file.name}</a></li>')
         lines.append("</ul></details>")
     lines.append('</body></html>')
     index_path = REPO_ROOT / "index.html"
