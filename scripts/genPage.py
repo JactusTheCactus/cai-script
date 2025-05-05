@@ -12,7 +12,7 @@ def genPage():
         '<style>.markdown-body{margin:0 auto;padding:45px;font-size:30px;}@media(max-width:767px){.markdown-body{padding:15px;}}</style>',
         '<head><title>Index</title></head>',
         '<body class="markdown-body">',
-        '<h1><!--Header--></h1>'
+        '<!--<h1>Header</h1>-->'
     ]
     for folder, extension in targets.items():
         if folder == os.path.join('chats','formatted','html'):
