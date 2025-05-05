@@ -19,8 +19,6 @@ def genPage():
             head = 'Chats'
         elif folder == os.path.join('lore','formatted','html'):
             head = 'Lore Books'
-        elif folder == os.path.join('logs'):
-            head = 'Logs'
         lines.append(f"<details><summary>{head}</summary>")
         lines.append("<ul>")
         folder_path = REPO_ROOT / folder
