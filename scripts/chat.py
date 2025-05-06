@@ -81,6 +81,7 @@ def chatFunction():
                     name = charIdDict[i["characterId"]]
                 else:
                     name = "None"
+                    print(f"missing name for characterId: {i.get('characterId')}")
                 log.append([name,i['msg']])
             with open(outputMd,'w') as f:
                 for i in log:
