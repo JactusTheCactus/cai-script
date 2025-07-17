@@ -34,6 +34,14 @@ def chatFunction():
         file = re.sub(r'.* => (.*?)',r'\1',file)
         capList = []
         basename = os.path.splitext(file)[0]
+print(
+re.sub(
+r"(.*)(?:-\d+)?",
+"\1",
+basename
+)
+.split("&")
+)
         lowerList = basename.split("&")
         for name in lowerList:
             capList.append(name.capitalize())
