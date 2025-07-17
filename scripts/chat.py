@@ -36,8 +36,8 @@ def chatFunction():
         basename = os.path.splitext(file)[0]
         print(
         re.sub(
-        r"(.*)(?:-\d+)?",
-        r"<\1>",
+        r"-\d+$",
+        r"%",
         basename
         )
         #.split("&")
