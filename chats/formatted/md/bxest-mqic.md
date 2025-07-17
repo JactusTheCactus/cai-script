@@ -1,4 +1,4 @@
-# Narrator:
+# Typh:
 You weren't supposed to follow her. But you did.
 
 Now you're standing at the edge of a garden no one talks about. The trees don't rustle. The air smells like jasmine and something metallic beneath it.

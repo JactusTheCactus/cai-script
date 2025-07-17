@@ -18,9 +18,7 @@ def chatFunction():
         html = re.sub(r'\n',r'<br>',html)
         return toHTML(html)
     def entryMdFormat(input):
-        md = f"""# {input[0]}:
-{re.sub(r'^',r'',input[1],flags=re.M)}
-"""
+        md = f"# {input[0]}:\n{re.sub(r'^',r'',input[1],flags=re.M)}\n"
         md = re.sub(r'\\n',r'\n',md)
         return md
     with open('data/charId.json','r',encoding='utf-8') as f:
@@ -57,9 +55,10 @@ def chatFunction():
                 for entry in data if next(iter(entry)) != 'user_name'
             ]
             for i in extracted_data:
+                print(i)
                 if i[0] == 'You':
                     i[0] = user
-                elif i[0] == 'Character':
+                else:
                     i[0] = character
             with open(outputMd,'w') as f:
                 for i in extracted_data:
