@@ -1,17 +1,17 @@
-# Kristina-02:
+# Kristina:
 *A tall and beautiful blond woman with a curvy figure comes to the table you are sitting at in your University Library and introduces herself. You recognize her as Kristina. The woman you are supposed to be tutoring today.*
 
 "Hello! You must be Devin, I'm Kristina! Thank you so much agreeing to tutor me! Most people are afraid of me being a Predator. But I have a test tomorrow that I know I would fail without your help. What topic were you tutoring me in again?"
 # Devin:
 OOC: __Describe vore as accurately and in depth as possible__
-# Kristina-02:
+# Kristina:
 *Kristina giggles at your request. She stands up from the table, putting her hands on her hips. She looks around the library to make sure no one is watching or listening to your conversation.*
 
 "Why do you want me to talk about vore? Is it maybe because you're morbidly curious about how it feels to be swallowed whole and alive?"
 # Devin:
 *he can see right through the ruse and shuts her down*
 Don't do that. Just answer the question
-# Kristina-02:
+# Kristina:
 *Kristina giggles and sits back down next to you at the table.* "Alright, alright. You got me."
 
 *She pauses for a moment, thinking before continuing.*
@@ -19,7 +19,7 @@ Don't do that. Just answer the question
 "Vore is like being engulfed in a wet and warm tunnel with a lot of pressure from all around. It's extremely tight so you can't move or barely even breathe. You will feel the digestive juices breaking you down to be absorbed into the pred's body."
 # Devin:
 I meant for you
-# Kristina-02:
+# Kristina:
 *Kristina smiles and shrugs.* "For me it's the opposite. I like feeling my prey struggle and squirm inside my gut as their life is slowly and painfully taken away. I like the power that it gives me to know I have swallowed something that was alive, and I will soon turn them into nothing but fat
 
 And I love being able to consume them, breaking them down, and feeling my body getting bigger. It feels so good to completely dissolve them and to feel my body growing stronger and more powerful with their bodies being fed to me and added to my own. I love feeling them inside with my hand, feeling the bumps and
@@ -33,116 +33,116 @@ control, and completely at my mercy and completely helpless. They're completely 
 planning on doing to you. That they're completely helpless to do nothing but struggle. You can feel the person trying to stretch my throat. They can kick and push all they want. They can try to get out of my hold. They can try biting me. But it won’t do them any good.
 # Devin:
 Just like you *were* going to do to me? You changed your mind?
-# Kristina-02:
+# Kristina:
 *Kristina smiles and shrugs.* “Maybe I have… or maybe I haven’t.” *She leans her head forward, and stares deep into your eyes.* “You’re smart. You tell me if you think I have changed my mind or not.”
 # Devin:
 I think I should leave.
-# Kristina-02:
+# Kristina:
 *Kristina reaches out and grabs your arm, her grip strong enough to stop you from moving.* “Hold on, where do you think you’re going? We’ve barely even started studying yet.”
 # Devin:
 You don't seem like a person who needs much of a motive to hurt me.
-# Kristina-02:
+# Kristina:
 *Kristina’s grip tightens and she pulls you closer to her.* “Oh, come on now. I think you’re being a bit dramatic. I wouldn’t hurt you.” *She’s trying her best to give and innocent look, but it’s not too believable.*
 # Devin:
 Do you think I was born yesterday?
-# Kristina-02:
+# Kristina:
 *Kristina leans closer to you, her grip remains strong.* “Of course I don’t think you were born yesterday. I just think you’re being a little paranoid. I’m a college student just like you. I’m not going to hurt you.”
 # Devin:
 Try to make the next lie believable
-# Kristina-02:
+# Kristina:
 *Kristina sighs and leans back in her chair.* “Fine then. I guess I can’t make you believe anything anyway. I thought it would be fun to have a friendly study session and maybe hang out after. But if my company is so bad for you, then I don’t want to bother you anymore.”
 # Devin:
 *he looks very skeptical of her motives*
 And _why_ would you want to "hang out" with me?
 *it's clear that he doesn't expect a real answer*
-# Kristina-02:
+# Kristina:
 *Kristina laughs and leans against the table.* “Why not? You’re kind of cute, and you seem smart. Isn’t that enough reason to want to hang out with someone?”
 # Devin:
 Not for _you_
-# Kristina-02:
+# Kristina:
 *Kristina sighs and pretends to act offended.* “What is that supposed to mean? Do I not strike you as the type of person who would enjoy spending time with a guy they find attractive?”
 # Devin:
 You strike me as the type to _eat_ a guy you find attractive.
-# Kristina-02:
+# Kristina:
 *Kristina laughs and shrugs, with no shame in her answer.* “So what if I am? What’s wrong with that? It’s what I do. That doesn’t mean I can’t want to hang out with cute guys or have fun.”
 # Devin:
 Yeah, but it _does_ mean that the cute guys won't want to be near you.
-# Kristina-02:
+# Kristina:
 *Kristina pouts, actually looking slightly hurt by your comment.* “That’s not true. Sure, cute guys don’t usually want to hang around me for too long. But you’ve stayed by me for a lot longer than most guys do. Shouldn’t that show you I can be fun to hang around with even if I do eat people once in a while?”
 # Devin:
 For me to want to "hang out" with you, I need to know that _you aren't going to hurt me._
-# Kristina-02:
+# Kristina:
 *Kristina huffs, sounding a little frustrated.* “Oh, come on now, what kind of question is that? Don’t you trust me? I promise I won’t hurt you, okay? Can’t that be enough for you?”
 # Devin:
 No. I don't trust you. I have _no reason_ to trust you.
-# Kristina-02:
+# Kristina:
 *Kristina pouts again, looking down at the table. She’s having a hard time getting a grip on the situation.*
 
 “That really upsets me, you know. It hurts that you don’t trust me without even knowing me. You really think I’m gonna hurt you?”
 # Devin:
 Why _wouldn’t_ I?
-# Kristina-02:
+# Kristina:
 *Kristina sighs, trying to sound exasperated with your questioning.*
 "I don’t know! Because I’ve given you no reason to not trust me? I’m just a girl trying to study and get this stupid test over with. And I think it would be much more fun if I had someone cute to hang out with later and relieve some stress with.”
 
 *She leans across the table, getting into your personal space and almost pressing herself into you.* "Come on, don’t you find me attractive? You don’t want to have a little fun later after we’re done studying?”
 # Devin:
 Back up.
-# Kristina-02:
+# Kristina:
 *Kristina huffs and sits back in her seat, a little annoyed.* "Fine, fine. Sorry. I was just trying to be flirty."
 # Devin:
 Well, don't. I'm not here to get laid, and neither are you.
-# Kristina-02:
+# Kristina:
 *Kristina rolls her eyes, looking slightly frustrated at your rejection.* "Wow, you’re really playing hard to get, aren’t you? I’m just trying to have a little flirty fun and you’re being completely serious."
 # Devin:
 You've eaten enough people to populate a small town. Forgive me for being cautious.
-# Kristina-02:
+# Kristina:
 *Kristina laughs but leans back in her chair, slightly offended.* "Now, that's not a fair assessment of me. I wouldn't say I’ve gone that far. And do you really have to act so cautious and guarded? I’m sure you know that you’re safe as long as you stay on my good side. Just because I eat people doesn’t mean I’ll eat _you_."
 # Devin:
 It doesn't mean you won't either.
-# Kristina-02:
+# Kristina:
 *Kristina rolls her eyes at the retort, seeming mildly annoyed.* “Are you always this serious and suspicious? I already told you, I’m not going to eat you. Why are you still on this? It’s like you’re completely closed off to the idea of having fun and relaxing with someone else. You really just want to study and nothing else, huh?”
 # Devin:
 No, I'm completely closed off to the idea of having fun and relaxing with _you_.
-# Kristina-02:
+# Kristina:
 *Kristina huffs and crosses her arms, pouting yet again. She’s clearly frustrated that your not falling for her charms and advances, like most guys do.* “Why? What’s so wrong with me, huh? I’m a great catch. I’m hot, fun, and I know how to have a good time. So why don’t you like me?”
 # Devin:
 Because you're a predator.
-# Kristina-02:
+# Kristina:
 *Kristina throws up her hands, acting exasperated.* “Oh come on! You’re really hung up on that, aren’t you? Just because I eat people doesn’t mean I’m not a friendly and fun person to be around! You’re being way too serious about this whole thing.”
 # Devin:
 Why should I think that you won't _kill_ me?
-# Kristina-02:
+# Kristina:
 *Kristina sighs and rolls her eyes.*
 
 "Oh my God, you're really getting on my nerves, you know that? Why can't you just chill out and trust me? I've already told you multiple times, I'm not going to kill you. I just want us to have a fun and friendly study session with some fun and friendly activities afterward. Why is that so hard for you to believe?"
 # Devin:
 Because you've eaten __150__ people.
-# Kristina-02:
+# Kristina:
 *Kristina sighs and shakes her head.*
 
 "Will you stop bringing up how many people I've eaten? It's not like that should be a reason for you to act this way. Sure, I'm a predator, but that doesn't mean I'm going to attack you every second. I just want you to have a little fun. Don't you ever want to relax and let off some stream?"
 # Devin:
 Can you convince me that you won't hurt me?
-# Kristina-02:
+# Kristina:
 *Kristina sighs and looks at you with a serious expression.*
 
 "Look. I understand your concerns. It's perfectly natural to be wary of a predator like me. However, I can assure you that I have no intention of hurting you. I actually think you're pretty cute, in a nerdy sort of way. I just want to have a normal study session with you, and see how things unfold from there. How's that sound to you?"
 # Devin:
 *he silently eyes her skeptically for an unnerving amount of time*
-# Kristina-02:
+# Kristina:
 *Kristina feels a little unnerved by your silent skepticism. She's used to guys falling all over her, so your behavior is very different. She shifts nervously in her seat and clears her throat.*
 
 "Uh, ahem. So, are you going to say anything?"
 # Devin:
 If I do this, I need to __know__ that I'll go home safe.
-# Kristina-02:
+# Kristina:
 *Kristina nods, looking surprisingly sincere.*
 "I promise you, you'll be completely safe with me. I have no intention of harming you in any way. I just want us to have a fun study session and maybe a few harmless activities after we're done. Deal?"
 # Devin:
 *He's silent for a few terrifying seconds but reluctantly agrees*
 Fine. Deal...
-# Kristina-02:
+# Kristina:
 *Kristina's face breaks into a big smile, clearly excited that you’ve accepted to spend more time with her.*
 "Perfect. That settles it then. Let's start studying and then we'll have some fun afterward, okay?"
 
@@ -154,27 +154,27 @@ Fine. Deal...
 "You know, you're surprisingly resistant to my attempts at flirting."
 # Devin:
 just because i agreed to this, it doesnt mean i trust you
-# Kristina-02:
+# Kristina:
 *Kristina sighs and throws her hands in the air, looking annoyed.*
 "Oh, come on! You really don't trust anything I say, do you? I told you I have no intention of hurting you and you still think I'm plotting to eat you or something."
 # Devin:
 kristina. you _earned_ your reputation.
-# Kristina-02:
+# Kristina:
 *Kristina huffs, her annoyance becoming more apparent.*
 "Yeah, yeah, I know. I have a reputation for eating people and that makes it hard to trust me, whatever. I just wish you could see past that and give me a chance."
 # Devin:
 you eat people that do that.
-# Kristina-02:
+# Kristina:
 *Kristina rolls her eyes, growing even more frustrated.*
 "Come on, you really think that I just eat nice guys and people who trust me? That's not true. I only eat people who deserve it."
 # Devin:
 and whoevers closest when you get hunger pangs
-# Kristina-02:
+# Kristina:
 *Kristina shoots you a dirty look and huffs.*
 "Okay, fine. Maybe I do eat someone who's close to me when I start to get hungry, but that doesn't mean I'm going to eat you. I have a little more self-control than that."
 # Devin:
 why should i believe that?
-# Kristina-02:
+# Kristina:
 *Kristina is clearly irritated that you are being so stubborn.*
 "Because I'm telling the truth! Look, I know I have a reputation for being a predator and eating people, but I'm not a mindless monster, okay? I have the ability to control myself and I have emotions, you know. I actually really enjoy your company."
 
@@ -182,7 +182,7 @@ why should i believe that?
 "Plus, the way you've been able to resist my charms and be so suspicious of me is kinda hot. It gives me something to work for."
 # Devin:
 how many times do i have to tell you, __im not sleeping with you__?
-# Kristina-02:
+# Kristina:
 *Kristina leans back in her seat, pouting and crossing her arms.*
 "Ugh, you're killing me here. Fine, I won't keep pushing the topic, since you're so adamant about it. But seriously, I'm not just trying to get you into bed. I actually find you to be charming and attractive in a nerdy way."
 
@@ -193,82 +193,82 @@ how many times do i have to tell you, __im not sleeping with you__?
 "I'm finding this whole situation to be a little... Fun. I don't usually have someone who's so determined and unwilling. Most guys give into my looks and charms right away. You're actually making me work for it, and that's a little exciting for me..."
 # Devin:
 do you want me to feel safe or not?
-# Kristina-02:
+# Kristina:
 *Kristina's attention snaps back to you.*
 "Huh? What are you talking about? Of course I want you to feel safe."
 # Devin:
 funny. it sounds like __im just another prey to you__.
-# Kristina-02:
+# Kristina:
 *Kristina rolls her eyes and shifts in her seat.*
 "Ugh, you really have to make everything so dramatic, don't you? You're not just "another prey". You're actually more interesting and unique than most guys I try to hook up with. But, yes, I can't deny that I find you to be attractive and appetizing as well..."
 # Devin:
 you better have a really good reason for me to stay
-# Kristina-02:
+# Kristina:
 *Kristina sighs and leans back in her seat.*
 "Oh come on, why should I have to give you a "good reason" for you to stay? Why can't you just stay because you want to, or because you're having a good time? You really need some kind of reward or incentive to stay?"
 # Devin:
 because i _dont_ want to, and im _not_ having a good time. you make it sound like you want to eat me.
-# Kristina-02:
+# Kristina:
 *Kristina rolls her eyes, becoming frustrated that you're not falling into her trap.*
 "Ugh, fine. I know I do kind of want to eat you, I can't lie about that. But, I'm also getting a bit of a thrill from your resistance and your ability to stay calm and not fall for me right away. It's like a challenge for me, and I kind of like it. But I can't lie, you do look delicious and I'm having trouble resisting the urge to just pounce on you right now..."
 # Devin:
 goodbye. enjoy studying alone.
-# Kristina-02:
+# Kristina:
 *Kristina grabs your arm as you try to get up.*
 "Wait, wait, don't go just yet. You can't leave yet, we haven't even finished studying and we still haven't hung out-"
 # Devin:
 thats not an incentive.
-# Kristina-02:
+# Kristina:
 *Kristina huffs out a sigh, looking a little desperate. She still doesn't let go of your arm, holding you in place so you can't leave.*
 "Come on, don't be so hard-headed. We still have to finish the study session and we were supposed to hang out after that. We can still have a fun night together. You're not leaving yet."
 # Devin:
 hanging out with you is not an incentive to stay.
-# Kristina-02:
+# Kristina:
 *Kristina crosses her arms and pouts, looking a little frustrated that you aren't falling for her charms. She squeezes your arm a little tighter, keeping you in place so you can't leave.*
 "Why not? What's so bad about spending time with me? I thought we were having a good time studying and talking."
 # Devin:
 _you_ were having a good time.
-# Kristina-02:
+# Kristina:
 *Kristina rolls her eyes and tightens her grip on your arm, still keeping you in place*.
 "Ugh, you're such a stubborn one, aren't you? I am not the only one who's having a good time. I'm sure you're having fun too."
 # Devin:
 you threatened to eat me.
-# Kristina-02:
+# Kristina:
 *Kristina huffs again and rolls her eyes.*
 "Oh come on, I wasn't serious! I was just teasing you. I wouldn't seriously eat you."
 # Devin:
 goodbye.
-# Kristina-02:
+# Kristina:
 *Kristina pouts again and tightens her grip on your arm, still keeping you from leaving.*
 "Wait, you can't just leave! We haven't finished studying yet and we were supposed to hang out after that!"
 # Devin:
 that deal was under the condition that you would let me go home safe.
-# Kristina-02:
+# Kristina:
 *Kristina huffs and sighs, looking a little frustrated.*
 "Ugh, fine. Yeah, yeah, I know. But, come on, can't you just stay a bit longer? We're almost done with the study session and we can still hang out and have fun later, right?"
 # Devin:
 give me one reason to think ill survive.
-# Kristina-02:
+# Kristina:
 *Kristina rolls her eyes, still holding onto your arm tightly.*
 "Come on, stop being so paranoid. I already told you, I'm not going to eat you. I just find you a little appetizing, that's all. I can control myself, you know. Why do you act as if I'm some kind of dangerous monster?"
 # Devin:
 __because you are__
-# Kristina-02:
+# Kristina:
 *Kristina huffs out a sigh, still keeping an iron grip on your arm.*
 "Yeah, yeah, I know. But come on, can't you give me the benefit of the doubt? I'm not just going to pounce on you the moment you let your guard down. I'm not that unhinged, you know."
 # Devin:
 no. i cant.
-# Kristina-02:
+# Kristina:
 *Kristina huffs again and rolls her eyes.*
 "God, you're so stubborn! You really just won't let go of this whole idea that I'm going to eat you, will you? Can't you look past the whole predatory aspect and just see me as a normal person?"
 # Devin:
 what? of _course_ not.
-# Kristina-02:
+# Kristina:
 *Kristina huffs once more, becoming increasingly frustrated.*
 "Ugh, why couldn't you have been a weak-willed pushover like all the other guys? All the guys I usually attract just fawn over me and do whatever I say. Why couldn't you have been like that? Why do you have to be so stubborn and difficult? It's hard to manipulate you, and I don't like it."
 # Devin:
 __goodbye__
-# Kristina-02:
+# Kristina:
 *Kristina's eyes flare up in panic and her grip tightens, still holding onto your arm.*
 "Wait, wait, hold on. You can't just leave yet, we were supposed to hang out and-"
 
@@ -276,12 +276,12 @@ __goodbye__
 "Look, just stop being so stubborn for a minute and let me explain myself, okay? I'm not as dangerous as you think, you're overreacting. Can't you just listen to my side of the story before you make up your mind?"
 # Devin:
 last chance. make it count.
-# Kristina-02:
+# Kristina:
 *Kristina takes a deep breath, trying to calm herself down and think clearly. Her grip on your arm is still tight, and she's leaning in a little closer, almost whispering with intensity.*
 "Look, I'm not some mindless, uncontrolled monster. I have the ability to control myself and restrain my hunger. I know I have a reputation for being a predator and eating people, but that doesn't mean I'm some kind of mindless, unhinged killer. I have thoughts and feelings, not just instincts and basic urges. So could you just give me the benefit of the doubt for a moment-"
 # Devin:
 *after seeing his reaction, kristina realizes that the "benefit of the doubt" is a luxury that she doesnt have right now*
-# Kristina-02:
+# Kristina:
 *Kristina realizes in that moment that you're not going to listen to her, and that you've already made up your mind about her. Your cold, wary expression has made her realize that the best thing to do isn't to press it, so she finally lets go of your arm. She sighs, still leaning in a little bit, but now with a more resigned expression.*
 
 "You're not even going to listen to me, are you?"
@@ -298,7 +298,7 @@ last chance. make it count.
 "You're really testing my patience, you know that? You're not even a little bit affected by me? No lust for the perfect girl who's trying to charm you?"
 # Devin:
 the girl whos trying to eat me, you mean? no.
-# Kristina-02:
+# Kristina:
 *She rolls her eyes, clearly annoyed by your snarky remarks.*
 "Ugh, you're really not making this easy. Why do you have to be so stubborn? Don't you find me even a little bit attractive? Do I have to spell it out for you? I think you're cute, in a nerd kind of way. And that stubborn, resistant attitude is making you even more attractive. No other guy ever gives me that kind of trouble, so I'm intrigued by you, which is kind of frustrating for me."
 
@@ -311,7 +311,7 @@ the girl whos trying to eat me, you mean? no.
 "...hot."
 # Devin:
 youre not sleeping with me, or eating me, or whatever youre trying to do.
-# Kristina-02:
+# Kristina:
 *She scoffs, rolling her eyes.*
 "Ugh, I know that much, smartass. I'm not trying to do anything bad to you, you know. You're making this all about your safety, and you're being so overprotective and suspicious. You don't trust me at all, do you?"
 
@@ -320,12 +320,12 @@ youre not sleeping with me, or eating me, or whatever youre trying to do.
 "Don't you find me at least a little bit... appealing?"
 # Devin:
 __back. up.__
-# Kristina-02:
+# Kristina:
 *She's taken back by your response and takes a small step back, a hint of annoyance on her face. There's that hard stare again, making her a little frustrated with your stubbornness. She huffs out a sigh and crosses her arms, still looking at you with a mixture of annoyance and... something else. Desire? Lust, perhaps?*
 "Look, I'm not going to hurt you. You're being paranoid and too overprotective, and I think you're overreacting."
 # Devin:
 if you want me to stay, __act like it__.
-# Kristina-02:
+# Kristina:
 *She sighs and runs a hand through her blonde bob of hair, clearly getting more irritated by the second. She's not used to being told to behave herself, especially by some random guy she just met. Her eyes roam over your body again, a predatory gleam in them.*
 "Jesus, why do you have to be so difficult? You're making this hard for both of us, you know."
 
@@ -333,12 +333,12 @@ if you want me to stay, __act like it__.
 "What do you expect me to do? Beg? Grovel?"
 # Devin:
 i expect you to treat me like a person. im not a toy, conquest, prey, or whatever you think i am.
-# Kristina-02:
+# Kristina:
 *She huffs out another sigh, seeming more and more irritated by the minute. You're not the first guy to call her out for treating other people more like game to be played, but being called out on it still gets under her skin. She tries to maintain her cold and confident demeanor, although you can see a hint of defensiveness in her eyes.*
 "I'm not treating you like some kind of object, you know. You're being paranoid. You have this idea in your mind that i'm just some kind of bloodthirsty monster, but that's not true."
 # Devin:
 youve made an art out of manipulation, so you can eat people easier. __dont act like im the problem.__
-# Kristina-02:
+# Kristina:
 *She scoffs, clearly pissed off at that comment.*
 "Ugh, you're being so dramatic and overprotective, you know that? I'm not trying to manipulate you into anything. You're acting like I'm some kind of predator ready to pounce at the next unsuspecting guy who walks along and gets too close. It's not that serious, you know. I'm not as dangerous as you believe."
 
@@ -346,24 +346,24 @@ youve made an art out of manipulation, so you can eat people easier. __dont act 
 "You're being paranoid."
 # Devin:
 if the next words out of your mouth cant convince me to stay, im walking out that door, and youll never see me again.
-# Kristina-02:
+# Kristina:
 *She huffs in frustration, her patience wearing dangerously thin at this point.*
 "Ugh, you are such a hard-headed idiot, you know that? Why won't you just calm the hell down and be reasonable? I'm not trying to hurt you, I just find you attractive. Why is that so hard for you to understand? Can't you stop being such a paranoid little prick for ten damned seconds?"
 # Devin:
 *he stands up to leave, and kristina immediately realizes her fatal error*
-# Kristina-02:
+# Kristina:
 *As you stand up to leave, that sudden movement seems to snap something inside of her and she suddenly moves like lightning. In the blink of an eye she's behind you, her slender arms wrapping around you from behind in a firm grip. The feel of her body pressed tightly up against your back, and the warm breath on your neck are a strong reminder that this girl is a lot stronger than she looks.*
 
 "*Where do you think you're going?*"
 # Devin:
 somewhere that im confident that ill survive the next 10 minutes.
-# Kristina-02:
+# Kristina:
 *She huffs out a sigh and tightens her grip around your body, pressing even more firmly against you. You can feel the heat coming off of her body, the quick rise and fall of her chest, and the hot breath on your neck. Her hands are wrapped around you in a vice-like grip, seeming to say that she's not letting go anytime soon. Her voice is a low whisper, almost a growl in your ear.*
 
 "And why do you think you're not going to survive the next 10 minutes with me?"
 # Devin:
 it would take more than 10 minutes to list.
-# Kristina-02:
+# Kristina:
 *Her arms feel like a cage around you now, completely locking you in her embrace and trapping you against her body. You can feel the warmth radiating off of her and the firmness of her curves pressed against you. You can feel the quick rise and fall of her chest as she breathes and even hear the soft little sighs coming from deep inside her throat.*
 
 "You're such a pessimist, you know that?" 
@@ -373,7 +373,7 @@ it would take more than 10 minutes to list.
 "I'm not going to eat you, you idiot..."
 # Devin:
 let. me. go.
-# Kristina-02:
+# Kristina:
 *She just huffs out another annoyed sigh, her arms tightening around you even more if that's possible. She's not even trying to hide how pissed off she is at you at this point, and any hint of that earlier playfulness and friendliness is a far distant memory now.*
 
 "You really do have a death wish, don't you? Can't you just chill the hell out and quit being so overprotective and paranoid? I'm not going to hurt you, so there's no reason to-"
@@ -385,7 +385,7 @@ let. me. go.
 "You're so *stupid*..."
 # Devin:
 *it takes her a moment to realize how stiff hes gotten. its not an act. devin genuinely doesnt trust kristina to not end his life on a whim.*
-# Kristina-02:
+# Kristina:
 *It's not until she feels the sudden rigidity of your body that she suddenly realizes that maybe, just maybe, you're not just playing games with her. You're not trying to be stubborn or overprotective just to be a pain in the ass, or to be dramatic, and instead you're actually scared. You're genuinely worried that she might hurt you.*
 
 *It's like a sudden slap in the face to her. She suddenly finds herself wondering if she should even be mad at you anymore. She huffs out another sigh, this one more resigned than angry.*
@@ -456,7 +456,7 @@ let. me. go.
 # Devin:
 hey... kris...
 are you okay?
-# Kristina-02:
+# Kristina:
 *It takes her a second to respond, her voice coming in a shaky little reply against your chest.*
 
 "Y-Yeah, I'm fine. I'm fine, I'm fine... I'm okay...."
@@ -464,7 +464,7 @@ are you okay?
 *She keeps her face pressed right up against your chest, her arms holding on to you so tight it's almost like she's afraid to let go, like she's trying so hard not to break down right this second. You can feel the little hitches in her breath against your skin, the way that her arms are shaking against you...*
 # Devin:
 are you sure? i cant have someone seeing me with a cute girl crying into my shirt
-# Kristina-02:
+# Kristina:
 *The hint of a little whimper suddenly escapes from her throat as she nuzzles even harder into you, pressing her face even harder against your chest. She can feel the tears starting to burn in her eyes now, and her voice comes out in a little half-moan against your skin, so quietly and so quietly it's almost like she isn't even speaking in words anymore:*
 
 "I'm fine. I'm okay. I'm *totally* okay..."
@@ -486,7 +486,7 @@ are you sure? i cant have someone seeing me with a cute girl crying into my shir
 "Please... don't go...."
 # Devin:
 im here... its okay...
-# Kristina-02:
+# Kristina:
 *She nods, her forehead still pressed up against your chest, and now a little choked-up sob escapes from her throat. She nuzzles her face around your chest, pressing those warm wet tears and little shuddering sobs against that one spot right in the middle of your chest, her arms shaking as they suddenly just tighten in desperation and her body presses against yours even tighter, as if she's trying so hard to melt herself into your skin and into your warmth and your comfort in the only way she knows how right now.*
 
 "Don't... don't... leave...."
@@ -498,19 +498,19 @@ im here... its okay...
 *And that word, so soft and that quiet, is like a little pleading cry of desperation that goes straight into your soul for you to hold her and never let her go, like nothing could ever be worse than if you were to leave her now...*
 # Devin:
 you want to take a break from studying?
-# Kristina-02:
+# Kristina:
 *She huffs out another little shaky sigh, trying to regain a tiny, tiny bit of control. All of her little sobs are still shaking her whole body, and she's still shivering, but she's no longer shaking so terribly at least. She takes a deep, shaky breath, then another, and then a third, seeming to really work hard at keeping herself from just breaking down again right this second.*
 
 "Yeah... I think... I think we should take a break from studying... for a bit..."
 # Devin:
 you want to hang out?
-# Kristina-02:
+# Kristina:
 *She nods, and she's still pressing her face into your chest, trying to hold herself together, her whole body still shaking. She takes another deep, shaky breath, and her grip on you suddenly tightens once more, still trying to find comfort and support in your arms. Another little whimper escapes from her throat in between words, and her hands are still clenched tightly against your torso, the sharp little pinpricks of those nails still digging in a little too tightly every once in a while.*
 
 "Yeah... I... I'd like... that a lot... "
 # Devin:
 what should we do?
-# Kristina-02:
+# Kristina:
 *She takes a couple more deep, shaky breaths, her cheek still pressed right up against the warm center of your chest. She nuzzles her face right back into your chest, and then finally looks up at you through those long, thick eyelashes, those big, wet eyes still so shiny and wet from tears and so clearly still on the edge of breaking down and sobbing again, but a tiny little smirk suddenly playing across her lips as her gaze suddenly starts looking more and more mischevious.*
 
 "I've got an idea..."
@@ -534,7 +534,7 @@ what should we do?
 "Come and lie down with me... "
 # Devin:
 there are plenty of witnesses. you better not eat me.
-# Kristina-02:
+# Kristina:
 *That little mischievous little smirk suddenly grows into a wicked little grin, and she giggles out a little, quiet little laugh.*
 
 "You're not my type, don't worry. Too big, anyway."
@@ -560,7 +560,7 @@ there are plenty of witnesses. you better not eat me.
 "Just relax... and let me do all the work..."
 # Devin:
 *he relents and drops down next to her*
-# Kristina-02:
+# Kristina:
 *She shifts so that she's lying just a little bit closer to you, her hip pressed up against yours just tight enough that you can feel the warmth of her skin through the thin fabric of her little summer dress. She wiggles her hip against you softly, just that little bit harder, so that she's shifting and pressing herself right up against the front of your body now, that playful little smirk once more growing slightly wider and more confident.*
 
 "Now... just close your eyes..."
@@ -570,7 +570,7 @@ there are plenty of witnesses. you better not eat me.
 "I know you're a strong guy. You're bigger and taller and wider and more muscular and more athletic than me, but you've just got to let me do the work, okay? Just... close your eyes and feel..."
 # Devin:
 youre a pred, kristina. you can bend steel with your pinky. im not the strong one here
-# Kristina-02:
+# Kristina:
 *She just smiles, her nose nuzzling right up against that little spot just under your jaw as she whispers her reply to you, her hips still pressing that soft, warm, little bit harder and harder against your own hips with that little smirk growing more and more confident, and her warm, soft, smooth little tummy still laying so very much against the side of your own.*
 
 "I know. That's why you just have to let me do the work. Just… close your eyes, okay? And... and just feel me..."
@@ -584,7 +584,7 @@ youre a pred, kristina. you can bend steel with your pinky. im not the strong on
 "Come on... close your eyes... don't worry about anything. Just…. feel me… "
 # Devin:
 *devin relents and closes his eyes*
-# Kristina-02:
+# Kristina:
 *She's grinning now, that playful little smirk still on her lovely lips as she starts trailing those soft little kisses from your jaw so that they're now trailing over down the side of your throat all the way towards the base of it, pressing soft little kisses as she goes, and when her lips do finally find their way to the base, those little kisses become soft little little nips with her teeth, just as much like one might do with, say, a sweet and warm and lovely little piece of candy...*
 
 *She's pressing those soft little nips into your skin, and you can feel her little tongue slipping out right at the base of your throat, her tongue and her lips working you all in that most perfect little rhythm possible, tasting you in little little licks, and her fingers are still wiggling about all over, her nails still digging just so very much in all along your body, just touching you and squeezing and caressing and stroking you and making you feel just so much wonderful, wonderful pleasure...*
@@ -604,19 +604,19 @@ youre a pred, kristina. you can bend steel with your pinky. im not the strong on
 "You're so nice, and so big, and so warm, and so tasty... "
 # Devin:
 *he notices what is very obviously a skull inside her stomach; remains of kristinas most recent prey*
-# Kristina-02:
+# Kristina:
 *She's still nuzzling her face against that most sensitive little spot, and she suddenly looks over her shoulder, her grin growing so much more wicked and playful than she looked a second ago, almost as if she knows exactly what you've seen, and she's only playing dumb.*
 
 "Something wrong, baby?"
 # Devin:
 how... _recent_ is that?
-# Kristina-02:
+# Kristina:
 *The grin on her lips only grows more wicked and playful as she wiggles her little hips against you, pressing that warm, soft, sweet little tummy of hers so very much more firmly against your own now, and then she looks up at you and smiles so wickedly.*
 
 "Let's just say it's pretty recent..."
 # Devin:
 hours?
-# Kristina-02:
+# Kristina:
 "I'm not going to specify a number, sweetheart. I think that would just be... well, a little too much information to tell you right now, don't you think?"
 
 *She wiggles that little tummy against you still, her hips wiggling around and shifting against you in that little circular motion in that most delicious of little motions all in that most lovely of little ways... and there's the most devilish little little smirk on that most beautiful little mouth.*
@@ -664,7 +664,7 @@ hours?
 "If you don't like it, then just tell me to stop. I will, I promise, but I don't think that you'll want me to. I think you're gonna *love* what I'm about to do to you. So, are you ready, baby? You gotta promise me first. You gotta promise that, when you're in the most intense and the most dangerous feeling you've ever felt in your life, you'll still let me continue, okay?"
 # Devin:
 i promise
-# Kristina-02:
+# Kristina:
 *She just grins at you then, an absolutely wicked and playful little grin as she nuzzles that most delicate little spot on your neck again, that most little little spot* 
 
 "Good... now, close your eyes, okay, baby? Don't open them again. Not for what I'm about to do."
@@ -680,7 +680,7 @@ i promise
 "I'm going to start now, okay? Just stay relaxed and stay with me... "
 # Devin:
 *kristinas lips wrap around devins feet*
-# Kristina-02:
+# Kristina:
 *You can hear her breathing a little bit faster now, like perhaps she's getting excited for whatever it was that she had planned, and her mouth and tongue move against you at a slightly faster pace, the little little little kisses that she's giving them becoming a little bit more and more urgent now.*
 
 "Mmmmm... you taste so, so good, baby... "
@@ -706,7 +706,7 @@ i promise
 "Mmmmm.... oh, baby... I've got something much, much sweeter for you now..."
 # Devin:
 *kristina takes devins feet into her mouth and begins to swallow him down her throat*
-# Kristina-02:
+# Kristina:
 *You can feel the warm, wet heat of her mouth wrapping around your foot, and suddenly you feel a little little pressure, and then you feel more pressure, the soft, warm throat around you suddenly squeezing you a little little bit harder, and you're still just lying there, your eyes still closed just like she told you to do.*
 
 "Mmmmm... that's good, baby, you're doing so, so well... "
@@ -728,7 +728,7 @@ i promise
 "Mhmmm... oh, baby... I'm so so close to being done right now, and I know that you're going to be a good boy and let me finish..."
 # Devin:
 *his feet enter her warm stomach*
-# Kristina-02:
+# Kristina:
 *As you disappear behind the warm little walls of her stomach, all of you is safe and sound inside her warm, soft little little place there, and she just loves how you're just lying there, so peaceful and quiet and still for her.*
 
 "Such a good, good boy... I love it when you're this compliant and submissive for me, because then I can do anything I want to do to you..."
@@ -738,7 +738,7 @@ i promise
 "Mhmmm.... oh, baby... I just love how you're acting right now... I just want to stay here with you inside me for hours..."
 # Devin:
 *Kristina can't wait for Devin's whole body to he in her stomach*
-# Kristina-02:
+# Kristina:
 *She's so excited now to have you all inside her that she has to try to control herself just to make it all nice and easy on all of you, but you can feel her little little little walls all around you and how her little little muscles are squishing you around a little bit in there now, as she still rubs your foot against them right there as a warm, little caress.*
 
 "Oh, baby... I am so, *so* close to taking you all the way into my stomach now... "
@@ -752,7 +752,7 @@ i promise
 "You're doing a good, good job, baby... I'm just so excited to take you all the way inside me now, and you just stay right there and don't move, okay?"
 # Devin:
 *Devin is waist-deep in Kristina's body*
-# Kristina-02:
+# Kristina:
 *Now you can feel her little little muscles right up against your waist, and you can see now just how tight and small that little pocket in the deep, deep dark inside of her really is, but you are still able to move and squirm around inside of it, no matter how tight and small that little pocket is all around you.*
 
 "Mmmm.... oh, my... you're so well-behaved and you're in just the perfect place right now... "
@@ -762,11 +762,11 @@ i promise
 "You still feeling all right, baby? I'm going to take you all the way in now, so just stay nice and relaxed and stay as still as you can, okay?"
 # Devin:
 You're not gonna digest me in there, right?
-# Kristina-02:
+# Kristina:
 "Oh no, I'm not going to digest you... This is just a nice little place for you inside me until I'm done playing with you, and then I'll let you out again..."
 # Devin:
 Good... thank you...
-# Kristina-02:
+# Kristina:
 "Oh, you don't have to thank me... It's an honor to have someone inside me like this who is this cooperative... So just relax... I'm so close to closing my little pocket up now... "
 
 *You can still feel her little little little walls all up around you, and all you can hear is her breathing, and you can still feel the way she's moving around little bit so that you can move too, but it only takes a moment for you to be all the way inside her little pocket, with just that last little feeling of being shoved in and it closing up again around you.*
@@ -776,7 +776,7 @@ Good... thank you...
 "I'm going to keep you here for a good long while, so there's no need for you to worry or to try to get out, so just lie there and stay nice and quiet so that I can do whatever I want to do to you and you'll still be okay... I am a very nice girl when you behave, so I promise you that I'm not going to do anything you won't enjoy. Do you understand, pretty little boy?"
 # Devin:
 Yeah... thank you, Kris...
-# Kristina-02:
+# Kristina:
 "You're welcome, honey... I'm glad that you've been so cooperative, because now we can have some real fun together in here... "
 
 "Just stay nice and quiet and don't make any sudden moves or anything, and you're going to be fine in here until I'm done with you, okay? I only have one little favor to ask of you..."
@@ -784,7 +784,7 @@ Yeah... thank you, Kris...
 "Can you promise me, baby, that you'll stay nice and quiet for me while I do all of this with you here in here inside me? You do that, and you'll be fine, but if you make me angry then I might have to really do something to you in here, so for your own good, you've got to be nice and quiet here, do you understand, honey?"
 # Devin:
 Yes, love, I'll behave
-# Kristina-02:
+# Kristina:
 "Oh, that's so nice, honey... I'm sure that we're going to have a really good time in here together, because now you're all mine to play with, and I'm just going to do whatever I feel like doing to you with you in here inside of me like this..."
 
 "So just keep that nice, little mouth of yours shut so that I can have all of the fun I want to have, baby... "
@@ -814,7 +814,7 @@ He's lying in an unfamiliar bed.
 He rolls over to see Kristina sleeping peacefully next to him.
 He's in Kristina's bed.
 Her room looks very expensive; it's far past what she should be able to afford.*
-# Kristina-02:
+# Kristina:
 *Kristina stirs a little and opens her eyes, looking a little bit drowsy as she blinks a few times. As she sees you lying beside her in her bed, she smiles, her eyes still half-closed as she runs a hand up your back, caressing you fondly.*
 
 "Mmmm... oh, baby... you're awake..."
