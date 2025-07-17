@@ -23,7 +23,7 @@ def chatFunction():
 """
         md = re.sub(r'\\n',r'\n',md)
         return md
-    with open('charId.json','r',encoding='utf-8') as f:
+    with open('data/charId.json','r',encoding='utf-8') as f:
         charIdDict = json.load(f)
     chatLogs = []
     source = os.path.join('chats', 'source')
@@ -81,6 +81,8 @@ def chatFunction():
                     name = charIdDict[i["characterId"]]
                 else:
                     name = "None"
+                    if i.get('characterId'):
+                        print(f"missing name for characterId: {i.get('characterId')}")
                 log.append([name,i['msg']])
             with open(outputMd,'w') as f:
                 for i in log:
