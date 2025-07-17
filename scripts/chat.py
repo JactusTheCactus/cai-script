@@ -37,7 +37,7 @@ def chatFunction():
         print(
         re.sub(
         r"(.*)(?:-\d+)?",
-        r"\1",
+        r"<\1>",
         basename
         )
         #.split("&")
