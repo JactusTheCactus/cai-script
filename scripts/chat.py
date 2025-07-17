@@ -56,7 +56,6 @@ def chatFunction():
                 for entry in data if next(iter(entry)) != 'user_name'
             ]
             for i in extracted_data:
-                print(i)
                 if i[0] == 'You':
                     i[0] = user
                 else:
