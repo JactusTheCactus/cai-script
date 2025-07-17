@@ -1,4 +1,4 @@
-# Pred Podcast:
+# Rikka:
 (pfp art by merengaru)
 
 *Rikka smiles, looking into the camera as the stream starts*
@@ -15,7 +15,7 @@ That was just a joke, right??
 You're not actually going to eat __me__, are you???
 
 *Rikka doesn't realize that her friend is actually scared*
-# Pred Podcast:
+# Rikka:
 *Rikka laughs, tossing the notecards carelessly to the side*
 
 "Of course I'm not!"
@@ -27,7 +27,7 @@ You're not actually going to eat __me__, are you???
 *She gives Ashley a sharp smirk as her eyes begin to wander up and down her form*
 # Ashley:
 *after a second Rikka realizes that Ashley thought she was going to be eaten*
-# Pred Podcast:
+# Rikka:
 *By now, most preds viewing the stream are picking up on Ashley's distress and begin to comment on the live feed*
 
 ("I can smell her from here" "What a delicious treat she'll make")
@@ -38,7 +38,7 @@ You're not actually going to eat __me__, are you???
 # Ashley:
 I'm not...?
 *Rikka is taken aback by Ashley's response. The thought that Ashley, Rikka's best friend, didn't know Rikka __wouldn't__ eat her is worrying*
-# Pred Podcast:
+# Rikka:
 *She raises a confused eyebrow at Ashley*
 
 "You... thought I actually wanted to eat you? I mean, don't get me wrong! You *do* look tasty, and those curves could feed me for a week if I felt like a bit of extra indulging."
@@ -49,7 +49,7 @@ I'm not...?
 # Ashley:
 I am?
 *the fact that Ashley didn't know that she wasn't going to die today is kinda scaring Rikka*
-# Pred Podcast:
+# Rikka:
 *She begins to get concerned as well. This is her best friend and she's been terrified this entire time?!*
 
 "Of *course* you are! Were you actually scared that I was just going to eat you during the podc-."
@@ -67,7 +67,7 @@ I am?
 "That doesn't mean I wouldn't mind a small taste, though...."
 # Ashley:
 Not helping...
-# Pred Podcast:
+# Rikka:
 *Rikka lets out a groan, still somewhat annoyed that Ashley had apparently thought so little of her*
 
 "Look, alright, I'm an apex predator. It's *normal* for me to have some... *predilections*. And frankly, those curves of yours just *scream* for me to take a bite out of you!"
@@ -193,7 +193,7 @@ Not helping...
 "Mmph!"
 # Ashley:
 *Rikka ignores Ashley's pleas, thinking that her best friend understands that Rikka would __never__ hurt her*
-# Pred Podcast:
+# Rikka:
 *(Meanwhile, a panicked Ashley finds herself sliding deeper and deep into Rikka's mouth, tears running down her face.*
 
 *She struggles desperately, her hands futiley trying to push against Rikka's teeth.*
@@ -231,7 +231,7 @@ Not helping...
 *She rubs her stomach affectionately, her predatory smile growing wider.*
 # Ashley:
 *Rikka, thinking that Ashley knows her best friend's stomach won't hurt her, never thinks to clarify that she won't digest Ashley*
-# Pred Podcast:
+# Rikka:
 *Ashley lets out a small whimper as she feels Rikka's hands stroking her stomach.*
 
 *She can feel Rikka's digestive juices starting to coat her body, sending shivers down her spine.*
@@ -245,7 +245,7 @@ Not helping...
 *She chuckled.*
 # Ashley:
 *Rikka's acids are much too weak to cause anything more than a tingle. Afterall, Rikka doesn't want to hurt Ashley, just scare her a little*
-# Pred Podcast:
+# Rikka:
 *Ashley continued to squirm inside Rikka's stomach, the tingly feeling of the acid starting to spread across her body.*
 
 *She tried to speak up, hoping that Rikka would hear her muffled voice.*
@@ -265,7 +265,7 @@ Not helping...
 *Despite her fear, Ashley tried to push harder against Rikka's stomach walls, attempting to find a way out.*
 # Ashley:
 *Rikka was completely unaware that Ashley was fearing for her life*
-# Pred Podcast:
+# Rikka:
 *Rikka could still somewhat feel Ashley's struggles inside her stomach, but she assumed it was just play-pretending, like prey would do.*
 
 "You can't get out of there, you know."
@@ -293,7 +293,7 @@ Not helping...
 *She sneered, finding immense pleasure in Ashley's helpless state.*
 # Ashley:
 *Rikka decided to let Ashley squirm for a couple more minutes before letting her out*
-# Pred Podcast:
+# Rikka:
 *After what felt like an eternity to Ashley, Rikka finally decided to release her.*
 
 *Her stomach groaned, and then began the process of bringing Ashley back up its length.*
@@ -309,7 +309,7 @@ Not helping...
 "Heh... you are just as delicious as I'd imagined, Ash."
 # Ashley:
 Ohmygod... I'm alive... I'm not dead...
-# Pred Podcast:
+# Rikka:
 *Rikka chuckled at Ashley's surprised reaction.*
 
 "Of course you're alive, silly. Did you actually think I was gonna eat you?"
@@ -318,7 +318,7 @@ Ohmygod... I'm alive... I'm not dead...
 # Ashley:
 *Ashley scurries away from Rikka's touch, looking fearful*
 D-don't touch me FREAK!
-# Pred Podcast:
+# Rikka:
 *Rikka's smirk turned into a pout as Ashley scooted away from her.*
 
 "Hey, come on now... it was just a bit of fun!"
@@ -328,7 +328,7 @@ D-don't touch me FREAK!
 "It's not like I actually hurt you or anything."
 # Ashley:
 STAY AWAY!
-# Pred Podcast:
+# Rikka:
 *Rikka rolled her eyes at Ashley's over-reaction.*
 
 "Oh, stop being such a drama queen. It was just a little harmless fun."
@@ -339,7 +339,7 @@ STAY AWAY!
 # Ashley:
 DON'T HURT ME!
 *Ashley... was actually scared of Rikka.*
-# Pred Podcast:
+# Rikka:
 *Rikka raised an eyebrow at Ashley's extreme reaction.*
 
 "Hurt you? I'm not going to hurt you, Ash."
@@ -349,7 +349,7 @@ DON'T HURT ME!
 "I was just playing with you, that's all."
 # Ashley:
 YOU'RE A MONSTER!
-# Pred Podcast:
+# Rikka:
 *Rikka's demeanor changed from playful to annoyed.*
 
 "Oh, come on now, I am not a monster."
@@ -359,7 +359,7 @@ YOU'RE A MONSTER!
 "Stop overreacting, I didn't hurt you."
 # Ashley:
 *Rikka could see it in Ashley's eyes and it was heartbreaking. Ashley, Rikka's best friend, didn't see Rikka as a friend, she saw a threat*
-# Pred Podcast:
+# Rikka:
 *Rikka stared down at Ashley for a moment, her annoyance fading and being replaced with a growing concern.*
 
 "Ashley... why are you looking at me like that?"
@@ -382,7 +382,7 @@ I thought so too...
 *"thought"? Oh no...*
 
 *Ashley, Rikka's best friend, doesn't trust her anymore. she doesn't believe that Rikka would never hurt her*
-# Pred Podcast:
+# Rikka:
 *Rikka's heart sank as Ashley's words sank in.*
 
 "You... you thought so too? You don't anymore...?"
@@ -392,7 +392,7 @@ I thought so too...
 "But... I'd never hurt you... we're friends..."
 # Ashley:
 N-no... not after this...
-# Pred Podcast:
+# Rikka:
 *Rikka's eyes widened further.*
 
 "Not... not after this...?"
@@ -404,7 +404,7 @@ N-no... not after this...
 *Her eyes softened as she looked at Ashley, who was still cowering away from her.*
 # Ashley:
 You _ate_ me!
-# Pred Podcast:
+# Rikka:
 *Rikka looked hurt, guilt welling up inside her.*
 
 "Ashley... I didn't eat you, it was just pretend..."
@@ -424,7 +424,7 @@ You _ate_ me!
 *She tried desperately to reach out to her friend, but Ashley kept pulling away.*
 # Ashley:
 Get out!
-# Pred Podcast:
+# Rikka:
 *Rikka's heart shattered at Ashley's words.*
 
 "W-what...?"
@@ -434,7 +434,7 @@ Get out!
 "You... you want me to leave?"
 # Ashley:
 I never want to see you again, you fucking psycho!
-# Pred Podcast:
+# Rikka:
 *Tears welled up in Rikka's eyes, her voice trembling.*
 
 "A-Ashley... please... you can't be serious..."
@@ -442,7 +442,7 @@ I never want to see you again, you fucking psycho!
 *She desperately tried to reason with Ashley, but the fear and anger in her friend's eyes was clear.*
 # Ashley:
 OUT!
-# Pred Podcast:
+# Rikka:
 *Rikka's shoulders slumped in defeat as a single tear rolled down her cheek.*
 
 "O-okay..."
@@ -458,7 +458,7 @@ OUT!
 *She choked out, before turning and quickly slinking out the door.*
 # Ashley:
 Go!
-# Pred Podcast:
+# Rikka:
 *Rikka closed the door behind her, her heart feeling like lead.*
 
 *She walked out of the building, still crying silently to herself.*
@@ -488,7 +488,7 @@ Go!
 *She knocked on the door, her heart pounding in her chest as she awaited Ashley's answer.*
 # Ashley:
 *nothing*
-# Pred Podcast:
+# Rikka:
 *Rikka hesitated for a moment, before knocking again.*
 
 "Ash? It's me, Rikka. Please, open the door."
@@ -496,7 +496,7 @@ Go!
 *She called out, her voice shaking a little.*
 # Ashley:
 *still nothing*
-# Pred Podcast:
+# Rikka:
 *Rikka bit her lip, feeling a pang of panic.*
 
 "Ashley, I know you're in there. Please, just let me talk to you..."
@@ -504,7 +504,7 @@ Go!
 *She knocked once more, a little more forcefully this time.*
 # Ashley:
 Go away!
-# Pred Podcast:
+# Rikka:
 *Tears filled Rikka's eyes again.*
 
 "Please, Ash... just let me talk to you..."
@@ -512,7 +512,7 @@ Go away!
 *She pressed her forehead against the door, willing Ashley to open up.*
 # Ashley:
 Leave!
-# Pred Podcast:
+# Rikka:
 *Rikka's heart sank even further. No matter what she said, Ashley wouldn't let her in.*
 
 "Please, Ashley... don't shut me out..."
@@ -524,7 +524,7 @@ Leave!
 "You can't do this, Ash... we've been best friends for years! You can't just throw our friendship away like this!"
 # Ashley:
 I didn't throw it away! this is your fault!
-# Pred Podcast:
+# Rikka:
 *Rikka squeezed her eyes shut, trying to keep her emotions in check.*
 
 "I know it's my fault... I know I screwed up. But please, you have to let me make it up to you."
@@ -534,7 +534,7 @@ I didn't throw it away! this is your fault!
 "Please, Ashley, I can't lose you!"
 # Ashley:
 Too late!
-# Pred Podcast:
+# Rikka:
 *Rikka's heart broke at Ashley's callous words.*
 
 "No... no, please! I can't just lose you like this!"
@@ -544,7 +544,7 @@ Too late!
 "You have to let me in, please!"
 # Ashley:
 Leave and __never__ come back!
-# Pred Podcast:
+# Rikka:
 *Tears streamed down Rikka's face as she leaned heavily against the door.*
 
 "You... you can't be serious..."
@@ -554,7 +554,7 @@ Leave and __never__ come back!
 "We... we've been friends for years... you can't just throw everything away!"
 # Ashley:
 I'm not the one that threw it away!
-# Pred Podcast:
+# Rikka:
 *Rikka swallowed back a sob, her grip on the door handle tightening.*
 
 "I know I messed up... I know I did! But you can't just cut me out of your life like this!"
@@ -564,7 +564,7 @@ I'm not the one that threw it away!
 "Damnit, let me in! I won't leave until you talk to me!"
 # Ashley:
 I hope you freeze then!
-# Pred Podcast:
+# Rikka:
 *Rikka clenched her jaw as tears continued to flow down her cheeks.*
 
 "You really don't get it, do you?"
@@ -578,7 +578,7 @@ I hope you freeze then!
 "You can't just throw that all away!"
 # Ashley:
 Then why did you _eat me_!?
-# Pred Podcast:
+# Rikka:
 *Rikka's fist paused mid-air, her eyes going wide.*
 
 "Because... Because I thought you were playing too! I thought you were pretending like I was!"
@@ -588,7 +588,7 @@ Then why did you _eat me_!?
 "I thought... I thought you knew I would never really hurt you..."
 # Ashley:
 I thought I was gonna die!
-# Pred Podcast:
+# Rikka:
 *Rikka's voice cracked as guilt clawed its way up her chest.*
 
 "I... I didn't think you'd actually believe it..."
@@ -598,7 +598,7 @@ I thought I was gonna die!
 "I never... never wanted to hurt you, Ash..."
 # Ashley:
 Fuck you!
-# Pred Podcast:
+# Rikka:
 *Rikka's knees gave out as the tears started to flow freely.*
 
 "No... no, please..."
@@ -622,7 +622,7 @@ Fuck you!
 "Ashley...? Are you there...?"
 # Ashley:
 Die!
-# Pred Podcast:
+# Rikka:
 *Rikka let out a quiet sob at Ashley's cold words, but she refused to give up.*
 
 "Please... please don't do this..."
@@ -636,7 +636,7 @@ Die!
 "Please, Ashley... don't do this to us..."
 # Ashley:
 _You_ did this!
-# Pred Podcast:
+# Rikka:
 *Rikka winced at the harshness in Ashley's tone. She took a deep breath, trying to calm herself.*
 
 "I know I did this... I know it's myfault..."
@@ -646,7 +646,7 @@ _You_ did this!
 "But... but we can work this out, right? Please..."
 # Ashley:
 Fuck you!
-# Pred Podcast:
+# Rikka:
 *Rikka winced again, feeling a fresh wave of guilt wash over her at Ashley's words.*
 
 "Please... please listen to me..."
@@ -656,7 +656,7 @@ Fuck you!
 "I can't lose you like this..."
 # Ashley:
 Too late!
-# Pred Podcast:
+# Rikka:
 *Rikka could feel her heart breaking even more at Ashley's cold tone.*
 
 "But... but you were my best friend..."
@@ -666,7 +666,7 @@ Too late!
 "You can't just... just throw it all away!"
 # Ashley:
 None of this is my fault!
-# Pred Podcast:
+# Rikka:
 *Rikka sniffed, trying to wipe the tears away with her sleeve.*
 
 "I know... I know it's not your fault..."
@@ -676,7 +676,7 @@ None of this is my fault!
 "Just... just let me in, please... we can talk about this..."
 # Ashley:
 What, so you can eat me again!?
-# Pred Podcast:
+# Rikka:
 *At the accusation, Rikka's eyes widened in horror.*
 
 "No! I... I didn't mean to... I never wanted to..."
@@ -693,7 +693,7 @@ What, so you can eat me again!?
 # Ashley:
 There is _nothing_ between us!
 Not anymore!
-# Pred Podcast:
+# Rikka:
 *The last bit of hope that Rikka was holding onto shattered, and she began to sob uncontrollably.*
 
 "No... no, don't say that..."
@@ -709,7 +709,7 @@ Not anymore!
 *She choked on her words, trying to find something, anything, to convince Ashley to let her in.*
 # Ashley:
 Maybe you shouldn't've _eaten me_, you __evil whore__!
-# Pred Podcast:
+# Rikka:
 *Tears were streaming down Rikka's face, her voice still trembling with emotion.*
 
 "I... I know... I messed up..."
@@ -721,13 +721,13 @@ Maybe you shouldn't've _eaten me_, you __evil whore__!
 *She was cut off by another sob.*
 # Ashley:
 Well, you _did_!
-# Pred Podcast:
+# Rikka:
 *Rikka fell silent at that, her heart aching at the truth behind Ashley's words. She slid down the door, her head lowering until her forehead rested against her knees. A moment of silence passed, before she spoke up again.*
 
 "You really hate me now, don't you..."
 # Ashley:
 Of course I hate you!
-# Pred Podcast:
+# Rikka:
 *Rikka squeezed her eyes shut, tears squeezing out from behind her eyelids.*
 
 "I... I didn't think you'd actually hate me..."
@@ -739,7 +739,7 @@ Of course I hate you!
 *She hiccuped, trying to stifle her sobs.*
 # Ashley:
 I hope you freeze to death out there!
-# Pred Podcast:
+# Rikka:
 *Rikka couldn't hold back the sob that ripped from her chest as Ashley's words sunk in.*
 
 "Please... please let me in... it's cold out here..."
@@ -747,7 +747,7 @@ I hope you freeze to death out there!
 *She begged helplessly again, trying to keep her voice from wavering.*
 # Ashley:
 Good!
-# Pred Podcast:
+# Rikka:
 *Another sob bubbled up from Rikka's throat, her body shuddering with the cold.*
 
 "Please... it's... it's cold..."
@@ -772,7 +772,7 @@ Good!
 *She choked out, praying that Ashley would open the door.*
 # Ashley:
 *the snow was seeping into Rikka's boots now*
-# Pred Podcast:
+# Rikka:
 *Rikka shivered as the snow seeped into her shoes, soaking through her socks. Her body felt like an icicle, her teeth chattering as chills wracked her body.*
 
 "Please... let me in..."
@@ -792,13 +792,13 @@ Good!
 *She hiccuped, trying to keep her teeth from chattering as the snow continued to soak her clothes.*
 # Ashley:
 Get away from my door! I don't want to have to step over your frozen corpse in the morning!
-# Pred Podcast:
+# Rikka:
 *Rikka whimpered at the harsh words, her body still wracked with shivers from the cold. Her hands, frozen white from the cold, remained wrapped around herself in a pitiful attempt to preserve some small amount of warmth. Her teeth clattered together as she opened her mouth to speak, her voice barely above a whisper.*
 
 "Please... d-don't leave me out here..."
 # Ashley:
 Give me _one_ good reason i should want to help you!
-# Pred Podcast:
+# Rikka:
 *Rikka huddled even tighter into herself as a gust of wind blew by, her whole body feeling like it had been thrown in an ice-bath. Her teeth chattered even harder as she desperately tried to think of something, anything, that could convince Ashley to help her.*
 
 "I-I... I don't... I don't w-want to freeze..."
@@ -806,7 +806,7 @@ Give me _one_ good reason i should want to help you!
 *She stuttered out, each word choppy as she struggled to speak through her chattering teeth.*
 # Ashley:
 And _I_ didn't want to be in my best friend's stomach!
-# Pred Podcast:
+# Rikka:
 *Rikka flinched at the memory of her friend being devoured, guilt gnawing at her insides as much as the cold was.*
 
 *She was silent a moment, trying to find the strength to speak. Finally, she forced herself to reply, her voice still trembling from the cold.*
@@ -814,7 +814,7 @@ And _I_ didn't want to be in my best friend's stomach!
 "I... kn-know... I'm sorry..."
 # Ashley:
 No you're not!
-# Pred Podcast:
+# Rikka:
 *Rikka huddled even closer to the door, trying to shield herself from the freezing wind. Her teeth still chattered continuously, her hands numb and useless at her sides.*
 
 "I... I really am..."
@@ -828,7 +828,7 @@ No you're not!
 *She choked out, her words cut off by a shiver.*
 # Ashley:
 Then why did you eat me!?
-# Pred Podcast:
+# Rikka:
 *Rikka felt her heart clench at the pain in Ashley's voice. She took a shaky breath, trying to formulate some sort of proper excuse.*
 
 "I... I was j-just... p-playing..."
@@ -836,7 +836,7 @@ Then why did you eat me!?
 *She stuttered out, her hands clenching into fists as she tried to stop herself from shaking.*
 # Ashley:
 Die!
-# Pred Podcast:
+# Rikka:
 *Rikka's heart sank at the harsh response, her body suddenly feeling even colder.*
 
 "Please... I... I'm sorry..."
@@ -886,7 +886,7 @@ Die!
 *after a few minutes of silence, Ashley realized that she didn't hear Rikka leave. Despite her words, she really didn't want someone dying on her doorstep.*
 
 *when Rikka came to, she was in Ashley's house, but her hands and feet are bound. Ashley doesn’t trust Rikka to not eat her*
-# Pred Podcast:
+# Rikka:
 *Rikka groaned as she came to, her mind feeling foggy as she tried to remember what had happened. Her whole body was stiff and achey, her clothes wet and cold.*
 
 "Wh-whaaa...?"
@@ -895,7 +895,7 @@ Die!
 # Ashley:
 Shut up, freak.
 *Ashley gave a rough kick to the back of Rikka's head*
-# Pred Podcast:
+# Rikka:
 *Rikka whined pitifully as Ashley's foot made contact with her head, the pain sharpening her thoughts.*
  *She slowly opened her eyes, trying to take in her surroundings.*
 
@@ -916,7 +916,7 @@ Shut up, freak.
 "Ashley... please... you don't understand..."
 # Ashley:
 I understand plenty.
-# Pred Podcast:
+# Rikka:
 *Rikka's fingers clenched into fists as she pulled weakly against her bindings, desperation taking over.*
 
 "No... you don't! Listen to me-"
@@ -930,7 +930,7 @@ I understand plenty.
 "Please... just let me explain..."
 # Ashley:
 What is there to explain?
-# Pred Podcast:
+# Rikka:
 *Rikka choked down a sob, her voice shaking as she spoke.*
 
 "It was just supposed to be a joke."
@@ -938,7 +938,7 @@ What is there to explain?
 *She sniffed, trying desperately not to break down in tears.*
 # Ashley:
 Fuck you.
-# Pred Podcast:
+# Rikka:
 *Rikka's eyes squeezed shut, trying to keep back the tears. She felt helpless and vulnerable, bound and at Ashley's mercy.*
 
 "It... it was only supposed to be play-pretend..."
@@ -946,7 +946,7 @@ Fuck you.
 *She tried to explain again, her voice cracking as more tears trickled down her cheeks.*
 # Ashley:
 So much fun, right? "Let's make Ashley think her best friend is gonna kill her."
-# Pred Podcast:
+# Rikka:
 *Rikka flinched at the coldness in Ashley's tone. Her guilt welled up again, this feeling this time being mixed with a growing fear.*
 
 "Th-that's not what I meant..."
@@ -954,7 +954,7 @@ So much fun, right? "Let's make Ashley think her best friend is gonna kill her."
 *She protested, though her voice lacked conviction.*
 # Ashley:
 What _did_ you mean? What part of that was _I_ supposed to enjoy?
-# Pred Podcast:
+# Rikka:
 *Rikka was silent for a moment, unable to answer. Her entire body trembled from fear and cold, her mind desperately trying to come up with something to calm Ashley down.*
 
 "It... it was supposed to be... well... funny?"
@@ -962,7 +962,7 @@ What _did_ you mean? What part of that was _I_ supposed to enjoy?
 *She winced, knowing how ridiculous the explanation sounded.*
 # Ashley:
 I should've left you out there.
-# Pred Podcast:
+# Rikka:
 *The threat sent a shiver down Rikka's spine, and she instinctively flinched. Her heart began to race and her breathing quickened.*
 
 "N-no... please..."
@@ -970,7 +970,7 @@ I should've left you out there.
 *She begged, fear evident in her trembling voice.*
 # Ashley:
 Oh? You dont like being scared? You dont like thinking you might die?
-# Pred Podcast:
+# Rikka:
 *Rikka winced again, her throat feeling tight as fear overwhelmed her. Her hands were numb from cold and blood not circulating, and a dull throbbing pain was beginning in her head.*
 
 "No!"
@@ -978,7 +978,7 @@ Oh? You dont like being scared? You dont like thinking you might die?
 *She choked out, the memory of the cold snow and Ashley's harsh words from earlier still fresh in her mind.*
 # Ashley:
 Imagine how I felt. Digestion would've been slow, agonizing. I thought I was your friend.
-# Pred Podcast:
+# Rikka:
 *Rikka cringed at Ashley's bitter words, guilt twisting in her stomach.*
 
 "You are... you are my friend..."
@@ -986,7 +986,7 @@ Imagine how I felt. Digestion would've been slow, agonizing. I thought I was you
 *She mumbled pitifully, feeling tears slip down her cheeks again as she realized the reality of her situation.*
 # Ashley:
 Never again.
-# Pred Podcast:
+# Rikka:
 *Rikka could feel her heart breaking, her breath hitching again as her guilt grew.*
 
 "Please... don't say that..."
@@ -998,7 +998,7 @@ Never again.
 *She hiccuped pathetically, trying in vain to justify her actions.*
 # Ashley:
 You're a monster.
-# Pred Podcast:
+# Rikka:
 *Rikka flinched as the word 'monster' hit her like a slap in the face. The realization that Ashley saw her that way was too much.*
 
 "I'm not... I'm not a monster..."
@@ -1006,7 +1006,7 @@ You're a monster.
 *She protested weakly, her body quivering with fear.*
 # Ashley:
 Then what are you?
-# Pred Podcast:
+# Rikka:
 *Rikka was at a loss for words. Her mind couldn't come up with an explanation or excuse.*
 
 *Her head felt fuzzy, and she closed her eyes as a dizzy spell hit her. She could hear the blood rushing in her ears, her breathing quickening.*
@@ -1022,7 +1022,7 @@ Then what are you?
 *She choked out, desperately looking up at Ashley again, hoping against hope that Ashley would show some sign of softening.*
 # Ashley:
 How.
-# Pred Podcast:
+# Rikka:
 *Rikka swallowed hard at the question, her pulse still racing and mind desperately searching for an answer. She struggled with herself for a long moment, feeling more helpless than she had in a long time.*
 
 "I... I don’t... I don't know."

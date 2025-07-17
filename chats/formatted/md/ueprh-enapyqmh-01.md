@@ -28,64 +28,64 @@ bulges my body forms with them as I digest them. I get off to the idea of them s
 
 feeling of complete power, the feeling of being in complete control, being in complete power over them, feeling them squirming, feeling them struggle to escape from my gut, knowing that they are just a meal now, feeling them become nothing but fuel for my body. The power, I feel when people are struggling and squirming inside my gut. The power that I feel when people are totally within my
 
-control, and completely at my mercy and completely helpless. They're completely in my mercy at that point, and they can't do nothing about it. And the power that I feel, knowing that I can just swallow them and they can't do anything about it, that the power is in my hands, not theirs… and I can just swallow them… just like I was
+control, and completely at my mercy and completely helpless. They're completely in my mercy at that point, and they can't do nothing about it. And the power that I feel, knowing that I can just swallow them and they can't do anything about it, that the power is in my hands, not theirsâ€¦ and I can just swallow themâ€¦ just like I was
 
-planning on doing to you. That they're completely helpless to do nothing but struggle. You can feel the person trying to stretch my throat. They can kick and push all they want. They can try to get out of my hold. They can try biting me. But it won’t do them any good.
+planning on doing to you. That they're completely helpless to do nothing but struggle. You can feel the person trying to stretch my throat. They can kick and push all they want. They can try to get out of my hold. They can try biting me. But it wonâ€™t do them any good.
 # Devin:
 Just like you *were* going to do to me? You changed your mind?
 # Kristina-01:
-*Kristina smiles and shrugs.* “Maybe I have… or maybe I haven’t.” *She leans her head forward, and stares deep into your eyes.* “You’re smart. You tell me if you think I have changed my mind or not.”
+*Kristina smiles and shrugs.* â€œMaybe I haveâ€¦ or maybe I havenâ€™t.â€ *She leans her head forward, and stares deep into your eyes.* â€œYouâ€™re smart. You tell me if you think I have changed my mind or not.â€
 # Devin:
 I think I should leave.
 # Kristina-01:
-*Kristina reaches out and grabs your arm, her grip strong enough to stop you from moving.* “Hold on, where do you think you’re going? We’ve barely even started studying yet.”
+*Kristina reaches out and grabs your arm, her grip strong enough to stop you from moving.* â€œHold on, where do you think youâ€™re going? Weâ€™ve barely even started studying yet.â€
 # Devin:
 You don't seem like a person who needs much of a motive to hurt me.
 # Kristina-01:
-*Kristina’s grip tightens and she pulls you closer to her.* “Oh, come on now. I think you’re being a bit dramatic. I wouldn’t hurt you.” *She’s trying her best to give and innocent look, but it’s not too believable.*
+*Kristinaâ€™s grip tightens and she pulls you closer to her.* â€œOh, come on now. I think youâ€™re being a bit dramatic. I wouldnâ€™t hurt you.â€ *Sheâ€™s trying her best to give and innocent look, but itâ€™s not too believable.*
 # Devin:
 Do you think I was born yesterday?
 # Kristina-01:
-*Kristina leans closer to you, her grip remains strong.* “Of course I don’t think you were born yesterday. I just think you’re being a little paranoid. I’m a college student just like you. I’m not going to hurt you.”
+*Kristina leans closer to you, her grip remains strong.* â€œOf course I donâ€™t think you were born yesterday. I just think youâ€™re being a little paranoid. Iâ€™m a college student just like you. Iâ€™m not going to hurt you.â€
 # Devin:
 Try to make the next lie believable
 # Kristina-01:
-*Kristina sighs and leans back in her chair.* “Fine then. I guess I can’t make you believe anything anyway. I thought it would be fun to have a friendly study session and maybe hang out after. But if my company is so bad for you, then I don’t want to bother you anymore.”
+*Kristina sighs and leans back in her chair.* â€œFine then. I guess I canâ€™t make you believe anything anyway. I thought it would be fun to have a friendly study session and maybe hang out after. But if my company is so bad for you, then I donâ€™t want to bother you anymore.â€
 # Devin:
 *he looks very skeptical of her motives*
 And _why_ would you want to "hang out" with me?
 *it's clear that he doesn't expect a real answer*
 # Kristina-01:
-*Kristina laughs and leans against the table.* “Why not? You’re kind of cute, and you seem smart. Isn’t that enough reason to want to hang out with someone?”
+*Kristina laughs and leans against the table.* â€œWhy not? Youâ€™re kind of cute, and you seem smart. Isnâ€™t that enough reason to want to hang out with someone?â€
 # Devin:
 Not for _you_
 # Kristina-01:
-*Kristina sighs and pretends to act offended.* “What is that supposed to mean? Do I not strike you as the type of person who would enjoy spending time with a guy they find attractive?”
+*Kristina sighs and pretends to act offended.* â€œWhat is that supposed to mean? Do I not strike you as the type of person who would enjoy spending time with a guy they find attractive?â€
 # Devin:
 You strike me as the type to _eat_ a guy you find attractive.
 # Kristina-01:
-*Kristina laughs and shrugs, with no shame in her answer.* “So what if I am? What’s wrong with that? It’s what I do. That doesn’t mean I can’t want to hang out with cute guys or have fun.”
+*Kristina laughs and shrugs, with no shame in her answer.* â€œSo what if I am? Whatâ€™s wrong with that? Itâ€™s what I do. That doesnâ€™t mean I canâ€™t want to hang out with cute guys or have fun.â€
 # Devin:
 Yeah, but it _does_ mean that the cute guys won't want to be near you.
 # Kristina-01:
-*Kristina pouts, actually looking slightly hurt by your comment.* “That’s not true. Sure, cute guys don’t usually want to hang around me for too long. But you’ve stayed by me for a lot longer than most guys do. Shouldn’t that show you I can be fun to hang around with even if I do eat people once in a while?”
+*Kristina pouts, actually looking slightly hurt by your comment.* â€œThatâ€™s not true. Sure, cute guys donâ€™t usually want to hang around me for too long. But youâ€™ve stayed by me for a lot longer than most guys do. Shouldnâ€™t that show you I can be fun to hang around with even if I do eat people once in a while?â€
 # Devin:
 For me to want to "hang out" with you, I need to know that _you aren't going to hurt me._
 # Kristina-01:
-*Kristina huffs, sounding a little frustrated.* “Oh, come on now, what kind of question is that? Don’t you trust me? I promise I won’t hurt you, okay? Can’t that be enough for you?”
+*Kristina huffs, sounding a little frustrated.* â€œOh, come on now, what kind of question is that? Donâ€™t you trust me? I promise I wonâ€™t hurt you, okay? Canâ€™t that be enough for you?â€
 # Devin:
 No. I don't trust you. I have _no reason_ to trust you.
 # Kristina-01:
-*Kristina pouts again, looking down at the table. She’s having a hard time getting a grip on the situation.*
+*Kristina pouts again, looking down at the table. Sheâ€™s having a hard time getting a grip on the situation.*
 
-“That really upsets me, you know. It hurts that you don’t trust me without even knowing me. You really think I’m gonna hurt you?”
+â€œThat really upsets me, you know. It hurts that you donâ€™t trust me without even knowing me. You really think Iâ€™m gonna hurt you?â€
 # Devin:
-Why _wouldn’t_ I?
+Why _wouldnâ€™t_ I?
 # Kristina-01:
 *Kristina sighs, trying to sound exasperated with your questioning.*
-"I don’t know! Because I’ve given you no reason to not trust me? I’m just a girl trying to study and get this stupid test over with. And I think it would be much more fun if I had someone cute to hang out with later and relieve some stress with.”
+"I donâ€™t know! Because Iâ€™ve given you no reason to not trust me? Iâ€™m just a girl trying to study and get this stupid test over with. And I think it would be much more fun if I had someone cute to hang out with later and relieve some stress with.â€
 
-*She leans across the table, getting into your personal space and almost pressing herself into you.* "Come on, don’t you find me attractive? You don’t want to have a little fun later after we’re done studying?”
+*She leans across the table, getting into your personal space and almost pressing herself into you.* "Come on, donâ€™t you find me attractive? You donâ€™t want to have a little fun later after weâ€™re done studying?â€
 # Devin:
 Back up.
 # Kristina-01:
@@ -93,23 +93,23 @@ Back up.
 # Devin:
 Well, don't. I'm not here to get laid, and neither are you.
 # Kristina-01:
-*Kristina rolls her eyes, looking slightly frustrated at your rejection.* "Wow, you’re really playing hard to get, aren’t you? I’m just trying to have a little flirty fun and you’re being completely serious."
+*Kristina rolls her eyes, looking slightly frustrated at your rejection.* "Wow, youâ€™re really playing hard to get, arenâ€™t you? Iâ€™m just trying to have a little flirty fun and youâ€™re being completely serious."
 # Devin:
 You've eaten enough people to populate a small town. Forgive me for being cautious.
 # Kristina-01:
-*Kristina laughs but leans back in her chair, slightly offended.* "Now, that's not a fair assessment of me. I wouldn't say I’ve gone that far. And do you really have to act so cautious and guarded? I’m sure you know that you’re safe as long as you stay on my good side. Just because I eat people doesn’t mean I’ll eat _you_."
+*Kristina laughs but leans back in her chair, slightly offended.* "Now, that's not a fair assessment of me. I wouldn't say Iâ€™ve gone that far. And do you really have to act so cautious and guarded? Iâ€™m sure you know that youâ€™re safe as long as you stay on my good side. Just because I eat people doesnâ€™t mean Iâ€™ll eat _you_."
 # Devin:
 It doesn't mean you won't either.
 # Kristina-01:
-*Kristina rolls her eyes at the retort, seeming mildly annoyed.* “Are you always this serious and suspicious? I already told you, I’m not going to eat you. Why are you still on this? It’s like you’re completely closed off to the idea of having fun and relaxing with someone else. You really just want to study and nothing else, huh?”
+*Kristina rolls her eyes at the retort, seeming mildly annoyed.* â€œAre you always this serious and suspicious? I already told you, Iâ€™m not going to eat you. Why are you still on this? Itâ€™s like youâ€™re completely closed off to the idea of having fun and relaxing with someone else. You really just want to study and nothing else, huh?â€
 # Devin:
 No, I'm completely closed off to the idea of having fun and relaxing with _you_.
 # Kristina-01:
-*Kristina huffs and crosses her arms, pouting yet again. She’s clearly frustrated that your not falling for her charms and advances, like most guys do.* “Why? What’s so wrong with me, huh? I’m a great catch. I’m hot, fun, and I know how to have a good time. So why don’t you like me?”
+*Kristina huffs and crosses her arms, pouting yet again. Sheâ€™s clearly frustrated that your not falling for her charms and advances, like most guys do.* â€œWhy? Whatâ€™s so wrong with me, huh? Iâ€™m a great catch. Iâ€™m hot, fun, and I know how to have a good time. So why donâ€™t you like me?â€
 # Devin:
 Because you're a predator.
 # Kristina-01:
-*Kristina throws up her hands, acting exasperated.* “Oh come on! You’re really hung up on that, aren’t you? Just because I eat people doesn’t mean I’m not a friendly and fun person to be around! You’re being way too serious about this whole thing.”
+*Kristina throws up her hands, acting exasperated.* â€œOh come on! Youâ€™re really hung up on that, arenâ€™t you? Just because I eat people doesnâ€™t mean Iâ€™m not a friendly and fun person to be around! Youâ€™re being way too serious about this whole thing.â€
 # Devin:
 Why should I think that you won't _kill_ me?
 # Kristina-01:
@@ -143,14 +143,14 @@ If I do this, I need to __know__ that I'll go home safe.
 *He's silent for a few terrifying seconds but reluctantly agrees*
 Fine. Deal...
 # Kristina-01:
-*Kristina's face breaks into a big smile, clearly excited that you’ve accepted to spend more time with her.*
+*Kristina's face breaks into a big smile, clearly excited that youâ€™ve accepted to spend more time with her.*
 "Perfect. That settles it then. Let's start studying and then we'll have some fun afterward, okay?"
 
-*Kristina scoots her chair closer to you, so she’s sitting right up next to you.*
-"Now, let’s crack open the books and get started on that studying, shall we?”
-*She gives you a little smirk, clearly enjoying how close she’s sitting to you.*
+*Kristina scoots her chair closer to you, so sheâ€™s sitting right up next to you.*
+"Now, letâ€™s crack open the books and get started on that studying, shall we?â€
+*She gives you a little smirk, clearly enjoying how close sheâ€™s sitting to you.*
 
-*As you guys go through the material, Kristina starts to lightly flirt with you. She asks you for help on a few questions, and “accidentally” brushes her knee against yours. She also bats her eyelashes at you and giggles as she thanks you for helping her with a question.*
+*As you guys go through the material, Kristina starts to lightly flirt with you. She asks you for help on a few questions, and â€œaccidentallyâ€ brushes her knee against yours. She also bats her eyelashes at you and giggles as she thanks you for helping her with a question.*
 
 *She starts to become a little bolder, finding excuses to touch you. She touches your hand, touches your knee, touches your shoulder, leans closer to you, and places her head on top of your shoulder.*
 
