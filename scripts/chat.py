@@ -37,10 +37,10 @@ def chatFunction():
         print(
         re.sub(
         r"-\d+$",
-        r"%",
+        r"",
         basename
         )
-        #.split("&")
+        .split("&")
         )
         lowerList = basename.split("&")
         for name in lowerList:
